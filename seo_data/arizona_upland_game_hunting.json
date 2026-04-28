@@ -1,0 +1,2841 @@
+{
+  "id": "W27a",
+  "topic": "Arizona Upland Game Hunting Seasons: Quail, Dove, and More",
+  "primary_keyword": "arizona upland game hunting",
+  "slug": "arizona_upland_game_hunting",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282008-1118-0093-0000-1601a32ae7dc",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "arizona upland game hunting",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": null,
+            "categories": null,
+            "monthly_searches": null
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282008-1118-0090-0000-3d8348adf7fb",
+        "status_code": 20000,
+        "result_count": 4,
+        "result": [
+          {
+            "keyword": "arizona upland game hunting",
+            "search_volume": null
+          },
+          {
+            "keyword": "arizona upland bird hunting",
+            "search_volume": 10,
+            "competition": 0,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 40
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 20
+              }
+            ]
+          },
+          {
+            "keyword": "chukar hunting arizona",
+            "search_volume": 20,
+            "competition": 0.01
+          },
+          {
+            "keyword": "chukar hunting in arizona",
+            "search_volume": 20,
+            "competition": 0.01
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282008-1118-0139-0000-15817c298ad4",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "arizona upland game hunting",
+            "se_results_count": 132,
+            "item_types": [
+              "ai_overview",
+              "organic",
+              "video",
+              "discussions_and_forums",
+              "people_also_ask",
+              "related_searches"
+            ],
+            "items": [
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "www.azgfd.com",
+                "title": "Small game bird hunting species in Arizona",
+                "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/small-game-bird-hunting-species-in-arizona/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "projectupland.com",
+                "title": "Bird Hunting in Arizona, Scaled, Mearns, Gambel's Quail",
+                "url": "https://projectupland.com/quail-subspecies/gambels-quail/bird-hunting-arizona/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "www.divebombindustries.com",
+                "title": "Desert Birds: Upland Bird Hunting in Arizona",
+                "url": "https://www.divebombindustries.com/blogs/news/desert-birds-upland-bird-hunting-in-arizona"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "www.azgfd.com",
+                "title": "Hunting Regulations",
+                "url": "https://www.azgfd.com/hunting/regulations/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "lunaritaoutfitters.com",
+                "title": "Arizona Upland Hunts | Guided Quail & Dove Trips",
+                "url": "https://lunaritaoutfitters.com/arizona-upland-hunts/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "www.bordertoborderoutfitters.com",
+                "title": "Border to Border Outfitters | Upland Bird Hunting | AZ, MN, SD",
+                "url": "https://www.bordertoborderoutfitters.com/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "ultimateupland.com",
+                "title": "Arizona Bird Hunting",
+                "url": "https://ultimateupland.com/states/arizona/"
+              },
+              {
+                "type": "related_searches",
+                "items": [
+                  "Best arizona upland game hunting",
+                  "Arizona upland game hunting regulations",
+                  "Arizona upland game hunting outfitters",
+                  "Arizona upland game hunting map",
+                  "Arizona upland game hunting public land",
+                  "Arizona bird hunting seasons",
+                  "AZ hunting seasons dates",
+                  "Arizona hunting regulations pdf"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "arizona quail hunting season",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "5.6332 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282008-1118-0139-0000-9a5d0f558912",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "5.5018 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": [
+              "v3",
+              "serp",
+              "google",
+              "organic",
+              "live",
+              "advanced"
+            ],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "arizona quail hunting season",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20,
+              "calculate_rectangles": true,
+              "os": "windows"
+            },
+            "result": [
+              {
+                "keyword": "arizona quail hunting season",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=arizona%20quail%20hunting%20season&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "datetime": "2026-04-28 17:08:34 +00:00",
+                "spell": null,
+                "refinement_chips": null,
+                "item_types": [
+                  "ai_overview",
+                  "organic",
+                  "people_also_ask",
+                  "related_searches"
+                ],
+                "se_results_count": 944000,
+                "pages_count": 2,
+                "items_count": 24,
+                "items": [
+                  {
+                    "type": "ai_overview",
+                    "rank_group": 1,
+                    "rank_absolute": 1,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "asynchronous_ai_overview": true,
+                    "markdown": "![Drought hurts quail population, but state maintains hunting ...](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-9a5d0f558912:4)\nFor the 2025\u20132026 season, Arizona quail season (Gambel's, Scaled, and California) runs from **October 17, 2025, through February 8, 2026** . The specialized Mearns\u2019 quail season opens later, running from **December 5, 2025, through February 8, 2026** . The daily bag limit is 15 in aggregate, with a possession limit of 45.[[1]](https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/)[[2]](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/)[[3]](https://arizonaquailhuntingcamp.weebly.com/2025-2026-quail-journal.html)\n\n**Key Details for Arizona Quail Hunting:** \n\n- **Species:** Arizona offers hunting for Gambel\u2019s (statewide), Scaled (eastern), Mearns\u2019 (southern mountains), and California (valley) quail.\n- **Season Dates:** \n\t- **General Season (Gambel\u2019s/Scaled/California):** Oct. 17, 2025 \u2013 Feb. 8, 2026.\n\t- **Mearns' Quail Season:** Dec. 5, 2025 \u2013 Feb. 8, 2026.\n- **Limits:** Daily bag limit is 15 in total (no more than 8 can be Mearns'). Possession limit is 45 in total.\n- **Requirements:** A valid Arizona hunting license is required.\n- **Best Time:** While the season opens in October, serious Mearns' hunting typically begins in late November or December.[[1]](https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/)[[2]](https://projectupland.com/quail-subspecies/gambels-quail/bird-hunting-arizona/#:~:text=Arizona%20is%20known%20for%20its%20upland%20hunting%2C,December%201%2C%202023%20to%20February%2011%2C%202024.)[[3]](https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips)[[4]](https://www.saquailforever.com/arizona-quail-hunting-resources/)[[5]](https://arizonaquailhuntingcamp.weebly.com/spring-2025.html)[[6]](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/)\n\nIt is highly recommended to check the official [Arizona Game & Fish Department website](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/quail-hunting-in-arizona/) for the most current regulations and annual updates.[[1]](https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips)",
+                    "items": [
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": null,
+                        "text": "For the 2025\u20132026 season, Arizona quail season (Gambel's, Scaled, and California) runs from October 17, 2025, through February 8, 2026. The specialized Mearns\u2019 quail season opens later, running from December 5, 2025, through February 8, 2026. The daily bag limit is 15 in aggregate, with a possession limit of 45. Arizona Game & Fish Department +2",
+                        "markdown": "![Drought hurts quail population, but state maintains hunting ...](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-9a5d0f558912:2)\nFor the 2025\u20132026 season, Arizona quail season (Gambel's, Scaled, and California) runs from **October 17, 2025, through February 8, 2026** . The specialized Mearns\u2019 quail season opens later, running from **December 5, 2025, through February 8, 2026** . The daily bag limit is 15 in aggregate, with a possession limit of 45.[[1]](https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/)[[2]](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/)[[3]](https://arizonaquailhuntingcamp.weebly.com/2025-2026-quail-journal.html)",
+                        "links": null,
+                        "images": [
+                          {
+                            "type": "images_element",
+                            "alt": "Drought hurts quail population, but state maintains hunting ...",
+                            "url": null,
+                            "image_url": "https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-9a5d0f558912:3"
+                          }
+                        ],
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Arizona Game & Fish Department",
+                            "domain": "www.azgfd.com",
+                            "url": "https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/",
+                            "title": "Quail outlook: A challenging season ahead - Arizona Game & Fish Department",
+                            "text": "The 2025 quail season in Arizona has the following guidelines: * **General season** Opens Friday, October 17 and runs through Sund..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Arizona Game & Fish Department",
+                            "domain": "www.azgfd.com",
+                            "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/",
+                            "title": "Small Game Forecast - Arizona Game & Fish Department",
+                            "text": "Quail. Season Dates: Oct. 17, 2025-Feb. 8, 2026 (Gambel's, scaled, California). Also, Dec. 5, 2025-Feb. 8, 2026 (Montezuma, or Mea..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Weebly",
+                            "domain": "arizonaquailhuntingcamp.weebly.com",
+                            "url": "https://arizonaquailhuntingcamp.weebly.com/2025-2026-quail-journal.html",
+                            "title": "2025-2026 Quail Journal - Arizona Quail Hunting Camp Journal",
+                            "text": "2025-2026 Journal of Arizona Quail Reports. Desert Quail: Oct. 17 - Feb. 8, 2026. Mearns': Dec. 5 - Feb. 8, 2026."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": "Key Details for Arizona Quail Hunting:",
+                        "text": "Species: Arizona offers hunting for Gambel\u2019s (statewide), Scaled (eastern), Mearns\u2019 (southern mountains), and California (valley) quail. Season Dates: General Season (Gambel\u2019s/Scaled/California): Oct. 17, 2025 \u2013 Feb. 8, 2026. Mearns' Quail Season: Dec. 5, 2025 \u2013 Feb. 8, 2026. Limits: Daily bag limit is 15 in total (no more than 8 can be Mearns'). Possession limit is 45 in total. Requirements: A valid Arizona hunting license is required. Best Time: While the season opens in October, serious Mearns' hunting typically begins in late November or December.",
+                        "markdown": "- **Species:** Arizona offers hunting for Gambel\u2019s (statewide), Scaled (eastern), Mearns\u2019 (southern mountains), and California (valley) quail.\n- **Season Dates:** \n\t- **General Season (Gambel\u2019s/Scaled/California):** Oct. 17, 2025 \u2013 Feb. 8, 2026.\n\t- **Mearns' Quail Season:** Dec. 5, 2025 \u2013 Feb. 8, 2026.\n- **Limits:** Daily bag limit is 15 in total (no more than 8 can be Mearns'). Possession limit is 45 in total.\n- **Requirements:** A valid Arizona hunting license is required.\n- **Best Time:** While the season opens in October, serious Mearns' hunting typically begins in late November or December.[[1]](https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/)[[2]](https://projectupland.com/quail-subspecies/gambels-quail/bird-hunting-arizona/#:~:text=Arizona%20is%20known%20for%20its%20upland%20hunting%2C,December%201%2C%202023%20to%20February%2011%2C%202024.)[[3]](https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips)[[4]](https://www.saquailforever.com/arizona-quail-hunting-resources/)[[5]](https://arizonaquailhuntingcamp.weebly.com/spring-2025.html)[[6]](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/)",
+                        "links": null,
+                        "images": null,
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Arizona Game & Fish Department",
+                            "domain": "www.azgfd.com",
+                            "url": "https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/",
+                            "title": "Quail outlook: A challenging season ahead - Arizona Game & Fish Department",
+                            "text": "The 2025 quail season in Arizona has the following guidelines: * **General season** Opens Friday, October 17 and runs through Sund..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Project Upland",
+                            "domain": "projectupland.com",
+                            "url": "https://projectupland.com/quail-subspecies/gambels-quail/bird-hunting-arizona/#:~:text=Arizona%20is%20known%20for%20its%20upland%20hunting%2C,December%201%2C%202023%20to%20February%2011%2C%202024.",
+                            "title": "Bird Hunting in Arizona, Scaled, Mearns, Gambel's Quail, Chukar, Grouse, and Pheasant",
+                            "text": "Arizona is known for its upland hunting, especially quail. There are four species of quail available for hunting in Arizona: * **G..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Dive Bomb Industries",
+                            "domain": "www.divebombindustries.com",
+                            "url": "https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips",
+                            "title": "Quail Hunting in Arizona: Mearns, Scaled, and Gambel Tips",
+                            "text": "Quail season in Arizona typically begins in early October for Gambel's and Scaled quail and runs into February. Mearns' quail seas..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Southern Arizona Quail Forever",
+                            "domain": "www.saquailforever.com",
+                            "url": "https://www.saquailforever.com/arizona-quail-hunting-resources/",
+                            "title": "Arizona Quail Hunting Resources",
+                            "text": "Arizona has four species of quail, three of which have huntable populations. Arizona has one of the longest quail hunting seasons ..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Weebly",
+                            "domain": "arizonaquailhuntingcamp.weebly.com",
+                            "url": "https://arizonaquailhuntingcamp.weebly.com/spring-2025.html",
+                            "title": "Spring 2025 - Arizona Quail Hunting Camp Journal",
+                            "text": "Spring/Summer 2025 Journal. Desert Quail: Oct. 17, 2025 - Feb. 8, 2026. Mearns': Dec. 5, 2025 - Feb. 8, 2026. Feb. 16, 2025 Lookin..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Arizona Game & Fish Department",
+                            "domain": "www.azgfd.com",
+                            "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/",
+                            "title": "Small Game Forecast - Arizona Game & Fish Department",
+                            "text": "Quail. Season Dates: Oct. 17, 2025-Feb. 8, 2026 (Gambel's, scaled, California). Also, Dec. 5, 2025-Feb. 8, 2026 (Montezuma, or Mea..."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": null,
+                        "text": "General Season (Gambel\u2019s/Scaled/California): Oct. 17, 2025 \u2013 Feb. 8, 2026. Mearns' Quail Season: Dec. 5, 2025 \u2013 Feb. 8, 2026.",
+                        "markdown": "- **General Season (Gambel\u2019s/Scaled/California):** Oct. 17, 2025 \u2013 Feb. 8, 2026.\n- **Mearns' Quail Season:** Dec. 5, 2025 \u2013 Feb. 8, 2026.",
+                        "links": null,
+                        "images": null,
+                        "references": null
+                      },
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": null,
+                        "text": "It is highly recommended to check the official Arizona Game & Fish Department website for the most current regulations and annual updates.",
+                        "markdown": "It is highly recommended to check the official [Arizona Game & Fish Department website](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/quail-hunting-in-arizona/) for the most current regulations and annual updates.[[1]](https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips)",
+                        "links": [
+                          {
+                            "type": "link_element",
+                            "title": "Arizona Game & Fish Department website",
+                            "description": null,
+                            "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/quail-hunting-in-arizona/",
+                            "domain": "www.azgfd.com"
+                          }
+                        ],
+                        "images": null,
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Dive Bomb Industries",
+                            "domain": "www.divebombindustries.com",
+                            "url": "https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips",
+                            "title": "Quail Hunting in Arizona: Mearns, Scaled, and Gambel Tips",
+                            "text": "Mearns' quail season usually opens in December and ends in mid-February. A valid Arizona hunting license and a migratory bird stam..."
+                          }
+                        ]
+                      }
+                    ],
+                    "references": [
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Arizona Game & Fish Department",
+                        "domain": "www.azgfd.com",
+                        "url": "https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/",
+                        "title": "Quail outlook: A challenging season ahead - Arizona Game & Fish Department",
+                        "text": "The 2025 quail season in Arizona has the following guidelines: * **General season** Opens Friday, October 17 and runs through Sund..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Arizona Game & Fish Department",
+                        "domain": "www.azgfd.com",
+                        "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/",
+                        "title": "Small Game Forecast - Arizona Game & Fish Department",
+                        "text": "Quail. Season Dates: Oct. 17, 2025-Feb. 8, 2026 (Gambel's, scaled, California). Also, Dec. 5, 2025-Feb. 8, 2026 (Montezuma, or Mea..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Weebly",
+                        "domain": "arizonaquailhuntingcamp.weebly.com",
+                        "url": "https://arizonaquailhuntingcamp.weebly.com/2025-2026-quail-journal.html",
+                        "title": "2025-2026 Quail Journal - Arizona Quail Hunting Camp Journal",
+                        "text": "2025-2026 Journal of Arizona Quail Reports. Desert Quail: Oct. 17 - Feb. 8, 2026. Mearns': Dec. 5 - Feb. 8, 2026."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Southern Arizona Quail Forever",
+                        "domain": "www.saquailforever.com",
+                        "url": "https://www.saquailforever.com/arizona-quail-hunting-resources/",
+                        "title": "Arizona Quail Hunting Resources",
+                        "text": "Arizona has four species of quail, three of which have huntable populations. Arizona has one of the longest quail hunting seasons ..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Dive Bomb Industries",
+                        "domain": "www.divebombindustries.com",
+                        "url": "https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips",
+                        "title": "Quail Hunting in Arizona: Mearns, Scaled, and Gambel Tips",
+                        "text": "Quail season in Arizona typically begins in early October for Gambel's and Scaled quail and runs into February. Mearns' quail seas..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Project Upland",
+                        "domain": "projectupland.com",
+                        "url": "https://projectupland.com/quail-subspecies/gambels-quail/bird-hunting-arizona/#:~:text=Arizona%20is%20known%20for%20its%20upland%20hunting%2C,December%201%2C%202023%20to%20February%2011%2C%202024.",
+                        "title": "Bird Hunting in Arizona, Scaled, Mearns, Gambel's Quail, Chukar, Grouse, and Pheasant",
+                        "text": "Arizona is known for its upland hunting, especially quail. There are four species of quail available for hunting in Arizona: * **G..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Weebly",
+                        "domain": "arizonaquailhuntingcamp.weebly.com",
+                        "url": "https://arizonaquailhuntingcamp.weebly.com/spring-2025.html",
+                        "title": "Spring 2025 - Arizona Quail Hunting Camp Journal",
+                        "text": "Spring/Summer 2025 Journal. Desert Quail: Oct. 17, 2025 - Feb. 8, 2026. Mearns': Dec. 5, 2025 - Feb. 8, 2026. Feb. 16, 2025 Lookin..."
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 229.78,
+                      "y": 186,
+                      "width": 1100.44,
+                      "height": 384
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "rank_absolute": 2,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+                    "domain": "www.azgfd.com",
+                    "title": "Quail hunting in Arizona",
+                    "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/quail-hunting-in-arizona/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azgfd.com \u203a ... \u203a Species Hunt Information",
+                    "website_name": "Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Falconry-only season for quail started September 1. Falconers may take up to 3 quail per day, with a 9 quail possession limit, of which no more than 3 may be\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "season",
+                      "quail"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 606,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "people_also_ask",
+                    "rank_group": 1,
+                    "rank_absolute": 3,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]",
+                    "items": [
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "How many quail can you shoot in Arizona?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/quail-hunting-in-arizona/",
+                            "domain": "www.azgfd.com",
+                            "title": "Quail hunting in Arizona",
+                            "description": "The daily bag limit is 15 quail per day in the aggregate, of which no more than 8 may be Mearns' quail.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Where is the best place to hunt quail in Arizona?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips",
+                            "domain": "www.divebombindustries.com",
+                            "title": "Quail Hunting in Arizona: Mearns, Scaled, and Gambel Tips",
+                            "description": "Best Areas for Quail Hunting\n Gambel's Quail: Look to Sonoran desert habitat south and west of Phoenix, and around Tucson and Yuma.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Is 6 shot too big for quail?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.heartlandlodge.com/hunting-news/pheasant-quail/what-size-shot-do-i-need/",
+                            "domain": "www.heartlandlodge.com",
+                            "title": "What Size Shot do I Need for Upland Game? - Harpole's Heartland Lodge",
+                            "description": "In these instances, we have found it is better to use a 6 shot so it doesn't tear up the quail but will still knock down a pheasant.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Are there wild quail in Arizona?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.azgfd.com/species/quail/",
+                            "domain": "www.azgfd.com",
+                            "title": "Quail - Arizona Game & Fish Department",
+                            "description": "Quail hunters in Arizona spend the majority of their time pursuing three species of quail, Gambel's, scaled or Mearns'. A fourth, the California quail, receives little hunting pressure and is found along the Little Colorado River drainage near Springerville.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 752.53,
+                      "width": 652,
+                      "height": 247
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "rank_absolute": 4,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]",
+                    "domain": "www.azgfd.com",
+                    "title": "Quail outlook: A challenging season ahead",
+                    "url": "https://www.azgfd.com/2025/10/17/quail-outlook-a-challenging-season-ahead/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azgfd.com \u203a AZGFD News",
+                    "website_name": "Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Oct 17, 2025 \u2014 Montezuma, or Mearns', quail can be hunted starting Friday, Dec. 5, through Sunday, Feb. 8, 2026. The general bag limit is 15 quail per day in\u00a0... Read more",
+                    "pre_snippet": "10/17/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Friday, Dec. 5, through Sunday, Feb. 8, 2026"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-10-17 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1043.53,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "rank_absolute": 5,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]",
+                    "domain": "huntwise.com",
+                    "title": "A Guide to Quail Season in Arizona",
+                    "url": "https://huntwise.com/field-guide/small-game/the-guide-to-quail-season-in-arizona",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://huntwise.com \u203a Media \u203a Blog",
+                    "website_name": "Huntwise",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Oct 10, 2024 \u2014 Generally, the quail season runs from October to February. However, regulations such as season dates, bag limits, and hunting zones can vary from year to year. Read more",
+                    "pre_snippet": "10/10/2024 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "October to February"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2024-10-10 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1190.06,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "rank_absolute": 6,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]",
+                    "domain": "huntinglocator.com",
+                    "title": "Arizona Hunting: Your 2025-2026 Season Guide",
+                    "url": "https://huntinglocator.com/blog/arizona-hunting-seasons/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://huntinglocator.com \u203a blog \u203a arizona-hunting-sea...",
+                    "website_name": "Hunting Locator",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "May 19, 2025 \u2014 Gambel's, Scaled, and California Quail: The season typically runs from mid-October to early February. The combined daily bag limit is usually 15\u00a0... Read more",
+                    "pre_snippet": "05/19/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "mid-October to early February"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-05-19 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1336.59,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "rank_absolute": 7,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[11]/div[1]/div[1]",
+                    "domain": "www.saquailforever.com",
+                    "title": "Arizona Quail Hunting Resources",
+                    "url": "https://www.saquailforever.com/arizona-quail-hunting-resources/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.saquailforever.com \u203a arizona-quail-hunting...",
+                    "website_name": "Southern Arizona Quail Forever",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Although Gambel's and Scaled Quail opens in October, most serious bird dog hunters don't start to hunt until late November when rattlesnakes head underground\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "October"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1483.13,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "rank_absolute": 8,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[13]/div[1]/div[1]",
+                    "domain": "www.divebombindustries.com",
+                    "title": "Quail Hunting in Arizona: Mearns, Scaled, and Gambel Tips",
+                    "url": "https://www.divebombindustries.com/blogs/news/quail-hunting-in-arizona-mearns-scaled-and-gambel-tips?srsltid=AfmBOopDvThhEiNv2lVrC4X_zM7jK8HYNdSE94IH2wktw4HS79VoK8Ns",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.divebombindustries.com \u203a blogs \u203a news \u203a q...",
+                    "website_name": "Dive Bomb Industries",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Jul 6, 2025 \u2014 Quail season in Arizona typically begins in early October for Gambel's and Scaled quail and runs into February. Mearns' quail season usually opens in December\u00a0... Read more",
+                    "pre_snippet": "07/06/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "early October for Gambel's and Scaled quail and runs into February"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-07-06 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1629.66,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "rank_absolute": 9,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[15]/div[1]/div[1]",
+                    "domain": "troutandquail.com",
+                    "title": "Arizona Quail hunting season",
+                    "url": "https://troutandquail.com/arizona-quail-hunting-season-2024-2025/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://troutandquail.com \u203a arizona-quail-hunting-season...",
+                    "website_name": "troutandquail.com",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The Arizona Quail hunting seasons for Gambels and Scaled Quail is Fall-Winter while the hunting season for Mearns Quail is late Fall to early Winter check\u00a0...",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Fall-Winter"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1776.19,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "rank_absolute": 10,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[17]/div[1]/div[1]",
+                    "domain": "www.facebook.com",
+                    "title": "With quail season just around the corner, ...",
+                    "url": "https://www.facebook.com/azgfd/posts/with-quail-season-just-around-the-corner-are-you-planning-your-next-hunting-adve/918628713629534/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "220+ reactions  \u00b7  1 year ago",
+                    "website_name": "Facebook\u00a0\u00b7\u00a0Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The Eastern Zone's season runs to January 31st and the Western Zone goes to February 10th. Quail are skillful flyers and will offer only quick\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "January 31st"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1922.72,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 9,
+                    "rank_absolute": 11,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[19]/div[1]/div[1]",
+                    "domain": "projectupland.com",
+                    "title": "Bird Hunting in Arizona, Scaled, Mearns, Gambel's Quail, ...",
+                    "url": "https://projectupland.com/quail-subspecies/gambels-quail/bird-hunting-arizona/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://projectupland.com \u203a gambels-quail \u203a bird-huntin...",
+                    "website_name": "Project Upland",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The season for Gambel's, scaled, and California quail runs from October 13, 2023 to February 11, 2024 with a daily bag limit of 15. The season for Mearns' runs\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "October 13, 2023 to February 11, 2024"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2069.25,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 10,
+                    "rank_absolute": 12,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[21]/div[1]/div[1]",
+                    "domain": "ultimateupland.com",
+                    "title": "Arizona Bird Hunting",
+                    "url": "https://ultimateupland.com/states/arizona/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://ultimateupland.com \u203a states \u203a arizona",
+                    "website_name": "Ultimate Upland",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Quail (Gambel's, Scaled, and California Quail). Season Dates: October 17, 2025 \u2013 February 8, 2026 \u00b7 Mearns' Quail. Season Dates: December 5, 2025 \u2013 February 8,\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Season Dates: October 17, 2025 \u2013 February 8, 2026"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2215.78,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 1,
+                    "rank_absolute": 13,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Arizona quail hunting maps",
+                      "Arizona quail hunting guides",
+                      "Where is the best quail hunting in Arizona",
+                      "Arizona quail species",
+                      "Gambel quail season az",
+                      "Mearns quail Arizona",
+                      "When does quail season start",
+                      "Arizona quail season 2025 2026"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2390.31,
+                      "width": 652,
+                      "height": 240
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 11,
+                    "rank_absolute": 14,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "doubleaeroguides.com",
+                    "title": "Arizona Guided Quail Hunts",
+                    "url": "https://doubleaeroguides.com/arizona-quail-hunting-guide-rates",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://doubleaeroguides.com \u203a arizona-quail-hunting-g...",
+                    "website_name": "Double Aero Guides",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Arizona Gambel's Quail Season \u00b7 October 16th 2026\u2014February 7th 2027 \u00b7 MUST BE ABLE TO HIKE 6-10 MILES A DAY IN RUGGED TERRAIN AT ELEVATIONS OF 4000-5000FT. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "October 16th 2026\u2014February 7th 2027"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 184,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 12,
+                    "rank_absolute": 15,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "www.davebrownoutfitters.com",
+                    "title": "Arizona Quail Hunting Guides",
+                    "url": "https://www.davebrownoutfitters.com/wingshooting/arizona-quail-hunting-guides/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.davebrownoutfitters.com \u203a wingshooting",
+                    "website_name": "Dave Brown Outfitters",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The Arizona Quail Hunting season opens in Mid -October and generally its is to hot and snaky.We suggest booking an Arizona Quail hunt from mid to late November\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Mid -October"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 330,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 13,
+                    "rank_absolute": 16,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                    "domain": "www.azgfd.com",
+                    "title": "Small Game Forecast",
+                    "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/small-game-forecast/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azgfd.com \u203a ... \u203a Species Hunt Information",
+                    "website_name": "Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Quail. Season Dates: Oct. 17, 2025-Feb. 8, 2026 (Gambel's, scaled, California). Also, Dec. 5, 2025-Feb. 8, 2026 (Montezuma, or Mearns'). ... which no more than\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Oct. 17, 2025-Feb. 8, 2026"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 476,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 14,
+                    "rank_absolute": 17,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "www.arizonahuntingforums.com",
+                    "title": "Arizona Quail December 2024",
+                    "url": "https://www.arizonahuntingforums.com/threads/arizona-quail-december-2024.26246/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.arizonahuntingforums.com \u203a threads \u203a ariz...",
+                    "website_name": "Arizona Hunting Forums",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Jul 27, 2024 \u2014 Quail Hunter said: Mearns season is TBD, AZ G&F Commission expects to set dates in Sep. My email address is soazqf@gmail.com\u00a0... Read more",
+                    "pre_snippet": "07/27/2024 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Quail",
+                      "season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2024-07-27 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 622,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 15,
+                    "rank_absolute": 18,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                    "domain": "www.azcentral.com",
+                    "title": "Drought drags down Arizona quail, but hunting season ...",
+                    "url": "https://www.azcentral.com/story/news/local/arizona-environment/2025/09/09/drought-takes-toll-on-gambels-scaled-and-mearns-quail-as-arizona-hunt-approaches/86048939007/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azcentral.com \u203a news \u203a local \u203a 2025/09/09",
+                    "website_name": "The Arizona Republic",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Sep 9, 2025 \u2014 Dry conditions have reduced quail reproduction, leading to fears that hunting this fall and winter could jeopardize future populations.",
+                    "pre_snippet": "09/09/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "quail",
+                      "hunting"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-09-09 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 768,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 16,
+                    "rank_absolute": 19,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "huntwise.com",
+                    "title": "Guide to Arizona Hunting Seasons 2026",
+                    "url": "https://huntwise.com/field-guide/state-hunting-guide/the-guide-to-arizona-hunting-seasons-2024",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://huntwise.com \u203a Media \u203a Blog",
+                    "website_name": "Huntwise",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Youth: October 3 \u2013 12, 2025 or November 21 \u2013 30, 2025 \u00b7 General: Dates vary starting October 10 thru December 31, 2025. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "October 3 \u2013 12, 2025"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 914,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 17,
+                    "rank_absolute": 20,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                    "domain": "arizonaquailhuntingcamp.weebly.com",
+                    "title": "Arizona Quail Hunting Recommendations",
+                    "url": "https://arizonaquailhuntingcamp.weebly.com/tips-hunting-ariz-quail.html",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://arizonaquailhuntingcamp.weebly.com \u203a tips-hunti...",
+                    "website_name": "Weebly",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Early season can be a problem keeping the dogs cool. If possible, hunt near a water source so they can get wet and cool down. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Early season can be a problem keeping the dogs cool"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1060,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 18,
+                    "rank_absolute": 21,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+                    "domain": "www.azgfd.com",
+                    "title": "Quail",
+                    "url": "https://www.azgfd.com/species/quail/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azgfd.com \u203a Species",
+                    "website_name": "Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Hunting History. In 1909, the territorial legislature limited quail hunting to an open season of October 16 through January 31, an arrangement that was\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "quail hunting",
+                      "season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1206,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 19,
+                    "rank_absolute": 22,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "Arizona Mearns Quail-Wild Upland Season 1 Ep. 9",
+                    "url": "https://www.youtube.com/watch?v=bd62SduX3XE",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "13.4K+ views  \u00b7  8 months ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0Gun Dog Magazine",
+                    "is_image": false,
+                    "is_video": true,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "This is a hunt for two unique species of quail. This is a hunt in some of the Southwest's most spectacular scenery.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": null,
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-08-26 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1352,
+                      "width": 652,
+                      "height": 163
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 20,
+                    "rank_absolute": 23,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "uploads-ssl.webflow.com",
+                    "title": "Arizona quail season 2024 2025 schedule",
+                    "url": "https://uploads-ssl.webflow.com/65f0476b4e5459764b3af30b/681cf5fbafc122963e0631ac_vujatitaba.pdf",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://uploads-ssl.webflow.com \u203a ...",
+                    "website_name": "Webflow",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "May 8, 2025 \u2014 The Mearns' Quail has a different open season date: December 6, 2024 - February 9, 2025 (statewide, including San Bernardino National Wildlife\u00a0... Read more",
+                    "pre_snippet": "05/08/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "December 6, 2024 - February 9, 2025"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-05-08 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1545,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 2,
+                    "rank_absolute": 24,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Arizona quail hunting maps",
+                      "Arizona quail hunting guides",
+                      "Where is the best quail hunting in Arizona",
+                      "Arizona quail species",
+                      "Gambel quail season az",
+                      "Mearns quail Arizona",
+                      "When does quail season start",
+                      "Arizona quail season 2025 2026"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1719,
+                      "width": 652,
+                      "height": 240
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "arizona dove hunting season",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "4.5909 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282008-1118-0139-0000-a7ccb3ac7a66",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "4.4773 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": [
+              "v3",
+              "serp",
+              "google",
+              "organic",
+              "live",
+              "advanced"
+            ],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "arizona dove hunting season",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20,
+              "calculate_rectangles": true,
+              "os": "windows"
+            },
+            "result": [
+              {
+                "keyword": "arizona dove hunting season",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=arizona%20dove%20hunting%20season&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "datetime": "2026-04-28 17:08:42 +00:00",
+                "spell": null,
+                "refinement_chips": null,
+                "item_types": [
+                  "ai_overview",
+                  "organic",
+                  "people_also_ask",
+                  "images",
+                  "related_searches"
+                ],
+                "se_results_count": 4320000,
+                "pages_count": 2,
+                "items_count": 24,
+                "items": [
+                  {
+                    "type": "ai_overview",
+                    "rank_group": 1,
+                    "rank_absolute": 1,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "asynchronous_ai_overview": true,
+                    "markdown": "Arizona dove season generally features an early season from **September 1\u201315** and a late season, typically running from late November to early January . The daily bag limit is 15 total, with a 45-bird possession limit (max 10 white-winged daily), while Eurasian collared-doves have no limits. A valid Arizona hunting license and a [Migratory Bird Stamp](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/) are required for hunters aged 18+.[[1]](https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove)[[2]](https://www.buckeyeaz.gov/residents/police/hunting-and-shooting)[[3]](https://www.visitgilabend.org/post/the-dove-hunt-is-on)\n\n**Key Season Details** \n\n- **Early Season:** September 1st\u201315th.\n- **Late Season:** November 21st\u2013January 4th (typical).\n- **Eurasian Collared-Dove:** Year-round with unlimited daily and possession limits.[[1]](https://www.facebook.com/azgfd/posts/early-dove-season-ends-today-sept-15-at-legal-sunset-what-were-some-of-your-favo/1173544198137983/#:~:text=Opening%20day%20of%20dove%20season%20is%20just,for%20what%20is%20hopefully%20another%20great%20hunt?)[[2]](https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove)[[3]](https://www.visitgilabend.org/post/the-dove-hunt-is-on)[[4]](https://www.buckeyeaz.gov/residents/police/hunting-and-shooting)\n\n**Regulations & Requirements** \n\n- **Limits:** Daily bag limit is 15, with a maximum of 10 white-winged doves per day.\n- **Possession Limit:** 45 total doves after opening day.\n- **License:** Hunters 18+ need an Arizona hunting license and a Migratory Bird Stamp.\n- **Requirements:** Must participate in the Harvest Information Program (HIP).\n- **Safety:** Do not shoot within 1/4 mile of an occupied structure, road, or railway.[[1]](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/#:~:text=Here%20are%20some%20do's%20and%20don'ts%20for,violations%20to%20Operation%20Game%20Thief%2C%20800%20352-0700)[[2]](https://www.buckeyeaz.gov/residents/police/hunting-and-shooting)[[3]](https://www.visitgilabend.org/post/the-dove-hunt-is-on)\n\n**Popular Hunting Areas** \n\n- **[Robbins Butte Wildlife Area](https://www.google.com/search?q=Robbins+Butte+Wildlife+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBA):** A popular spot near Buckeye.\n- **[Powers Butte Wildlife Area](https://www.google.com/search?q=Powers+Butte+Wildlife+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBI):** Popular location in Buckeye.\n- **[Arlington Wildlife Area](https://www.google.com/search?q=Arlington+Wildlife+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBQ):** Located in Buckeye.\n- **[Yuma Area](https://www.google.com/search?q=Yuma+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBY):** Known as a premier location in southwest Arizona.[[1]](https://storymaps.arcgis.com/stories/1105cba27ddf4df797df35961e672608)[[2]](https://www.facebook.com/buckeyeaz.gov/videos/opening-day-of-dove-season-is-almost-herestarting-september-1-hunters-from-acros/649129774410533/)[[3]](https://www.pheasantsforever.org/BlogLanding/Blogs/Pheasants-Forever/A-Dove%E2%80%99s-Dream-in-the-Desert.aspx)\n\nIt is highly recommended to check for updates on the Arizona Game and Fish Department website before heading out.[[1]](https://www.azgfd.com/2023/07/11/dove-band-tailed-pigeon-regulations-online/#:~:text=All%20hunters%2018%20and%20older%20must%20possess,which%20can%20be%20purchased%20now%20at%20www.azgfd.com/license/.)[](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/#:~:text=Here%20are%20some%20do's%20and%20don'ts%20for,violations%20to%20Operation%20Game%20Thief%2C%20800%20352-0700) Dove hunting in Arizona Here are some do's and don'ts for dove hunting: * Do not shoot within \u00bc mile (440 yards) of an occupied structure without the resi...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:0)\nArizona Game & Fish Department[](https://www.azgfd.com/2023/07/11/dove-band-tailed-pigeon-regulations-online/#:~:text=All%20hunters%2018%20and%20older%20must%20possess,which%20can%20be%20purchased%20now%20at%20www.azgfd.com/license/.) 2023-2024 dove, band-tailed pigeon regs online - Arizona Game & ...All hunters 18 and older must possess a valid Arizona hunting license, as well as a migratory bird stamp for the 2023-2024 season ...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:1)\nArizona Game & Fish Department[](https://storymaps.arcgis.com/stories/1105cba27ddf4df797df35961e672608) Dove Hunting in Buckeye, Arizona Some of the best dove hunting areas include: * **Robbins Butte Wildlife Area** * **Powers Butte Wildlife Area** * **Arlington Wild...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:2)\nArcGIS StoryMaps![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:3)\n[](https://www.facebook.com/azgfd/posts/early-dove-season-ends-today-sept-15-at-legal-sunset-what-were-some-of-your-favo/1173544198137983/#:~:text=Opening%20day%20of%20dove%20season%20is%20just,for%20what%20is%20hopefully%20another%20great%20hunt?) \"Early\" dove season ends today (Sept. 15) at legal sunset! What ...Opening day of dove season is just 5 months from today and our 1st crop of 2018 birds is just about ready to leave the nest, I saw...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:4)\nFacebook![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:5)\n[](https://www.pheasantsforever.org/BlogLanding/Blogs/Pheasants-Forever/A-Dove%E2%80%99s-Dream-in-the-Desert.aspx) Yuma is a mecca for early season dove hunting Yuma, Arizona is a mecca for early season dove hunting. The town of just under 100,000 is located in the southwest corner of the s...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:6)\nPheasants Forever![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:7)\n[](https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove) Yuma Dove Hunting Information - Sprague's Sports - Gun Store, Indoor Shooting Range, and CCW in Yuma, AZ Other places to hunt dove include: * **Texas Hill** Includes many different farms and abundant public lands * **Wellton** Includes...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:8)\nSprague's Sports![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:9)\n[](https://www.facebook.com/buckeyeaz.gov/videos/opening-day-of-dove-season-is-almost-herestarting-september-1-hunters-from-acros/649129774410533/) ![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:10)\n2m Opening day of dove season is almost here! Starting September 1 ...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:11)\nFacebook\u00b7Buckeye, AZ City Government[](https://www.buckeyeaz.gov/residents/police/hunting-and-shooting) Hunting and Shooting in Buckeye Here are some regulations for dove hunting in Arizona: * The 15-day early season begins 30 minutes before legal sunrise on Septemb...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:12)\nCity of Buckeye (.gov)![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:13)\n[](https://www.visitgilabend.org/post/the-dove-hunt-is-on) The Dove Hunt Is On Here are some regulations for dove hunting in Arizona: * **License and stamp** Hunters age 18 and older must participate in the Ha...![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:14)\nvisit-gila-bend![](https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:15)",
+                    "items": [
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": null,
+                        "text": "Arizona dove season generally features an early season from September 1\u201315 and a late season, typically running from late November to early January. The daily bag limit is 15 total, with a 45-bird possession limit (max 10 white-winged daily), while Eurasian collared-doves have no limits. A valid Arizona hunting license and a Migratory Bird Stamp are required for hunters aged 18+. Sprague's Sports +2",
+                        "markdown": "Arizona dove season generally features an early season from **September 1\u201315** and a late season, typically running from late November to early January . The daily bag limit is 15 total, with a 45-bird possession limit (max 10 white-winged daily), while Eurasian collared-doves have no limits. A valid Arizona hunting license and a [Migratory Bird Stamp](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/) are required for hunters aged 18+.[[1]](https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove)[[2]](https://www.buckeyeaz.gov/residents/police/hunting-and-shooting)[[3]](https://www.visitgilabend.org/post/the-dove-hunt-is-on)",
+                        "links": [
+                          {
+                            "type": "link_element",
+                            "title": "Migratory Bird Stamp",
+                            "description": null,
+                            "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/",
+                            "domain": "www.azgfd.com"
+                          }
+                        ],
+                        "images": null,
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Sprague's Sports",
+                            "domain": "www.spragues.com",
+                            "url": "https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove",
+                            "title": "Yuma Dove Hunting Information - Sprague's Sports - Gun Store, Indoor Shooting Range, and CCW in Yuma, AZ",
+                            "text": "Other places to hunt dove include: * **Texas Hill** Includes many different farms and abundant public lands * **Wellton** Includes..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "City of Buckeye (.gov)",
+                            "domain": "www.buckeyeaz.gov",
+                            "url": "https://www.buckeyeaz.gov/residents/police/hunting-and-shooting",
+                            "title": "Hunting and Shooting in Buckeye",
+                            "text": "Here are some regulations for dove hunting in Arizona: * The 15-day early season begins 30 minutes before legal sunrise on Septemb..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "visit-gila-bend",
+                            "domain": "www.visitgilabend.org",
+                            "url": "https://www.visitgilabend.org/post/the-dove-hunt-is-on",
+                            "title": "The Dove Hunt Is On",
+                            "text": "Here are some regulations for dove hunting in Arizona: * **License and stamp** Hunters age 18 and older must participate in the Ha..."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": "Key Season Details",
+                        "text": "Early Season: September 1st\u201315th. Late Season: November 21st\u2013January 4th (typical). Eurasian Collared-Dove: Year-round with unlimited daily and possession limits.",
+                        "markdown": "- **Early Season:** September 1st\u201315th.\n- **Late Season:** November 21st\u2013January 4th (typical).\n- **Eurasian Collared-Dove:** Year-round with unlimited daily and possession limits.[[1]](https://www.facebook.com/azgfd/posts/early-dove-season-ends-today-sept-15-at-legal-sunset-what-were-some-of-your-favo/1173544198137983/#:~:text=Opening%20day%20of%20dove%20season%20is%20just,for%20what%20is%20hopefully%20another%20great%20hunt?)[[2]](https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove)[[3]](https://www.visitgilabend.org/post/the-dove-hunt-is-on)[[4]](https://www.buckeyeaz.gov/residents/police/hunting-and-shooting)",
+                        "links": null,
+                        "images": null,
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Facebook",
+                            "domain": "www.facebook.com",
+                            "url": "https://www.facebook.com/azgfd/posts/early-dove-season-ends-today-sept-15-at-legal-sunset-what-were-some-of-your-favo/1173544198137983/#:~:text=Opening%20day%20of%20dove%20season%20is%20just,for%20what%20is%20hopefully%20another%20great%20hunt?",
+                            "title": "\"Early\" dove season ends today (Sept. 15) at legal sunset! What ...",
+                            "text": "Opening day of dove season is just 5 months from today and our 1st crop of 2018 birds is just about ready to leave the nest, I saw..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Sprague's Sports",
+                            "domain": "www.spragues.com",
+                            "url": "https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove",
+                            "title": "Yuma Dove Hunting Information - Sprague's Sports - Gun Store, Indoor Shooting Range, and CCW in Yuma, AZ",
+                            "text": "Other places to hunt dove include: * **Texas Hill** Includes many different farms and abundant public lands * **Wellton** Includes..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "visit-gila-bend",
+                            "domain": "www.visitgilabend.org",
+                            "url": "https://www.visitgilabend.org/post/the-dove-hunt-is-on",
+                            "title": "The Dove Hunt Is On",
+                            "text": "Here are some regulations for dove hunting in Arizona: * **License and stamp** Hunters age 18 and older must participate in the Ha..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "City of Buckeye (.gov)",
+                            "domain": "www.buckeyeaz.gov",
+                            "url": "https://www.buckeyeaz.gov/residents/police/hunting-and-shooting",
+                            "title": "Hunting and Shooting in Buckeye",
+                            "text": "Here are some regulations for dove hunting in Arizona: * The 15-day early season begins 30 minutes before legal sunrise on Septemb..."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": "Regulations & Requirements",
+                        "text": "Limits: Daily bag limit is 15, with a maximum of 10 white-winged doves per day. Possession Limit: 45 total doves after opening day. License: Hunters 18+ need an Arizona hunting license and a Migratory Bird Stamp. Migratory Bird Stamp Requirements: Must participate in the Harvest Information Program (HIP). Harvest Information Program (HIP) Safety: Do not shoot within 1/4 mile of an occupied structure, road, or railway.",
+                        "markdown": "- **Limits:** Daily bag limit is 15, with a maximum of 10 white-winged doves per day.\n- **Possession Limit:** 45 total doves after opening day.\n- **License:** Hunters 18+ need an Arizona hunting license and a Migratory Bird Stamp.\n- **Requirements:** Must participate in the Harvest Information Program (HIP).\n- **Safety:** Do not shoot within 1/4 mile of an occupied structure, road, or railway.[[1]](https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/#:~:text=Here%20are%20some%20do's%20and%20don'ts%20for,violations%20to%20Operation%20Game%20Thief%2C%20800%20352-0700)[[2]](https://www.buckeyeaz.gov/residents/police/hunting-and-shooting)[[3]](https://www.visitgilabend.org/post/the-dove-hunt-is-on)",
+                        "links": null,
+                        "images": null,
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Arizona Game & Fish Department",
+                            "domain": "www.azgfd.com",
+                            "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/#:~:text=Here%20are%20some%20do's%20and%20don'ts%20for,violations%20to%20Operation%20Game%20Thief%2C%20800%20352-0700",
+                            "title": "Dove hunting in Arizona",
+                            "text": "Here are some do's and don'ts for dove hunting: * Do not shoot within \u00bc mile (440 yards) of an occupied structure without the resi..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "City of Buckeye (.gov)",
+                            "domain": "www.buckeyeaz.gov",
+                            "url": "https://www.buckeyeaz.gov/residents/police/hunting-and-shooting",
+                            "title": "Hunting and Shooting in Buckeye",
+                            "text": "Here are some regulations for dove hunting in Arizona: * The 15-day early season begins 30 minutes before legal sunrise on Septemb..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "visit-gila-bend",
+                            "domain": "www.visitgilabend.org",
+                            "url": "https://www.visitgilabend.org/post/the-dove-hunt-is-on",
+                            "title": "The Dove Hunt Is On",
+                            "text": "Here are some regulations for dove hunting in Arizona: * **License and stamp** Hunters age 18 and older must participate in the Ha..."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": "Popular Hunting Areas",
+                        "text": "Robbins Butte Wildlife Area : A popular spot near Buckeye. Powers Butte Wildlife Area : Popular location in Buckeye. Arlington Wildlife Area : Located in Buckeye. Yuma Area : Known as a premier location in southwest Arizona.",
+                        "markdown": "- **[Robbins Butte Wildlife Area](https://www.google.com/search?q=Robbins+Butte+Wildlife+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBA):** A popular spot near Buckeye.\n- **[Powers Butte Wildlife Area](https://www.google.com/search?q=Powers+Butte+Wildlife+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBI):** Popular location in Buckeye.\n- **[Arlington Wildlife Area](https://www.google.com/search?q=Arlington+Wildlife+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBQ):** Located in Buckeye.\n- **[Yuma Area](https://www.google.com/search?q=Yuma+Area&csui=3&hl=en&gl=US&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQgK4QegYIAQgBEBY):** Known as a premier location in southwest Arizona.[[1]](https://storymaps.arcgis.com/stories/1105cba27ddf4df797df35961e672608)[[2]](https://www.facebook.com/buckeyeaz.gov/videos/opening-day-of-dove-season-is-almost-herestarting-september-1-hunters-from-acros/649129774410533/)[[3]](https://www.pheasantsforever.org/BlogLanding/Blogs/Pheasants-Forever/A-Dove%E2%80%99s-Dream-in-the-Desert.aspx)",
+                        "links": null,
+                        "images": null,
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "ArcGIS StoryMaps",
+                            "domain": "storymaps.arcgis.com",
+                            "url": "https://storymaps.arcgis.com/stories/1105cba27ddf4df797df35961e672608",
+                            "title": "Dove Hunting in Buckeye, Arizona",
+                            "text": "Some of the best dove hunting areas include: * **Robbins Butte Wildlife Area** * **Powers Butte Wildlife Area** * **Arlington Wild..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Facebook",
+                            "domain": "www.facebook.com",
+                            "url": "https://www.facebook.com/buckeyeaz.gov/videos/opening-day-of-dove-season-is-almost-herestarting-september-1-hunters-from-acros/649129774410533/",
+                            "title": "Opening day of dove season is almost here! Starting September 1 ...",
+                            "text": "Hunters from across Arizona go to Buckeye's fields, farms, and wildlife areas for dove hunting. This location, a short drive from ..."
+                          },
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Pheasants Forever",
+                            "domain": "www.pheasantsforever.org",
+                            "url": "https://www.pheasantsforever.org/BlogLanding/Blogs/Pheasants-Forever/A-Dove%E2%80%99s-Dream-in-the-Desert.aspx",
+                            "title": "Yuma is a mecca for early season dove hunting",
+                            "text": "Yuma, Arizona is a mecca for early season dove hunting. The town of just under 100,000 is located in the southwest corner of the s..."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "ai_overview_element",
+                        "position": "left",
+                        "title": null,
+                        "text": "It is highly recommended to check for updates on the Arizona Game and Fish Department website before heading out. Arizona Game & Fish Department",
+                        "markdown": "It is highly recommended to check for updates on the Arizona Game and Fish Department website before heading out.[[1]](https://www.azgfd.com/2023/07/11/dove-band-tailed-pigeon-regulations-online/#:~:text=All%20hunters%2018%20and%20older%20must%20possess,which%20can%20be%20purchased%20now%20at%20www.azgfd.com/license/.)",
+                        "links": null,
+                        "images": null,
+                        "references": [
+                          {
+                            "type": "ai_overview_reference",
+                            "position": "left",
+                            "source": "Arizona Game & Fish Department",
+                            "domain": "www.azgfd.com",
+                            "url": "https://www.azgfd.com/2023/07/11/dove-band-tailed-pigeon-regulations-online/#:~:text=All%20hunters%2018%20and%20older%20must%20possess,which%20can%20be%20purchased%20now%20at%20www.azgfd.com/license/.",
+                            "title": "2023-2024 dove, band-tailed pigeon regs online - Arizona Game & ...",
+                            "text": "All hunters 18 and older must possess a valid Arizona hunting license, as well as a migratory bird stamp for the 2023-2024 season ..."
+                          }
+                        ]
+                      }
+                    ],
+                    "references": [
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Arizona Game & Fish Department",
+                        "domain": "www.azgfd.com",
+                        "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/#:~:text=Here%20are%20some%20do's%20and%20don'ts%20for,violations%20to%20Operation%20Game%20Thief%2C%20800%20352-0700",
+                        "title": "Dove hunting in Arizona",
+                        "text": "Here are some do's and don'ts for dove hunting: * Do not shoot within \u00bc mile (440 yards) of an occupied structure without the resi..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Arizona Game & Fish Department",
+                        "domain": "www.azgfd.com",
+                        "url": "https://www.azgfd.com/2023/07/11/dove-band-tailed-pigeon-regulations-online/#:~:text=All%20hunters%2018%20and%20older%20must%20possess,which%20can%20be%20purchased%20now%20at%20www.azgfd.com/license/.",
+                        "title": "2023-2024 dove, band-tailed pigeon regs online - Arizona Game & ...",
+                        "text": "All hunters 18 and older must possess a valid Arizona hunting license, as well as a migratory bird stamp for the 2023-2024 season ..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "ArcGIS StoryMaps",
+                        "domain": "storymaps.arcgis.com",
+                        "url": "https://storymaps.arcgis.com/stories/1105cba27ddf4df797df35961e672608",
+                        "title": "Dove Hunting in Buckeye, Arizona",
+                        "text": "Some of the best dove hunting areas include: * **Robbins Butte Wildlife Area** * **Powers Butte Wildlife Area** * **Arlington Wild..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Facebook",
+                        "domain": "www.facebook.com",
+                        "url": "https://www.facebook.com/azgfd/posts/early-dove-season-ends-today-sept-15-at-legal-sunset-what-were-some-of-your-favo/1173544198137983/#:~:text=Opening%20day%20of%20dove%20season%20is%20just,for%20what%20is%20hopefully%20another%20great%20hunt?",
+                        "title": "\"Early\" dove season ends today (Sept. 15) at legal sunset! What ...",
+                        "text": "Opening day of dove season is just 5 months from today and our 1st crop of 2018 birds is just about ready to leave the nest, I saw..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Pheasants Forever",
+                        "domain": "www.pheasantsforever.org",
+                        "url": "https://www.pheasantsforever.org/BlogLanding/Blogs/Pheasants-Forever/A-Dove%E2%80%99s-Dream-in-the-Desert.aspx",
+                        "title": "Yuma is a mecca for early season dove hunting",
+                        "text": "Yuma, Arizona is a mecca for early season dove hunting. The town of just under 100,000 is located in the southwest corner of the s..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Sprague's Sports",
+                        "domain": "www.spragues.com",
+                        "url": "https://www.spragues.com/dove-hunting.html#:~:text=Other%20places%20to%20hunt%20dove%20include:%20*,4th%20*%20**Year%20round**%20Eurasian%20Collared%20Dove",
+                        "title": "Yuma Dove Hunting Information - Sprague's Sports - Gun Store, Indoor Shooting Range, and CCW in Yuma, AZ",
+                        "text": "Other places to hunt dove include: * **Texas Hill** Includes many different farms and abundant public lands * **Wellton** Includes..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "Facebook",
+                        "domain": "www.facebook.com",
+                        "url": "https://www.facebook.com/buckeyeaz.gov/videos/opening-day-of-dove-season-is-almost-herestarting-september-1-hunters-from-acros/649129774410533/",
+                        "title": "Opening day of dove season is almost here! Starting September 1 ...",
+                        "text": "Hunters from across Arizona go to Buckeye's fields, farms, and wildlife areas for dove hunting. This location, a short drive from ..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "City of Buckeye (.gov)",
+                        "domain": "www.buckeyeaz.gov",
+                        "url": "https://www.buckeyeaz.gov/residents/police/hunting-and-shooting",
+                        "title": "Hunting and Shooting in Buckeye",
+                        "text": "Here are some regulations for dove hunting in Arizona: * The 15-day early season begins 30 minutes before legal sunrise on Septemb..."
+                      },
+                      {
+                        "type": "ai_overview_reference",
+                        "position": "right",
+                        "source": "visit-gila-bend",
+                        "domain": "www.visitgilabend.org",
+                        "url": "https://www.visitgilabend.org/post/the-dove-hunt-is-on",
+                        "title": "The Dove Hunt Is On",
+                        "text": "Here are some regulations for dove hunting in Arizona: * **License and stamp** Hunters age 18 and older must participate in the Ha..."
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 182,
+                      "width": 652,
+                      "height": 400
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "rank_absolute": 2,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+                    "domain": "www.azgfd.com",
+                    "title": "Dove hunting in Arizona",
+                    "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azgfd.com \u203a ... \u203a Species Hunt Information",
+                    "website_name": "Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "For both the early and late seasons, the daily bag limit is 15 total doves (mourning and white-winged), and the possession limit is 45 total (mourning and white\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "daily bag limit is 15 total doves"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 626,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "people_also_ask",
+                    "rank_group": 1,
+                    "rank_absolute": 3,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]",
+                    "items": [
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "How many doves can you shoot in Arizona?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/",
+                            "domain": "www.azgfd.com",
+                            "title": "Dove hunting in Arizona",
+                            "description": "For both the early and late seasons, the daily bag limit is 15 total doves (mourning and white-winged), and the possession limit is 45 total (mourning and white-winged).",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What are the odds on Coues deer draw in Arizona?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_ai_overview_expanded_element",
+                            "items": null,
+                            "references": null,
+                            "asynchronous_ai_overview": true
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Is 6 shot too big for dove?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://projectupland.com/dove-hunting/what-chokes-and-shot-size-to-use-for-dove-hunting/",
+                            "domain": "projectupland.com",
+                            "title": "What Chokes and Shot Size to Use for Dove Hunting - Project Upland",
+                            "description": "7 or even 6 depending on the conditions. The smaller No. 8 pellets are perfect for mourning doves, while 6, 7, or 7 1/2, make good on knocking down the larger white-winged doves and Eurasian collared doves. Hunters carrying a light 20- or 16-gauge should consider a 7/8 load, but a 1-ounce load of shot may fare better.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Where can I hunt doves in Arizona?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.battlbox.com/blogs/hunting/where-to-dove-hunt-in-arizona-your-ultimate-guide-to-a-thrilling-experience",
+                            "domain": "www.battlbox.com",
+                            "title": "Where to Dove Hunt in Arizona: Your Ultimate Guide to a Thrilling ...",
+                            "description": "Cibola National Wildlife Refuge\n This refuge, located just outside Yuma, offers designated hunting areas for dove hunting. The Cibola NWR is known for its large populations of doves and provides excellent access to hunters.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 772.53,
+                      "width": 652,
+                      "height": 247
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "rank_absolute": 4,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[4]/div[1]/div[1]",
+                    "domain": "huntinglocator.com",
+                    "title": "Arizona Dove Hunting Season: 2025 Dates, Limits And Info",
+                    "url": "https://huntinglocator.com/blog/arizona-dove-hunting-season/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://huntinglocator.com \u203a blog \u203a arizona-dove-hunti...",
+                    "website_name": "Hunting Locator",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "May 20, 2025 \u2014 The early dove season for Mourning and White-winged doves is Sept. 1-15, 2025. The late season for these migratory birds is Nov. 21, 2025 \u2013 Jan. Read more",
+                    "pre_snippet": "05/20/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Sept. 1-15, 2025"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Planning Your Hunt: Arizona...",
+                        "description": null,
+                        "url": "https://huntinglocator.com/blog/arizona-dove-hunting-season/#planning-your-hunt-arizona-dove-seasons-and-key-regulations-for-2025-2026",
+                        "domain": "huntinglocator.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Top Tips for a Successful...",
+                        "description": null,
+                        "url": "https://huntinglocator.com/blog/arizona-dove-hunting-season/#top-tips-for-a-successful-arizona-dove-hunt",
+                        "domain": "huntinglocator.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-05-20 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1063.53,
+                      "width": 652,
+                      "height": 152.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "rank_absolute": 5,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[6]/div[1]/div[1]",
+                    "domain": "www.azgfd.com",
+                    "title": "2025-2026 dove, band-tailed pigeon regs online",
+                    "url": "https://www.azgfd.com/2025/06/24/2025-2026-dove-band-tailed-pigeon-regs-online/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azgfd.com \u203a AZGFD News",
+                    "website_name": "Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Jun 24, 2025 \u2014 All hunters 18 and older must possess a valid Arizona hunting license, as well as a migratory bird stamp for the 2025-2026 season. Read more",
+                    "pre_snippet": "06/24/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Arizona hunting",
+                      "season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-06-24 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1246.06,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "rank_absolute": 6,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[8]/div[1]/div[1]",
+                    "domain": "www.facebook.com",
+                    "title": "Dove season begins next week on Monday, Sept. 1, and ...",
+                    "url": "https://www.facebook.com/azgfd/posts/dove-season-begins-next-week-on-monday-sept-1-and-with-it-a-new-regulation-chang/1158484366310633/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "300+ reactions  \u00b7  8 months ago",
+                    "website_name": "Facebook\u00a0\u00b7\u00a0Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "8. The first segment of dove hunting runs Sept. 6-Oct. 26, followed by the winter portion Dec. 8-Jan. 15. Hunters who\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "dove hunting"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1392.59,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "rank_absolute": 7,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[10]/div[1]/div[1]",
+                    "domain": "storymaps.arcgis.com",
+                    "title": "Dove Hunting in Buckeye, Arizona",
+                    "url": "https://storymaps.arcgis.com/stories/1105cba27ddf4df797df35961e672608",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://storymaps.arcgis.com \u203a stories",
+                    "website_name": "ArcGIS StoryMaps",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The early Dove season kicks off on September 1st, half-hour before sunrise and goes through September 15th. Hunters age 18 and older need a valid Arizona\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "September 1st, half-hour before sunrise and goes through September 15th"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1539.13,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "images",
+                    "rank_group": 1,
+                    "rank_absolute": 8,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[12]/div[1]",
+                    "title": "Images",
+                    "url": "https://www.google.com/search?sca_esv=b5576d60e09f6916&hl=en&gl=US&q=arizona+dove+hunting+season&udm=2&source=univ&fir=cTKBAAumyL4yKM%252CsA2eW79jfert3M%252C_%253By9ze7oGL3zdKjM%252CsA2eW79jfert3M%252C_%253BuVjuGa7R9-oPeM%252CeFvT8uJMNf59GM%252C_%253BcTDlMOgpXUAgaM%252C_NJbKvbSUdYB_M%252C_%253BP6SGCBcoOfKWdM%252CHEUy8kjBcX8WCM%252C_%253B1tmwYa40ZruvNM%252CcfuvUS8C0H0g1M%252C_%253BERzHwz8S84MbTM%252CgKhJtUWlSWXE3M%252C_%253BHNvR7sGsmtaXTM%252C8IKW3xnmHapjEM%252C_%253BZXBD4wI_LjILnM%252C4Dpa1XFqIHbq8M%252C_&usg=AI4_-kREPYuNoi8et0VYCjQdedCLrHJr5A&sa=X&ved=2ahUKEwiX967ChJGUAxUiGTQIHcwiNSIQ7Al6BAhWEAU",
+                    "items": [
+                      {
+                        "type": "images_element",
+                        "alt": "Arizona Dove Hunting Season: 2025 Dates, Limits And Info",
+                        "url": "https://huntinglocator.com/blog/arizona-dove-hunting-season/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:16"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Arizona Dove Hunting Season: 2025 Dates, Limits And Info",
+                        "url": "https://huntinglocator.com/blog/arizona-dove-hunting-season/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:17"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Dove Hunting Archives - Arizona WanderingsArizona Wanderings",
+                        "url": "https://azwanderings.com/tag/dove-hunting/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282008-1118-0139-0000-a7ccb3ac7a66:18"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Yuma Dove Hunting Information - Sprague's Sports - Gun Store ...",
+                        "url": "https://www.spragues.com/dove-hunting.html",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWLhzLhfC6IRQrVJ2akbHujOK7U1l9dVCdWuf33KVEk12h3GREE708kA&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Adventure On A Budget: No-Doubt Dove | Sportsman's News",
+                        "url": "https://news.sportsmans.com/how-to/adventure-budget-no-doubt-dove",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTl5HAkz44MRNSMC2APTJ6HESvoPQYmeQzdsrKxmld-h8dElagf--1N4&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Arizona Dove Hunts in Patagonia, AZ | Guided Experience",
+                        "url": "https://lunaritaoutfitters.com/dove-hunts/",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjNaXFsIY81l7r5wygGihNzK1DV8ga6Gannguu1wgmJM-NK16HA4ymiNY&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Dove season begins next week on Monday, Sept. 1, and with it ...",
+                        "url": "https://www.instagram.com/p/DN3zdgi3rDo/",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlr9Nhc1HP_1-n3tGu-i9vC1EH9tJ8Nrs27He6Q_bWDV49p8rs4H0FpHUvA&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Dove season begins next week on Monday, Sept. 1, and with it ...",
+                        "url": "https://www.facebook.com/azgfd/posts/dove-season-begins-next-week-on-monday-sept-1-and-with-it-a-new-regulation-chang/1158484366310633/",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnEDba-FekMGtGfaeAkKCqlHOpCbz9hdwVPZwgDSJcGY2jR1asuM8VPdo&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Dove Hunting 2023: Unforgettable Arizona Adventure",
+                        "url": "https://www.youtube.com/watch?v=ZUDmNlVz_uE",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVthqhG5j7FaoPRqZiXYrmOuPhuKOy1rrchsCXXA3r&s"
+                      }
+                    ],
+                    "related_image_searches": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1685.66,
+                      "width": 652,
+                      "height": 357.98
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "rank_absolute": 9,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[14]/div[1]/div[1]",
+                    "domain": "www.spragues.com",
+                    "title": "Yuma Dove Hunting Information",
+                    "url": "https://www.spragues.com/dove-hunting.html",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.spragues.com \u203a dove-hunting",
+                    "website_name": "Sprague's Sports",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The 2025-2026 Dove Hunting Season kicks off on Monday, September 1st, at 1/2 hour before sunrise and runs through Monday, September 15th, at sunset. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Dove Hunting Season",
+                      "on Monday, September 1st, at 1/2 hour before sunrise and runs through Monday, September 15th, at sunset"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2087.64,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "rank_absolute": 10,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[16]/div[1]/div[1]",
+                    "domain": "www.yumadovehunting.com",
+                    "title": "Yuma Dove Hunting",
+                    "url": "https://www.yumadovehunting.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.yumadovehunting.com",
+                    "website_name": "Yuma Dove Hunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Dove Season 2025. Dove hunting season kicks off with the early season on Monday, September 1\u200b st at 1/2 hour before sunrise and runs through Monday September 15\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Season",
+                      "Dove hunting season",
+                      "season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2234.17,
+                      "width": 652,
+                      "height": 117.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "rank_absolute": 11,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[18]/div[1]/div[1]",
+                    "domain": "content.govdelivery.com",
+                    "title": "Arizona hunters can now include more white-winged doves ...",
+                    "url": "https://content.govdelivery.com/accounts/AZGFD/bulletins/3ef7486",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://content.govdelivery.com \u203a AZGFD \u203a bulletins",
+                    "website_name": "Granicus",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Aug 25, 2025 \u2014 Arizona's dove-hunting season opens Monday, Sept. 1, and runs through Sept. 15. White-winged dove. It's a new regulation change that's sure\u00a0... Read more",
+                    "pre_snippet": "08/25/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Arizona's dove-hunting season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-08-25 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2381.7,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 9,
+                    "rank_absolute": 12,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[20]/div[1]/div[1]",
+                    "domain": "www.kawc.org",
+                    "title": "Dove Hunting Season Opens September 1st, YCSO Reminds ...",
+                    "url": "https://www.kawc.org/news/2024-08-28/dove-hunting-season-opens-september-1st-ycso-reminds-hunters-to-follow-laws",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.kawc.org \u203a news \u203a dove-hunting-season-o...",
+                    "website_name": "kawc.org",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Aug 28, 2024 \u2014 The 2024 Dove Hunting Season officially opens one half hour before sunrise September 1st, and runs through sunset on September 15th.",
+                    "pre_snippet": "08/28/2024 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Dove Hunting Season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2024-08-28 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2528.23,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 1,
+                    "rank_absolute": 13,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Dove season az 2025",
+                      "Dove season az 2026",
+                      "Late dove season az",
+                      "Az dove hunting regulations",
+                      "Dove hunting license arizona",
+                      "Quail season Az 2025",
+                      "Dove hunting buckeye az",
+                      "Dove hunting AZ"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2702.77,
+                      "width": 652,
+                      "height": 240
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 10,
+                    "rank_absolute": 14,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "2024 Dove Season",
+                    "url": "https://www.youtube.com/watch?v=fy7Ps9zUZXY",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "1.1K+ views  \u00b7  1 year ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0Buckeye Arizona",
+                    "is_image": false,
+                    "is_video": true,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "It's shaping up to be an awesome dove season at Robbins and Powers Butte Wildlife Areas ! For the first time in ten years, there's over 100\u00a0...",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "awesome dove season at Robbins and Powers Butte Wildlife Areas"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2024-08-22 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 182,
+                      "width": 652,
+                      "height": 163
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 11,
+                    "rank_absolute": 15,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "www.eregulations.com",
+                    "title": "Hunting Seasons and Dates - Arizona Hunting",
+                    "url": "https://www.eregulations.com/arizona/hunting/hunting-seasons-and-dates",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.eregulations.com \u203a Arizona",
+                    "website_name": "eRegulations",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Dove: Statewide Early Season: September 1 \u2013 15, 2025; Statewide Late Season: November 21, 2025 \u2013 January 4, 2026; Statewide Eurasian Collared Season\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "September 1 \u2013 15, 2025"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 375,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 12,
+                    "rank_absolute": 16,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                    "domain": "www.arizonahuntingforums.com",
+                    "title": "6 months to go until Dove 2024",
+                    "url": "https://www.arizonahuntingforums.com/threads/6-months-to-go-until-dove-2024.25805/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.arizonahuntingforums.com \u203a threads \u203a 6-m...",
+                    "website_name": "Arizona Hunting Forums",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Mar 3, 2024 \u2014 They're always open season. They seem to like agricultural land fields etc. just a matter of finding a place where you can hunt them. Read more",
+                    "pre_snippet": "03/03/2024 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "They're always open season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2024-03-03 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 521,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 13,
+                    "rank_absolute": 17,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "www.kvoa.com",
+                    "title": "White-winged dove limit changed for Arizona hunters",
+                    "url": "https://www.kvoa.com/news/arizona/white-winged-dove-limit-changed-for-arizona-hunters/article_6c01a1c0-3181-48fd-9d18-b9b0580c883f.html",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.kvoa.com \u203a news \u203a white-winged-dove-limit...",
+                    "website_name": "KVOA",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Aug 26, 2025 \u2014 Starting Sept. 1, hunters can now harvest any combination of mourning and white-winged doves up to the 15-bird daily limit, or a possession\u00a0... Read more",
+                    "pre_snippet": "08/26/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": null,
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-08-26 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 667,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 14,
+                    "rank_absolute": 18,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                    "domain": "www.reddit.com",
+                    "title": "AZ Dove Hunt : r/AZguns",
+                    "url": "https://www.reddit.com/r/AZguns/comments/1mojeze/az_dove_hunt/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "10+ comments  \u00b7  8 months ago",
+                    "website_name": "Reddit\u00a0\u00b7\u00a0r/AZguns",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The late season is great because you can hunt doves at sunrise and quail late morning. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "The late season is great"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 813,
+                      "width": 652,
+                      "height": 94
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 15,
+                    "rank_absolute": 19,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "www.divebombindustries.com",
+                    "title": "Dove Hunting in Arizona: Mourning and White-Wing Mix",
+                    "url": "https://www.divebombindustries.com/blogs/news/dove-hunting-in-arizona-mourning-and-white-wing-mix?srsltid=AfmBOooqKRJU6WM6Cd3PNSMuatBCeR0naK8st_5WD2IH2YlDKpjdw1GE",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.divebombindustries.com \u203a blogs \u203a news \u203a d...",
+                    "website_name": "Dive Bomb Industries",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Sep 13, 2025 \u2014 Dove season typically opens in early September, with the first week offering the best chance at both mourning and white-winged doves. Winter is\u00a0... Read more",
+                    "pre_snippet": "09/13/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Dove season typically opens in early September"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-09-13 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 937,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 16,
+                    "rank_absolute": 20,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                    "domain": "www.azgfd.com",
+                    "title": "Dove hunting for Beginners",
+                    "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/species-hunt-information/dove-hunting-in-arizona/dove-hunting-for-beginners/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.azgfd.com \u203a ... \u203a Dove hunting in Arizona",
+                    "website_name": "Arizona Game & Fish Department",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "What is Required to Hunt Doves in Arizona? Dove hunting requires a valid license, and a migratory bird stamp. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Dove hunting requires a valid license, and a migratory bird stamp"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1083,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 17,
+                    "rank_absolute": 21,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+                    "domain": "huntwise.com",
+                    "title": "Guide to Arizona Hunting Seasons 2026",
+                    "url": "https://huntwise.com/field-guide/state-hunting-guide/the-guide-to-arizona-hunting-seasons-2024",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://huntwise.com \u203a Media \u203a Blog",
+                    "website_name": "Huntwise",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Dove: Statewide Early Season: September 1 \u2013 15, 2025; Statewide Late Season: November 21, 2025 \u2013 January 4, 2026; Statewide Eurasian Collared Season\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "September 1 \u2013 15, 2025"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1229,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 18,
+                    "rank_absolute": 22,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                    "domain": "cdn.prod.website-files.com",
+                    "title": "Dove season az 2024",
+                    "url": "https://cdn.prod.website-files.com/67250b4f04f6e713aca109e5/674b3c3b701135695659cff5_35843225647.pdf",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://cdn.prod.website-files.com \u203a ...",
+                    "website_name": "website-files.com",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Note: The early dove-hunting season begins September 1 through September 15, with adult hunters requiring an Arizona. Hunting License and migratory bird stamp. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "dove",
+                      "hunting season",
+                      "Arizona"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1375,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 19,
+                    "rank_absolute": 23,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "www.battlbox.com",
+                    "title": "Where to Dove Hunt in Arizona: Your Ultimate Guide to a ...",
+                    "url": "https://www.battlbox.com/blogs/hunting/where-to-dove-hunt-in-arizona-your-ultimate-guide-to-a-thrilling-experience?srsltid=AfmBOoqTwbP5EZOz3XVgowpIxeSUeLAGlUspgu7xHzdMdq_MUMJpCFrR",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.battlbox.com \u203a blogs \u203a where-to-dove-hun...",
+                    "website_name": "Battlbox.com",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The dove hunting season in Arizona typically opens on September 1st and runs through the end of September. Early mornings and late afternoons are the best times\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "September 1st and runs through the end of September"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1521,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 2,
+                    "rank_absolute": 24,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Dove season az 2025",
+                      "Dove season az 2026",
+                      "Late dove season az",
+                      "Az dove hunting regulations",
+                      "Dove hunting license arizona",
+                      "Quail season Az 2025",
+                      "Dove hunting buckeye az",
+                      "Dove hunting AZ"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1695,
+                      "width": 652,
+                      "height": 240
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

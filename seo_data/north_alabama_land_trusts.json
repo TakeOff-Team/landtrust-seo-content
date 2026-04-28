@@ -1,0 +1,123 @@
+{
+  "id": "W22b",
+  "topic": "North Alabama Cave and Land Trusts: Conservation Meets Recreation",
+  "primary_keyword": "north alabama land trust",
+  "slug": "north_alabama_land_trusts",
+  "primary_keyword_data": {
+    "keyword": "north alabama land trust",
+    "search_volume": 880,
+    "cpc": 7.02,
+    "competition": 0.01,
+    "monthly_searches": [
+      { "year": 2026, "month": 3, "search_volume": 1000 },
+      { "year": 2026, "month": 2, "search_volume": 720 },
+      { "year": 2026, "month": 1, "search_volume": 880 },
+      { "year": 2025, "month": 12, "search_volume": 880 },
+      { "year": 2025, "month": 11, "search_volume": 720 },
+      { "year": 2025, "month": 10, "search_volume": 880 },
+      { "year": 2025, "month": 9, "search_volume": 880 },
+      { "year": 2025, "month": 8, "search_volume": 720 },
+      { "year": 2025, "month": 7, "search_volume": 720 },
+      { "year": 2025, "month": 6, "search_volume": 720 },
+      { "year": 2025, "month": 5, "search_volume": 880 },
+      { "year": 2025, "month": 4, "search_volume": 880 }
+    ]
+  },
+  "keyword_suggestions": [
+    { "keyword": "land trust of north alabama three caves", "search_volume": 1000, "cpc": null, "competition": 0.04 },
+    { "keyword": "huntsville land trust", "search_volume": 140, "cpc": 11.03, "competition": 0.01 },
+    { "keyword": "land trust alabama", "search_volume": 140, "cpc": 11.03, "competition": 0.01 },
+    { "keyword": "land trust huntsville al", "search_volume": 140, "cpc": 11.03, "competition": 0.01 },
+    { "keyword": "landtrust of north alabama", "search_volume": 30, "cpc": null, "competition": 0 },
+    { "keyword": "the land trust of north alabama", "search_volume": 20, "cpc": null, "competition": 0.02 },
+    { "keyword": "land trust of north alabama trail map", "search_volume": 10, "cpc": null, "competition": 0.07 },
+    { "keyword": "land trust of north alabama harvest square nature preserve", "search_volume": 10, "cpc": null, "competition": 0.14 },
+    { "keyword": "land trust of north alabama monte sano nature preserve", "search_volume": 10, "cpc": null, "competition": 0 },
+    { "keyword": "land trust of north alabama rainbow mountain nature preserve", "search_volume": 10, "cpc": null, "competition": 0 }
+  ],
+  "primary_serp": {
+    "keyword": "north alabama land trust",
+    "items": [
+      { "rank": 1, "type": "organic", "title": "Land Trust of North Alabama: Home", "url": "https://landtrustnal.org/", "domain": "landtrustnal.org", "description": "Create lasting memories as you hike through the best nature trails in North Alabama. You'll find plenty of spaces to relax, exercise, & connect with nature." },
+      { "rank": 2, "type": "organic", "title": "Land Trust of North Alabama | Huntsville AL - Facebook", "url": "https://www.facebook.com/landtrustnal/", "domain": "www.facebook.com", "description": "Save land, protect wildlife, and build trails in beautiful North Alabama by becoming member." },
+      { "rank": 3, "type": "organic", "title": "Land Trust of North Alabama - City of Huntsville", "url": "https://www.huntsvilleal.gov/programs/land-trust/", "domain": "www.huntsvilleal.gov", "description": "Land Trust of North Alabama. Additional Information. Top Requests." },
+      { "rank": 4, "type": "organic", "title": "Land Trust of North Alabama - Huntsville.org", "url": "https://www.huntsville.org/listing/land-trust-of-north-alabama/70/", "domain": "www.huntsville.org", "description": "Visitors to Land Trust of North Alabama's seven nature preserves can enjoy outdoor adventure on over 70 miles of free public trails." },
+      { "rank": 5, "type": "organic", "title": "Land Trust of North Alabama - Land Trust Alliance", "url": "https://landtrustalliance.org/land-trusts/explore/land-trust-of-north-alabama-al", "domain": "landtrustalliance.org", "description": "Land Trust of North Alabama is dedicated to preserving natural lands, water resources, and wildlife habitat in ten counties of North Alabama." },
+      { "rank": 6, "type": "organic", "title": "Land Trust of North Alabama - Visit North Alabama", "url": "https://www.northalabama.org/listing/land-trust-of-north-alabama/258/", "domain": "www.northalabama.org", "description": "With over 80 miles of free public trails, Land Trust of North Alabama offers plenty of space to explore nature and discover outdoor adventure." },
+      { "rank": 7, "type": "organic", "title": "Land Trust of North Alabama (@landtrustnal) - Instagram", "url": "https://www.instagram.com/landtrustnal/", "domain": "www.instagram.com", "description": "Protecting North Alabama's wild places. 10,000+ acres protected | 100+ miles of trail." },
+      { "rank": 8, "type": "organic", "title": "Land Trust of North Alabama - Alabama Land Conservation Assistance Network", "url": "http://www.alabamalandcan.org/local-resources/Land-Trust-of-North-Alabama/31138", "domain": "www.alabamalandcan.org", "description": "Our mission is to preserve North Alabama's scenic, historic and ecological resources through conservation, advocacy, recreation and education." },
+      { "rank": 9, "type": "organic", "title": "Land Trust of North Alabama closes on 65 acres on Green Mountain", "url": "https://whnt.com/news/huntsville/land-trust-of-north-alabama-closes-on-65-acres-of-land-on-green-mountain/", "domain": "whnt.com", "description": "The Land Trust of North Alabama has closed on 65 acres of land on Green Mountain, furthering the River to Gap corridor." },
+      { "rank": 10, "type": "organic", "title": "A must do hike - Review of Land Trust of North Alabama - Tripadvisor", "url": "https://www.tripadvisor.com/ShowUserReviews-g30620-d2581822-r852876200-Land_Trust_of_North_Alabama-Huntsville_Alabama.html?m=17457", "domain": "www.tripadvisor.com", "description": "This is a wonderful size of nature in an amazingly beautiful setting." },
+      { "rank": 11, "type": "organic", "title": "Land Trust of North Alabama - Encyclopedia of Alabama", "url": "https://encyclopediaofalabama.org/article/land-trust-of-north-alabama/", "domain": "encyclopediaofalabama.org", "description": "The Land Trust of North Alabama (LTNA) is a member-supported non-profit organization established to conserve natural areas." },
+      { "rank": 12, "type": "organic", "title": "Land Trust of North Alabama - Community Foundation of Greater Huntsville", "url": "https://givehsv.org/nonprofit_directory/land-trust-of-north-alabama/", "domain": "givehsv.org", "description": "The Land Trust of North Alabama, Alabama's first land trust, preserves land, fresh water resources, and wildlife habitat." },
+      { "rank": 13, "type": "organic", "title": "LAND TRUST OF NORTH ALABAMA - Yelp", "url": "https://www.yelp.com/biz/land-trust-of-north-alabama-huntsville", "domain": "www.yelp.com", "description": "Great organization working to conserve the natural lands in Huntsville and across North Alabama." },
+      { "rank": 14, "type": "organic", "title": "Land Trust of North Alabama - Tennessee River Valley Geotourism", "url": "https://tennesseerivervalleygeotourism.org/entries/land-trust-of-north-alabama/e90123b2-b79a-4688-90b5-d2a318ca4e77", "domain": "tennesseerivervalleygeotourism.org", "description": "Land Trust of North Alabama is a nonprofit organization dedicated to preserving natural lands, water resources, and wildlife habitat in ten counties." },
+      { "rank": 15, "type": "organic", "title": "Land Trust trails are some of the best things to be found - Reddit", "url": "https://www.reddit.com/r/HuntsvilleAlabama/comments/vo724s/land_trust_trails_are_some_of_the_best_things_to/", "domain": "www.reddit.com", "description": "If you're new to the area check out the Land Trust of North Alabama trails." },
+      { "rank": 16, "type": "organic", "title": "Monte Sano Nature Preserve - Huntsville - Alabama Travel", "url": "https://alabama.travel/places-to-go/land-trust-of-north-alabama", "domain": "alabama.travel", "description": "Land Trust trails on Monte Sano offer varying levels of difficulty." }
+    ],
+    "people_also_ask": [
+      "How does a land trust work in Alabama?",
+      "What is the prettiest mountain town in Alabama?",
+      "What is the richest neighborhood in Huntsville, AL?",
+      "What land does a land trust protect?"
+    ],
+    "related_searches": [
+      "North alabama land trust map",
+      "North alabama land trust trail map",
+      "Land Trust of North Alabama jobs",
+      "North alabama land trust hiking trails",
+      "North alabama land trust hike",
+      "North alabama land trust camping",
+      "North alabama land trust fishing",
+      "Land Trust Wildflower Trail"
+    ],
+    "serp_features": ["organic", "local_pack", "people_also_ask", "related_searches"]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "land trust of north alabama trails",
+      "serp": {
+        "keyword": "land trust of north alabama trails",
+        "items": [
+          { "rank": 1, "type": "organic", "title": "Explore Our Nature Preserves | Land Trust of North Alabama", "url": "https://landtrustnal.org/explore-our-lands/preserves-north-alabama/", "domain": "landtrustnal.org", "description": "Find A Trail. Bethel Spring Nature Preserve. Blevins Gap Nature Preserve. Bradford Creek Greenway. Cane Creek Canyon Nature Preserve." },
+          { "rank": 2, "type": "organic", "title": "Explore Our Lands - Land Trust of North Alabama", "url": "https://landtrustnal.org/explore-our-lands/", "domain": "landtrustnal.org", "description": "With over 100 miles of trails, Land Trust of North Alabama offers plenty of spaces to relax, exercise, and connect with nature." },
+          { "rank": 3, "type": "organic", "title": "Land Trust of North Alabama: Home", "url": "https://landtrustnal.org/", "domain": "landtrustnal.org", "description": "Create lasting memories as you hike through the best nature trails in North Alabama." },
+          { "rank": 4, "type": "organic", "title": "Land Trust of North Alabama - Huntsville.org", "url": "https://www.huntsville.org/listing/land-trust-of-north-alabama/70/", "domain": "www.huntsville.org", "description": "Visitors to Land Trust of North Alabama's seven nature preserves can enjoy outdoor adventure on over 70 miles of free public trails." },
+          { "rank": 5, "type": "organic", "title": "Land Trust of North Alabama | Huntsville AL - Facebook", "url": "https://www.facebook.com/landtrustnal/", "domain": "www.facebook.com", "description": "NOW OPEN! The Tollgate Greenway on Monte Sano is officially open." },
+          { "rank": 6, "type": "organic", "title": "The Land Trust of North Alabama opens new paved trail after months of work", "url": "https://www.waaytv.com/news/the-land-trust-of-north-alabama-opens-new-paved-trail-after-months-of-work/article_189bde49-2fcd-4136-a198-3a68e1d6ef8d.html", "domain": "www.waaytv.com", "description": "It's a 1.2-mile paved trail starting at the Land Trust's Bankhead Trailhead." },
+          { "rank": 7, "type": "organic", "title": "Land Trust of North Alabama: Wade Mountain - Huntsville - Trailforks", "url": "https://www.trailforks.com/region/land-trust-of-north-alabama-wade-mountain-24954/", "domain": "www.trailforks.com", "description": "This 935-acre preserve located in North Huntsville, offers approximately 12 miles of trails." },
+          { "rank": 8, "type": "organic", "title": "Monte Sano Nature Preserve Trail Map - Land Trust of North Alabama", "url": "https://landtrustnal.org/wp-content/uploads/MonteSano_052024_Website.pdf", "domain": "landtrustnal.org", "description": "TRAILS. Cold Spring Trail (0.70 mi). Dummy Line Trail (1.17 mi)." },
+          { "rank": 9, "type": "organic", "title": "Land Trust Loop, Alabama - AllTrails", "url": "https://www.alltrails.com/trail/us/alabama/land-trust-loop", "domain": "www.alltrails.com", "description": "Head out on this 5.4-mile loop trail near Huntsville, Alabama. Generally considered a moderately challenging route." },
+          { "rank": 10, "type": "organic", "title": "Land Trust trails are some of the best things to be found - Reddit", "url": "https://www.reddit.com/r/HuntsvilleAlabama/comments/vo724s/land_trust_trails_are_some_of_the_best_things_to/", "domain": "www.reddit.com", "description": "If you're new to the area check out the Land Trust of North Alabama trails." }
+        ],
+        "people_also_ask": [
+          "What is the prettiest mountain town in Alabama?",
+          "What is the easiest trail to get to Peavine Falls?",
+          "How does a land trust work in Alabama?",
+          "How long does it take to hike Blevins Gap?"
+        ],
+        "related_searches": [
+          "Land trust of north alabama trails pdf",
+          "Land trust of north alabama trails map pdf",
+          "Land trust of north alabama trails maps",
+          "Free land trust of north alabama trails",
+          "Land Trust of North Alabama map",
+          "Land Trust of North Alabama jobs",
+          "Land Trust of North Alabama Three Caves trails"
+        ],
+        "serp_features": ["organic", "local_pack", "people_also_ask", "images", "related_searches"]
+      }
+    },
+    {
+      "keyword": "huntsville land trust",
+      "serp": {
+        "keyword": "huntsville land trust",
+        "items": [],
+        "people_also_ask": [],
+        "related_searches": [],
+        "serp_features": [],
+        "note": "Secondary keyword from suggestions (SV: 140). Primary SERP data covers Huntsville-specific Land Trust results comprehensively."
+      }
+    }
+  ]
+}

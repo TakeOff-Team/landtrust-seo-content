@@ -1,0 +1,336 @@
+{
+  "id": "W21a",
+  "topic": "Waterfowl Hunting Seasons & Regulations: Duck and Goose Guide",
+  "primary_keyword": "waterfowl hunting seasons",
+  "slug": "waterfowl_hunting_seasons",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0902 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282002-1118-0093-0000-ee4ac85d4ffe",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "0.0258 sec.",
+        "cost": 0.075,
+        "result_count": 1,
+        "path": ["v3","keywords_data","google","search_volume","live"],
+        "data": {
+          "api": "keywords_data",
+          "function": "search_volume",
+          "se": "google",
+          "keywords": ["waterfowl hunting seasons"],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {
+            "keyword": "waterfowl hunting seasons",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": 0.91,
+            "search_volume": 1900,
+            "categories": null,
+            "monthly_searches": [
+              {"year": 2026, "month": 3, "search_volume": 880},
+              {"year": 2026, "month": 2, "search_volume": 1000},
+              {"year": 2026, "month": 1, "search_volume": 2400},
+              {"year": 2025, "month": 12, "search_volume": 2400},
+              {"year": 2025, "month": 11, "search_volume": 3600},
+              {"year": 2025, "month": 10, "search_volume": 3600},
+              {"year": 2025, "month": 9, "search_volume": 3600},
+              {"year": 2025, "month": 8, "search_volume": 1900},
+              {"year": 2025, "month": 7, "search_volume": 880},
+              {"year": 2025, "month": 6, "search_volume": 880},
+              {"year": 2025, "month": 5, "search_volume": 880},
+              {"year": 2025, "month": 4, "search_volume": 1000}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "2.4562 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282002-1118-0090-0000-f0e0f37ad767",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "2.4424 sec.",
+        "cost": 0.075,
+        "result_count": 21,
+        "path": ["v3","keywords_data","google","keywords_for_keywords","live"],
+        "data": {
+          "api": "keywords_data",
+          "function": "keywords_for_keywords",
+          "se": "google",
+          "keywords": ["waterfowl hunting seasons"],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {"keyword": "waterfowl hunting seasons", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": 0.91, "search_volume": 1900, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 880},{"year": 2026, "month": 2, "search_volume": 1000},{"year": 2026, "month": 1, "search_volume": 2400},{"year": 2025, "month": 12, "search_volume": 2400},{"year": 2025, "month": 11, "search_volume": 3600},{"year": 2025, "month": 10, "search_volume": 3600},{"year": 2025, "month": 9, "search_volume": 3600},{"year": 2025, "month": 8, "search_volume": 1900},{"year": 2025, "month": 7, "search_volume": 880},{"year": 2025, "month": 6, "search_volume": 880},{"year": 2025, "month": 5, "search_volume": 880},{"year": 2025, "month": 4, "search_volume": 1000}]},
+          {"keyword": "duck hunting bag", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 1, "cpc": 1.33, "search_volume": 720, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 110},{"year": 2026, "month": 2, "search_volume": 260},{"year": 2026, "month": 1, "search_volume": 1000},{"year": 2025, "month": 12, "search_volume": 1600},{"year": 2025, "month": 11, "search_volume": 1600},{"year": 2025, "month": 10, "search_volume": 1300},{"year": 2025, "month": 9, "search_volume": 720},{"year": 2025, "month": 8, "search_volume": 590},{"year": 2025, "month": 7, "search_volume": 320},{"year": 2025, "month": 6, "search_volume": 210},{"year": 2025, "month": 5, "search_volume": 210},{"year": 2025, "month": 4, "search_volume": 170}]},
+          {"keyword": "waterfowl bag", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 1, "cpc": 0.78, "search_volume": 140, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 40},{"year": 2026, "month": 2, "search_volume": 70},{"year": 2026, "month": 1, "search_volume": 210},{"year": 2025, "month": 12, "search_volume": 320},{"year": 2025, "month": 11, "search_volume": 260},{"year": 2025, "month": 10, "search_volume": 170},{"year": 2025, "month": 9, "search_volume": 210},{"year": 2025, "month": 8, "search_volume": 140},{"year": 2025, "month": 7, "search_volume": 70},{"year": 2025, "month": 6, "search_volume": 40},{"year": 2025, "month": 5, "search_volume": 40},{"year": 2025, "month": 4, "search_volume": 20}]},
+          {"keyword": "waterfowl hunting bag", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 1, "cpc": 1.33, "search_volume": 720, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 110},{"year": 2026, "month": 2, "search_volume": 260},{"year": 2026, "month": 1, "search_volume": 1000},{"year": 2025, "month": 12, "search_volume": 1600},{"year": 2025, "month": 11, "search_volume": 1600},{"year": 2025, "month": 10, "search_volume": 1300},{"year": 2025, "month": 9, "search_volume": 720},{"year": 2025, "month": 8, "search_volume": 590},{"year": 2025, "month": 7, "search_volume": 320},{"year": 2025, "month": 6, "search_volume": 210},{"year": 2025, "month": 5, "search_volume": 210},{"year": 2025, "month": 4, "search_volume": 170}]},
+          {"keyword": "2022 duck hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 0, "categories": null, "monthly_searches": null},
+          {"keyword": "beginning duck hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.3, "cpc": 0.9, "search_volume": 140, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 40},{"year": 2026, "month": 2, "search_volume": 50},{"year": 2026, "month": 1, "search_volume": 170},{"year": 2025, "month": 12, "search_volume": 320},{"year": 2025, "month": 11, "search_volume": 210},{"year": 2025, "month": 10, "search_volume": 260},{"year": 2025, "month": 9, "search_volume": 170},{"year": 2025, "month": 8, "search_volume": 170},{"year": 2025, "month": 7, "search_volume": 90},{"year": 2025, "month": 6, "search_volume": 90},{"year": 2025, "month": 5, "search_volume": 70},{"year": 2025, "month": 4, "search_volume": 90}]},
+          {"keyword": "best state for waterfowl hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 70, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 30},{"year": 2026, "month": 2, "search_volume": 50},{"year": 2026, "month": 1, "search_volume": 110},{"year": 2025, "month": 12, "search_volume": 110},{"year": 2025, "month": 11, "search_volume": 90},{"year": 2025, "month": 10, "search_volume": 90},{"year": 2025, "month": 9, "search_volume": 70},{"year": 2025, "month": 8, "search_volume": 50},{"year": 2025, "month": 7, "search_volume": 50},{"year": 2025, "month": 6, "search_volume": 30},{"year": 2025, "month": 5, "search_volume": 20},{"year": 2025, "month": 4, "search_volume": 30}]},
+          {"keyword": "dnr duck hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 20, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 10},{"year": 2026, "month": 2, "search_volume": 10},{"year": 2026, "month": 1, "search_volume": 10},{"year": 2025, "month": 12, "search_volume": 20},{"year": 2025, "month": 11, "search_volume": 30},{"year": 2025, "month": 10, "search_volume": 70},{"year": 2025, "month": 9, "search_volume": 50},{"year": 2025, "month": 8, "search_volume": 20},{"year": 2025, "month": 7, "search_volume": 10},{"year": 2025, "month": 6, "search_volume": 10},{"year": 2025, "month": 5, "search_volume": 10},{"year": 2025, "month": 4, "search_volume": 10}]},
+          {"keyword": "duck hunt 2022", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "duck hunting 2021", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "duck hunting 2023", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "duck hunting calendar", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.9, "cpc": 0.23, "search_volume": 20, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 10},{"year": 2026, "month": 2, "search_volume": 20},{"year": 2026, "month": 1, "search_volume": 40},{"year": 2025, "month": 12, "search_volume": 70},{"year": 2025, "month": 11, "search_volume": 30},{"year": 2025, "month": 10, "search_volume": 20},{"year": 2025, "month": 9, "search_volume": 30},{"year": 2025, "month": 8, "search_volume": 10},{"year": 2025, "month": 7, "search_volume": 10},{"year": 2025, "month": 6, "search_volume": 20},{"year": 2025, "month": 5, "search_volume": 10},{"year": 2025, "month": 4, "search_volume": 10}]},
+          {"keyword": "duck hunting calendar 2022", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 0, "categories": null, "monthly_searches": null},
+          {"keyword": "february goose hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "goose hunting 2022", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "mdc waterfowl reservation", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 480, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 10},{"year": 2026, "month": 2, "search_volume": 10},{"year": 2026, "month": 1, "search_volume": 140},{"year": 2025, "month": 12, "search_volume": 1300},{"year": 2025, "month": 11, "search_volume": 1900},{"year": 2025, "month": 10, "search_volume": 1300},{"year": 2025, "month": 9, "search_volume": 720},{"year": 2025, "month": 8, "search_volume": 50},{"year": 2025, "month": 7, "search_volume": 20},{"year": 2025, "month": 6, "search_volume": 10},{"year": 2025, "month": 5, "search_volume": 10},{"year": 2025, "month": 4, "search_volume": 10}]},
+          {"keyword": "spring duck hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.02, "cpc": null, "search_volume": 20, "categories": null, "monthly_searches": null},
+          {"keyword": "spring waterfowl hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.02, "cpc": null, "search_volume": 20, "categories": null, "monthly_searches": null},
+          {"keyword": "teal duck hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.01, "cpc": null, "search_volume": 50, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 20},{"year": 2026, "month": 2, "search_volume": 20},{"year": 2026, "month": 1, "search_volume": 40},{"year": 2025, "month": 12, "search_volume": 40},{"year": 2025, "month": 11, "search_volume": 70},{"year": 2025, "month": 10, "search_volume": 40},{"year": 2025, "month": 9, "search_volume": 210},{"year": 2025, "month": 8, "search_volume": 70},{"year": 2025, "month": 7, "search_volume": 20},{"year": 2025, "month": 6, "search_volume": 30},{"year": 2025, "month": 5, "search_volume": 30},{"year": 2025, "month": 4, "search_volume": 30}]},
+          {"keyword": "waterfowl hunting 2022", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 0, "categories": null, "monthly_searches": null},
+          {"keyword": "youth duck hunting", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.32, "cpc": null, "search_volume": 70, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 20},{"year": 2026, "month": 2, "search_volume": 90},{"year": 2026, "month": 1, "search_volume": 110},{"year": 2025, "month": 12, "search_volume": 90},{"year": 2025, "month": 11, "search_volume": 140},{"year": 2025, "month": 10, "search_volume": 90},{"year": 2025, "month": 9, "search_volume": 210},{"year": 2025, "month": 8, "search_volume": 70},{"year": 2025, "month": 7, "search_volume": 30},{"year": 2025, "month": 6, "search_volume": 30},{"year": 2025, "month": 5, "search_volume": 10},{"year": 2025, "month": 4, "search_volume": 20}]}
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "6.7688 sec.",
+    "cost": 0.0055,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282003-1118-0139-0000-db9ffc647cb3",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "6.6691 sec.",
+        "cost": 0.0055,
+        "result_count": 1,
+        "path": ["v3","serp","google","organic","live","advanced"],
+        "data": {
+          "api": "serp",
+          "function": "live",
+          "se": "google",
+          "se_type": "organic",
+          "keyword": "waterfowl hunting seasons",
+          "location_code": 2840,
+          "language_code": "en",
+          "device": "desktop",
+          "depth": 20
+        },
+        "result": [
+          {
+            "keyword": "waterfowl hunting seasons",
+            "type": "organic",
+            "se_domain": "google.com",
+            "location_code": 2840,
+            "language_code": "en",
+            "check_url": "https://www.google.com/search?q=waterfowl%20hunting%20seasons&hl=en&gl=US",
+            "datetime": "2026-04-28 17:03:26 +00:00",
+            "spell": null,
+            "refinement_chips": null,
+            "item_types": ["ai_overview","organic","video","people_also_ask","related_searches"],
+            "se_results_count": 12700000,
+            "pages_count": 2,
+            "items_count": 24,
+            "items": [
+              {"type": "ai_overview", "rank_group": 1, "rank_absolute": 1, "page": 1, "position": "left", "asynchronous_ai_overview": true, "markdown": null, "items": null, "references": null},
+              {"type": "organic", "rank_group": 1, "rank_absolute": 2, "page": 1, "position": "left", "domain": "www.fws.gov", "title": "How the Hunting Seasons and Limits are Set for Waterfowl", "url": "https://www.fws.gov/story/how-hunting-seasons-and-limits-are-set-waterfowl", "description": "The earliest (September 1) and latest (March 10) dates allowed for hunting are set by the Migratory Bird Conventions referenced at the beginning of this story."},
+              {"type": "organic", "rank_group": 2, "rank_absolute": 3, "page": 1, "position": "left", "domain": "www.adfg.alaska.gov", "title": "2025 - 2026 Migratory Game Bird Hunting Regulations", "url": "https://www.adfg.alaska.gov/static/applications/web/nocache/regulations/wildliferegulations/pdfs/waterfowl.pdf63D38FFFD14E02AEBBC8C060D73ECAF6/waterfowl.pdf", "description": "The season for hunting Emperor Geese is closed statewide."},
+              {"type": "video", "rank_group": 1, "rank_absolute": 4, "page": 1, "position": "left", "items": [{"type": "video_element", "source": "YouTube · Vermont Fish & Wildlife Department", "title": "2025 Migratory Game Bird Seasons and Bag Limit ...", "url": "https://www.youtube.com/watch?v=Pj77xDesCI0"},{"type": "video_element", "source": "YouTube · North Dakota Game and Fish Department", "title": "Waterfowl Season Preview 2025 - 09-22-2025", "url": "https://www.youtube.com/watch?v=Q12LW-9N_hg"},{"type": "video_element", "source": "YouTube · Iowa Department of Natural Resources", "title": "Waterfowl Hunting Basics", "url": "https://www.youtube.com/watch?v=FO10QItFxjk"}]},
+              {"type": "organic", "rank_group": 3, "rank_absolute": 5, "page": 1, "position": "left", "domain": "www.eregulations.com", "title": "Washington Migratory Game Bird Seasons", "url": "https://www.eregulations.com/washington/hunting/game-bird/migratory-game-bird-seasons", "description": "Explore Washington migratory game bird seasons with dates, bag limits, and rules."},
+              {"type": "organic", "rank_group": 4, "rank_absolute": 6, "page": 1, "position": "left", "domain": "www.ducks.org", "title": "The Waterfowler's Calendar", "url": "https://www.ducks.org/hunting/duck-hunting-stories/the-waterfowlers-calendar", "description": "For die-hard hunters who can't bear to see the season end, here's a month-by-month guide to enjoying the waterfowling lifestyle year-round.", "timestamp": "2019-03-04 00:00:00 +00:00"},
+              {"type": "organic", "rank_group": 5, "rank_absolute": 7, "page": 1, "position": "left", "domain": "idfg.idaho.gov", "title": "Migratory Game Bird Seasons and Rules - Idaho Fish and Game", "url": "https://idfg.idaho.gov/rules/migratory", "description": "Jun 10, 2025 — 2025-2026 Migratory Seasons and rules for hunting migratory game birds."},
+              {"type": "organic", "rank_group": 6, "rank_absolute": 8, "page": 1, "position": "left", "domain": "wildlife.utah.gov", "title": "What hunters should know about the 2025 Utah waterfowl ...", "url": "https://wildlife.utah.gov/news/utah-wildlife-news/2196-what-hunters-should-know-about-the-2025-utah-waterfowl-hunting-season.html", "description": "Northern area: Oct. 4-11 and Oct. 27 to Jan. 31, 2026"},
+              {"type": "organic", "rank_group": 7, "rank_absolute": 9, "page": 1, "position": "left", "domain": "calwaterfowl.org", "title": "Season dates and bag limits", "url": "https://calwaterfowl.org/regulations", "description": "Ducks and geese: Oct 18 – Jan 28"},
+              {"type": "people_also_ask", "rank_group": 1, "rank_absolute": 10, "page": 1, "position": "left", "items": [{"type": "people_also_ask_element", "title": "What is the best season for duck hunting?", "expanded_element": [{"url": "https://huntwise.com/field-guide/best-times-to-hunt/best-times-to-hunt-waterfowl", "description": "Generally speaking, the best time of year to hunt ducks and geese is during the cold fronts of mid-fall."}]},{"type": "people_also_ask_element", "title": "Is there a season for ducks?", "expanded_element": [{"url": "https://www.fws.gov/story/how-hunting-seasons-and-limits-are-set-waterfowl", "description": "Annual framework dates for most regular waterfowl seasons are from the end of September to the end of January for ducks, and mid-February for geese."}]},{"type": "people_also_ask_element", "title": "Is duck hunting declining?", "expanded_element": [{"url": "https://deltawaterfowl.org/whats-new/hunting/waterfowl-hunter-numbers-drop/", "description": "The USFWS report estimates hunters shot 14.34 million ducks in the United States during the 2024-2025 season, a 2.2% decrease from the previous year."}]},{"type": "people_also_ask_element", "title": "Can I use a 7 shot for ducks?", "expanded_element": [{"url": "https://www.divebombindustries.com/blogs/news/is-20-gauge-enough-for-teal-and-small-ducks", "description": "Larger shot sizes, such as BB or T, are typically used for hunting larger ducks like mallards."}]}]},
+              {"type": "organic", "rank_group": 8, "rank_absolute": 11, "page": 1, "position": "left", "domain": "wdfw.wa.gov", "title": "Game bird and small game regulations", "url": "https://wdfw.wa.gov/hunting/regulations/migratory-waterfowl-upland-game", "description": "2025-2026 Game Bird and Small Game Regulations."},
+              {"type": "organic", "rank_group": 9, "rank_absolute": 12, "page": 1, "position": "left", "domain": "myfwc.com", "title": "Migratory Bird Hunting Regulations", "url": "https://myfwc.com/hunting/regulations/birds/", "description": "In Leon County and on Lake Miccosukee, waterfowl hunting is permitted only on Wednesdays, Saturdays and Sundays during Regular Duck Season."},
+              {"type": "related_searches", "rank_group": 1, "rank_absolute": 13, "page": 1, "position": "left", "items": ["When is geese hunting season in ny","Goose Season Washington","When does goose season start","Duck season by state","When does Goose season start in Colorado","When is Duck season in Idaho","Goose season Wisconsin","When does duck season end in nc"]},
+              {"type": "organic", "rank_group": 10, "rank_absolute": 14, "page": 2, "position": "left", "domain": "fw.ky.gov", "title": "Waterfowl Hunting - Kentucky Department of Fish & Wildlife", "url": "https://fw.ky.gov/Hunt/Pages/Waterfowl-Hunting.aspx", "description": "The season for snow and Ross' geese begins on Thanksgiving Day and continues until Feb. 15."},
+              {"type": "organic", "rank_group": 11, "rank_absolute": 15, "page": 2, "position": "left", "domain": "support.louisianaoutdoors.com", "title": "Migratory Birds Hunting Schedule & Limit", "url": "https://support.louisianaoutdoors.com/hc/en-us/articles/40888506743700-Migratory-Birds-Hunting-Schedule-Limit", "description": "North Zone: Sept 6–28, Oct 11–Nov 16, Dec 20–Jan 18."},
+              {"type": "organic", "rank_group": 12, "rank_absolute": 16, "page": 2, "position": "left", "domain": "myodfw.com", "title": "Game Bird Hunting Seasons | Oregon Dept of Fish & Wildlife", "url": "https://myodfw.com/game-bird-hunting/seasons", "description": "Oregon landscape offers the most diverse and accessible game bird hunting opportunities."},
+              {"type": "organic", "rank_group": 13, "rank_absolute": 17, "page": 2, "position": "left", "domain": "wgfd.wyo.gov", "title": "Migratory Game Bird Hunting Seasons and Light Goose ...", "url": "https://wgfd.wyo.gov/Regulations/Game-Birds-Waterfowl/Late-Migratory-Game-Bird-Hunting-Seasons", "description": "This regulation establishes hunting season dates, bag and possession limits and shooting hours for migratory game bird species."},
+              {"type": "organic", "rank_group": 14, "rank_absolute": 18, "page": 2, "position": "left", "domain": "www.outdooralabama.com", "title": "Waterfowl Season | Outdoor Alabama", "url": "https://www.outdooralabama.com/seasons-and-bag-limits/waterfowl-season", "description": "SPECIAL YOUTH, ACTIVE MILITARY AND MILITARY VETERAN'S WATERFOWL HUNTING DAYS. November 22 and February 7."},
+              {"type": "organic", "rank_group": 15, "rank_absolute": 19, "page": 2, "position": "left", "domain": "huntillinois.org", "title": "Hunt Illinois—Waterfowl", "url": "https://huntillinois.org/waterfowl", "description": "Current Zones, Season Dates & Limits ; North Zone Dates and Limits · DATES. 6-14 Sept 2025"},
+              {"type": "organic", "rank_group": 16, "rank_absolute": 20, "page": 2, "position": "left", "domain": "dwr.virginia.gov", "title": "Migratory Game Birds | Virginia DWR", "url": "https://dwr.virginia.gov/hunting/regulations/migratory-gamebirds/", "description": "Waterfowl hunting on the Mattaponi Wildlife Management Area is permitted only on October 10–13."},
+              {"type": "organic", "rank_group": 17, "rank_absolute": 21, "page": 2, "position": "left", "domain": "georgiawildlife.com", "title": "Migratory Bird Hunting: 2025-26 Season Dates Approved", "url": "https://georgiawildlife.com/migratory-bird-hunting-2025-26-season-dates-approved", "description": "Canada goose hunting has three additional seasons: Oct. 11-26, Nov. 22-30, and Dec. 6 - Jan. 25."},
+              {"type": "organic", "rank_group": 18, "rank_absolute": 22, "page": 2, "position": "left", "domain": "www.iowadnr.gov", "title": "Iowa DNR 2025-26 Iowa Migratory Game Bird Hunting ...", "url": "https://www.iowadnr.gov/media/1702/download?inline", "description": "BAG LIMITS. TEAL SEASON: Daily limit 6; blue-wing, green-wing & cinnamon teal only. DUCKS: Daily limit 6."},
+              {"type": "organic", "rank_group": 19, "rank_absolute": 23, "page": 2, "position": "left", "domain": "www.wildlife.nh.gov", "title": "Waterfowl and Migratory Bird Hunting in New Hampshire", "url": "https://www.wildlife.nh.gov/hunting-nh/waterfowl-and-migratory-bird-hunting-new-hampshire", "description": "Resources ; Dec 1- Jan 12 · Oct 1- Nov 14 · Sep 15- Nov 14"},
+              {"type": "related_searches", "rank_group": 2, "rank_absolute": 24, "page": 2, "position": "left", "items": ["When is geese hunting season in ny","Goose Season Washington","When does goose season start","Duck season by state","When is Duck season in Idaho","When does Goose season start in Colorado","Goose season Wisconsin","When does duck season end in nc"]}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "duck hunting season",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.0416 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282004-1118-0139-0000-05629a2c73ea",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "2.9468 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": ["v3","serp","google","organic","live","advanced"],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "duck hunting season",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20
+            },
+            "result": [
+              {
+                "keyword": "duck hunting season",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=duck%20hunting%20season&hl=en&gl=US",
+                "datetime": "2026-04-28 17:04:26 +00:00",
+                "item_types": ["ai_overview","organic","people_also_ask","video","related_searches"],
+                "se_results_count": 76100000,
+                "pages_count": 2,
+                "items_count": 24,
+                "items": [
+                  {"type": "ai_overview", "rank_group": 1, "rank_absolute": 1, "page": 1, "asynchronous_ai_overview": true},
+                  {"type": "organic", "rank_group": 1, "rank_absolute": 2, "page": 1, "domain": "www.fws.gov", "title": "How the Hunting Seasons and Limits are Set for Waterfowl", "url": "https://www.fws.gov/story/how-hunting-seasons-and-limits-are-set-waterfowl", "description": "The earliest (September 1) and latest (March 10) dates allowed for hunting are set by the Migratory Bird Conventions."},
+                  {"type": "people_also_ask", "rank_group": 1, "rank_absolute": 3, "page": 1, "items": [{"title": "How long is duck season in CA?"},{"title": "What month is best for duck hunting?"},{"title": "What time can you shoot waterfowl in Ohio?"},{"title": "How long is duck season in Missouri?"}]},
+                  {"type": "organic", "rank_group": 2, "rank_absolute": 4, "page": 1, "domain": "myfwc.com", "title": "Migratory Bird Hunting Regulations", "url": "https://myfwc.com/hunting/regulations/birds/", "description": "2025-2026 Florida Migratory Bird Hunting Season Dates and Bag Limits; Duck (W). Sept. 20-24 (teal and wood duck only) Nov. 22-30. Dec. 6 – Jan. 25."},
+                  {"type": "organic", "rank_group": 3, "rank_absolute": 5, "page": 1, "domain": "dec.ny.gov", "title": "Waterfowl and Migratory Game Bird Seasons - NYSDEC", "url": "https://dec.ny.gov/things-to-do/hunting/migratory-game-bird/seasons", "description": "Young hunters, 12 to 15 years of age, possessing a junior hunting license may hunt ducks, coots, mergansers, Canada geese, and brant on 2 special days."},
+                  {"type": "organic", "rank_group": 4, "rank_absolute": 6, "page": 1, "domain": "www.ducks.org", "title": "The Waterfowler's Calendar", "url": "https://www.ducks.org/hunting/duck-hunting-stories/the-waterfowlers-calendar", "description": "For die-hard hunters who can't bear to see the season end, here's a month-by-month guide to enjoying the waterfowling lifestyle year-round."},
+                  {"type": "organic", "rank_group": 5, "rank_absolute": 7, "page": 1, "domain": "dnr.wisconsin.gov", "title": "Waterfowl Hunting - Wisconsin DNR", "url": "https://dnr.wisconsin.gov/topic/hunt/waterfowl", "description": "2025 Season Dates ; Northern Duck Zone, Sept. 27- Nov. 25"},
+                  {"type": "organic", "rank_group": 6, "rank_absolute": 8, "page": 1, "domain": "dwr.virginia.gov", "title": "Migratory Game Birds | Virginia DWR", "url": "https://dwr.virginia.gov/hunting/regulations/migratory-gamebirds/", "description": "Waterfowl hunting on the Robert W. Duncan WMA is permitted only on October 10–13."},
+                  {"type": "organic", "rank_group": 7, "rank_absolute": 9, "page": 1, "domain": "www.outdooralabama.com", "title": "Waterfowl Season | Outdoor Alabama", "url": "https://www.outdooralabama.com/seasons-and-bag-limits/waterfowl-season", "description": "6 a day; Shooting Hours: One-half hour before Sunrise to Sunset. DUCK, COOT AND MERGANSER. November 28 – November 29."},
+                  {"type": "organic", "rank_group": 8, "rank_absolute": 10, "page": 1, "domain": "tpwd.texas.gov", "title": "Duck — Texas Parks & Wildlife Department", "url": "https://tpwd.texas.gov/regulations/outdoor-annual/regs/animals/duck", "description": "Duck2025-2026 Seasons & Regulations"},
+                  {"type": "organic", "rank_group": 9, "rank_absolute": 11, "page": 1, "domain": "georgiawildlife.com", "title": "2025–26 Migratory Bird Season Dates Updated June 2025", "url": "https://georgiawildlife.com/sites/default/files/wrd/pdf/hunting/2025-26%20Migratory%20Bird%20Season%20Dates.pdf", "description": "6–Jan. 25. 4 per day. 12 in possession."},
+                  {"type": "related_searches", "rank_group": 1, "rank_absolute": 13, "page": 1, "items": ["duck hunting season near california","duck hunting season near texas","Duck hunting season california","Duck hunting season ga","Duck hunting season NJ","Duck hunting season PA","Duck hunting Season game","Florida duck hunting season"]},
+                  {"type": "organic", "rank_group": 10, "rank_absolute": 14, "page": 2, "domain": "en.wikipedia.org", "title": "Waterfowl hunting", "url": "https://en.wikipedia.org/wiki/Waterfowl_hunting", "description": "The waterfowl hunting season is generally in the autumn and winter."},
+                  {"type": "organic", "rank_group": 11, "rank_absolute": 15, "page": 2, "domain": "dwr.virginia.gov", "title": "Migratory Game Birds | Virginia DWR", "url": "https://dwr.virginia.gov/hunting/regulations/migratory-gamebirds/"},
+                  {"type": "organic", "rank_group": 12, "rank_absolute": 16, "page": 2, "domain": "www.agfc.com", "title": "Waterfowl Season Dates, Rules & Regulations", "url": "https://www.agfc.com/hunting/waterfowl/waterfowl-dates-rules-regulations/", "description": "Waterfowl hunting is allowed 30 minutes before sunrise until sunset Jan. 31 as well as Feb. 7-8."},
+                  {"type": "organic", "rank_group": 13, "rank_absolute": 17, "page": 2, "domain": "www.njwoodsandwater.com", "title": "2025-2026 Duck/Goose Seasons - Waterfowl Hunting", "url": "https://www.njwoodsandwater.com/forums/topic/79889-2025-2026-duckgoose-seasons/"},
+                  {"type": "organic", "rank_group": 14, "rank_absolute": 18, "page": 2, "domain": "myfwc.com", "title": "Waterfowl Hunting: Rules and Regulations", "url": "https://myfwc.com/hunting/waterfowl/hunt-guide/regulations/", "description": "There is an early wood duck and teal season in September."},
+                  {"type": "organic", "rank_group": 15, "rank_absolute": 19, "page": 2, "domain": "dec.ny.gov", "title": "Waterfowl and Migratory Game Bird Seasons - NYSDEC", "url": "https://dec.ny.gov/things-to-do/hunting/migratory-game-bird/seasons"},
+                  {"type": "organic", "rank_group": 16, "rank_absolute": 20, "page": 2, "domain": "wildlife.ca.gov", "title": "Waterfowl Hunting - California Department of Fish and Wildlife", "url": "https://wildlife.ca.gov/Hunting/Waterfowl", "description": "2025-2026 Regulations"},
+                  {"type": "organic", "rank_group": 17, "rank_absolute": 21, "page": 2, "domain": "www.eregulations.com", "title": "General Migratory Bird Seasons, Shooting Hours, & Bag ...", "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits"},
+                  {"type": "organic", "rank_group": 18, "rank_absolute": 22, "page": 2, "domain": "duckboats.net", "title": "How many days? - Duckboats", "url": "https://duckboats.net/community/threads/how-many-days.121865/"},
+                  {"type": "organic", "rank_group": 19, "rank_absolute": 23, "page": 2, "domain": "myodfw.com", "title": "Game Bird Hunting Seasons | Oregon Dept of Fish & Wildlife", "url": "https://myodfw.com/game-bird-hunting/seasons"},
+                  {"type": "related_searches", "rank_group": 2, "rank_absolute": 24, "page": 2, "items": ["duck hunting season near california","duck hunting season near texas","Duck hunting season PA","Duck hunting season ga","Duck season by state","Duck hunting season NJ","Duck hunting Season game","Duck hunting season 2026"]}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "goose hunting season",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.8890 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282004-1118-0139-0000-89387bad8b88",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "3.8116 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": ["v3","serp","google","organic","live","advanced"],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "goose hunting season",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20
+            },
+            "result": [
+              {
+                "keyword": "goose hunting season",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=goose%20hunting%20season&hl=en&gl=US",
+                "datetime": "2026-04-28 17:04:30 +00:00",
+                "item_types": ["ai_overview","organic","people_also_ask","video","related_searches"],
+                "se_results_count": 12700000,
+                "pages_count": 2,
+                "items_count": 24,
+                "items": [
+                  {"type": "ai_overview", "rank_group": 1, "rank_absolute": 1, "page": 1, "asynchronous_ai_overview": true},
+                  {"type": "organic", "rank_group": 1, "rank_absolute": 2, "page": 1, "domain": "dec.ny.gov", "title": "Waterfowl and Migratory Game Bird Seasons - NYSDEC", "url": "https://dec.ny.gov/things-to-do/hunting/migratory-game-bird/seasons", "description": "The Canada goose season length in the Northeast, West Central, East Central, Hudson Valley, and Lake Champlain zones is 30 days with a 1-bird bag limit."},
+                  {"type": "people_also_ask", "rank_group": 1, "rank_absolute": 3, "page": 1, "items": [{"title": "Can you goose hunt in Wisconsin?"},{"title": "Is goose hunting expensive?"},{"title": "When can geese be hunted?"},{"title": "How many Canadian geese can you shoot in CA?"}]},
+                  {"type": "organic", "rank_group": 2, "rank_absolute": 4, "page": 1, "domain": "myfwc.com", "title": "Migratory Bird Hunting Regulations", "url": "https://myfwc.com/hunting/regulations/birds/", "description": "2025-2026 Florida Migratory Bird Hunting Season Dates and Bag Limits ; Light Geese (Snow, blue and Ross') (W). Nov. 22-30. Dec. 6 – Jan. 25. 15"},
+                  {"type": "organic", "rank_group": 3, "rank_absolute": 5, "page": 1, "domain": "huntillinois.org", "title": "Hunt Illinois—Waterfowl", "url": "https://huntillinois.org/waterfowl"},
+                  {"type": "organic", "rank_group": 4, "rank_absolute": 6, "page": 1, "domain": "www.fws.gov", "title": "How the Hunting Seasons and Limits are Set for Waterfowl", "url": "https://www.fws.gov/story/how-hunting-seasons-and-limits-are-set-waterfowl"},
+                  {"type": "organic", "rank_group": 5, "rank_absolute": 7, "page": 1, "domain": "dnr.wisconsin.gov", "title": "Waterfowl Hunting - Wisconsin DNR", "url": "https://dnr.wisconsin.gov/topic/hunt/waterfowl", "description": "Season Dates, Regulations and Hours."},
+                  {"type": "organic", "rank_group": 6, "rank_absolute": 8, "page": 1, "domain": "dwr.virginia.gov", "title": "Migratory Game Birds | Virginia DWR", "url": "https://dwr.virginia.gov/hunting/regulations/migratory-gamebirds/"},
+                  {"type": "organic", "rank_group": 7, "rank_absolute": 9, "page": 1, "domain": "www.eregulations.com", "title": "Washington Migratory Game Bird Seasons", "url": "https://www.eregulations.com/washington/hunting/game-bird/migratory-game-bird-seasons"},
+                  {"type": "organic", "rank_group": 8, "rank_absolute": 10, "page": 1, "domain": "www.outdooralabama.com", "title": "Waterfowl Season | Outdoor Alabama", "url": "https://www.outdooralabama.com/seasons-and-bag-limits/waterfowl-season"},
+                  {"type": "video", "rank_group": 1, "rank_absolute": 11, "page": 1, "items": [{"type": "video_element", "source": "YouTube · MOSSBERG", "title": "How We Scout For Early Goose Season.", "url": "https://www.youtube.com/watch?v=hmz4utaEGUk"},{"type": "video_element", "source": "YouTube · BW Films", "title": "Goose Hunting on Opening Day! (Early Season 2025)", "url": "https://www.youtube.com/watch?v=iFlU2fZi3Bw"},{"type": "video_element", "source": "YouTube · KEO Vlogs", "title": "Goose Season Opener 2025", "url": "https://www.youtube.com/watch?v=0RPTS-tdtzk"}]},
+                  {"type": "organic", "rank_group": 9, "rank_absolute": 12, "page": 1, "domain": "www.ncwildlife.gov", "title": "2025-26 Migratory Bird Seasons", "url": "https://www.ncwildlife.gov/migratory-game-bird-hunting-seasons-and-extended-falconry-hunting-seasons-migratory-game/download?attachment"},
+                  {"type": "related_searches", "rank_group": 1, "rank_absolute": 13, "page": 1, "items": ["When is geese hunting season in ny","Canada goose season","Goose hunting season california","Goose hunting season NJ","Goose hunting season Wisconsin","Goose season ny 2026","Goose season Texas","When is Goose season in Maine"]},
+                  {"type": "organic", "rank_group": 10, "rank_absolute": 14, "page": 2, "domain": "georgiawildlife.com", "title": "Migratory Bird Hunting: 2025-26 Season Dates Approved", "url": "https://georgiawildlife.com/migratory-bird-hunting-2025-26-season-dates-approved"},
+                  {"type": "organic", "rank_group": 11, "rank_absolute": 15, "page": 2, "domain": "dnr.wisconsin.gov", "title": "Waterfowl Hunting - Wisconsin DNR", "url": "https://dnr.wisconsin.gov/topic/hunt/waterfowl"},
+                  {"type": "organic", "rank_group": 12, "rank_absolute": 16, "page": 2, "domain": "myodfw.com", "title": "Game Bird Hunting Seasons | Oregon Dept of Fish & Wildlife", "url": "https://myodfw.com/game-bird-hunting/seasons"},
+                  {"type": "organic", "rank_group": 13, "rank_absolute": 17, "page": 2, "domain": "www.ncwildlife.gov", "title": "Waterfowl in North Carolina - Hunting", "url": "https://www.ncwildlife.gov/hunting/waterfowl-north-carolina"},
+                  {"type": "organic", "rank_group": 14, "rank_absolute": 18, "page": 2, "domain": "support.louisianaoutdoors.com", "title": "Migratory Birds Hunting Schedule & Limit", "url": "https://support.louisianaoutdoors.com/hc/en-us/articles/40888506743700-Migratory-Birds-Hunting-Schedule-Limit"},
+                  {"type": "organic", "rank_group": 15, "rank_absolute": 19, "page": 2, "domain": "wildlife.utah.gov", "title": "What hunters should know about the 2025 Utah waterfowl ...", "url": "https://wildlife.utah.gov/news/utah-wildlife-news/2196-what-hunters-should-know-about-the-2025-utah-waterfowl-hunting-season.html"},
+                  {"type": "organic", "rank_group": 16, "rank_absolute": 20, "page": 2, "domain": "www.wildlife.nh.gov", "title": "Waterfowl and Migratory Bird Hunting in New Hampshire", "url": "https://www.wildlife.nh.gov/hunting-nh/waterfowl-and-migratory-bird-hunting-new-hampshire"},
+                  {"type": "organic", "rank_group": 17, "rank_absolute": 21, "page": 2, "domain": "www.in.gov", "title": "Migratory Game Bird Seasons and Regulations", "url": "https://www.in.gov/dnr/fish-and-wildlife/hunting-and-trapping/waterfowl-and-migratory-game-birds/migratory-gamebird-seasons-and-regulations/"},
+                  {"type": "organic", "rank_group": 18, "rank_absolute": 22, "page": 2, "domain": "www.michigan.gov", "title": "Waterfowl", "url": "https://www.michigan.gov/dnr/things-to-do/hunting/waterfowl"},
+                  {"type": "organic", "rank_group": 19, "rank_absolute": 23, "page": 2, "domain": "wildlife.ca.gov", "title": "Waterfowl Hunting - California Department of Fish and Wildlife", "url": "https://wildlife.ca.gov/Hunting/Waterfowl"},
+                  {"type": "related_searches", "rank_group": 2, "rank_absolute": 24, "page": 2, "items": ["When is geese hunting season in ny","Canada goose season","Goose hunting season california","Goose hunting season Wisconsin","Goose hunting season NJ","Goose season ny 2026","Goose season Texas","When is Goose season in Maine"]}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

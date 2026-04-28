@@ -1,0 +1,718 @@
+{
+  "id": "W17a",
+  "topic": "Maryland Hunting Seasons & Licensing",
+  "primary_keyword": "maryland hunting seasons",
+  "slug": "maryland_hunting_seasons",
+  "primary_keyword_data": {
+    "keyword": "maryland hunting seasons",
+    "search_volume": 590,
+    "cpc": null,
+    "competition": 0.0,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 260
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 320
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "search_volume": 260
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "search_volume": 170
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "search_volume": 170
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "search_volume": 260
+      }
+    ]
+  },
+  "keyword_suggestions": [
+    {
+      "keyword": "deer hunting in md",
+      "search_volume": 2400,
+      "cpc": 0.27,
+      "competition": 0.01
+    },
+    {
+      "keyword": "deer hunting season in maryland",
+      "search_volume": 2400,
+      "cpc": 0.27,
+      "competition": 0.01
+    },
+    {
+      "keyword": "deer hunting season in md",
+      "search_volume": 2400,
+      "cpc": 0.27,
+      "competition": 0.01
+    },
+    {
+      "keyword": "deer season in maryland",
+      "search_volume": 2400,
+      "cpc": 0.27,
+      "competition": 0.01
+    },
+    {
+      "keyword": "deer season in md",
+      "search_volume": 2400,
+      "cpc": 0.27,
+      "competition": 0.01
+    },
+    {
+      "keyword": "hunting in maryland season",
+      "search_volume": 2400,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "hunting season in md",
+      "search_volume": 2400,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland waterfowl hunting",
+      "search_volume": 2400,
+      "cpc": null,
+      "competition": 0.02
+    },
+    {
+      "keyword": "duck hunting season maryland",
+      "search_volume": 1600,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "duck season in maryland",
+      "search_volume": 1600,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland waterfowl season",
+      "search_volume": 1600,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md duck hunting season",
+      "search_volume": 1600,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md waterfowl season",
+      "search_volume": 1600,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland sika deer hunting",
+      "search_volume": 1000,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland turkey season",
+      "search_volume": 880,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland hunting regulations",
+      "search_volume": 480,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland muzzleloader season",
+      "search_volume": 480,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland goose season",
+      "search_volume": 390,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "turkey hunting in maryland",
+      "search_volume": 260,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland archery season",
+      "search_volume": 210,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md duck season",
+      "search_volume": 210,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "hunting calendar maryland",
+      "search_volume": 170,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md hunting regulations",
+      "search_volume": 170,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "coyote hunting maryland",
+      "search_volume": 140,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland pheasant hunting",
+      "search_volume": 140,
+      "cpc": null,
+      "competition": 0.04
+    },
+    {
+      "keyword": "maryland sika deer season",
+      "search_volume": 140,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md hunting calendar",
+      "search_volume": 140,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "goose hunting season maryland",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland deer hunting regulations",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md dnr hunting seasons",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md muzzleloader season",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "sunday deer hunting in maryland",
+      "search_volume": 90,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "maryland dnr hunting seasons",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md dnr hunting",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "sika deer season maryland",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "squirrel season maryland",
+      "search_volume": 40,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland canada goose season",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "md deer hunting regulations",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "sika deer maryland season",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "snow goose season maryland",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "turkey hunting season maryland",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "bird hunting maryland",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0.02
+    },
+    {
+      "keyword": "guided sika deer hunt maryland",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland dove hunting season",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland waterfowl regulations",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "sika deer hunting season maryland",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "duck hunting maryland season",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "duck hunting season in maryland",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0.0
+    },
+    {
+      "keyword": "maryland 2022 hunting season",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "maryland bow hunting regulations",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0.0
+    }
+  ],
+  "primary_serp": {
+    "keyword": "maryland hunting seasons",
+    "items": [
+      {
+        "rank": 1,
+        "type": "organic",
+        "title": "Maryland Hunting Seasons Calendar for 2025-2026",
+        "url": "https://dnr.maryland.gov/huntersguide/documents/hunting_seasons_calendar.pdf",
+        "domain": "dnr.maryland.gov",
+        "description": "Species, Season, & Region. 2025. 2026. Maryland Hunting Seasons Calendar for 2025-2026."
+      },
+      {
+        "rank": 2,
+        "type": "organic",
+        "title": "Maryland Deer Seasons & Bag Limits",
+        "url": "https://www.eregulations.com/maryland/hunting/deer-seasons-bag-limits",
+        "domain": "www.eregulations.com",
+        "description": "Archery. Sep. 5-Oct. 15, Sunday Oct. 19-Nov. 28, Dec. 15-Dec. 19, Sunday Jan. 4-Jan. 8, Jan. 12-Jan. 31."
+      },
+      {
+        "rank": 3,
+        "type": "organic",
+        "title": "2025-2026 Hunting and Trapping Information",
+        "url": "https://dnr.maryland.gov/huntersguide/pages/allspecies.aspx",
+        "domain": "dnr.maryland.gov",
+        "description": "2025-2026 Hunting and Trapping Information. All Game Species Seasons and Bag Limits."
+      },
+      {
+        "rank": 4,
+        "type": "organic",
+        "title": "Guide to the Maryland Hunting Season 2026",
+        "url": "https://huntwise.com/field-guide/state-hunting-guide/maryland-hunting-season",
+        "domain": "huntwise.com",
+        "description": "Mar 17, 2025 - Overview of season dates, hunting license information, bag limits, and more."
+      },
+      {
+        "rank": 5,
+        "type": "organic",
+        "title": "Deer Hunting Maryland: A Breakdown of the Seasons",
+        "url": "https://fishandhuntmaryland.com/articles/deer-hunting-maryland-breakdown-seasons",
+        "domain": "fishandhuntmaryland.com",
+        "description": "The 2024-2025 regular gun season for white-tailed deer is set from November 30 to December 14, 2024."
+      },
+      {
+        "rank": 6,
+        "type": "organic",
+        "title": "Maryland Hunting Seasons & Rules",
+        "url": "https://www.eregulations.com/maryland/hunting",
+        "domain": "www.eregulations.com",
+        "description": "Official Maryland Hunting regulations. Season dates, license info, bag limits and more."
+      },
+      {
+        "rank": 7,
+        "type": "organic",
+        "title": "Hunting in Maryland",
+        "url": "https://dnr.maryland.gov/wildlife/pages/hunt_trap/home.aspx",
+        "domain": "dnr.maryland.gov",
+        "description": "Hunting & Trapping in Maryland. 2025-2026 Maryland Hunting and Trapping Seasons Calendar; All Game Species - Seasons & Bag Limits."
+      },
+      {
+        "rank": 8,
+        "type": "organic",
+        "title": "Maryland Hunting Seasons - Facebook DNR Post",
+        "url": "https://www.facebook.com/MarylandDNR/posts/-marylands-2025-archery-deer-season-opens-september-5the-maryland-department-of-/1177967051028126/",
+        "domain": "www.facebook.com",
+        "description": "Antlerless deer firearms season is split into several dates throughout the fall and winter."
+      },
+      {
+        "rank": 9,
+        "type": "organic",
+        "title": "Maryland Hunting Seasons, Licenses and Regulations",
+        "url": "https://www.sportsmans.com/maryland-hunting-guide",
+        "domain": "www.sportsmans.com",
+        "description": "Maryland deer seasons run from September through January, plus primitive deer hunt days."
+      },
+      {
+        "rank": 10,
+        "type": "organic",
+        "title": "2024-2025 Maryland Hunting Season Calendar",
+        "url": "https://deepcreektimes.com/2024-2025-maryland-hunting-season-calendar/",
+        "domain": "deepcreektimes.com",
+        "description": "Comprehensive information on Deer Hunting, Migratory Game Bird Hunting, Small Game Hunting, and Furbearer Hunting."
+      },
+      {
+        "rank": 11,
+        "type": "organic",
+        "title": "Maryland Hunting Seasons Calendar all in 18-19",
+        "url": "https://quakerneckgunclub.com/wp-content/uploads/2019/06/Hunting_Seasons_Calendar.pdf",
+        "domain": "quakerneckgunclub.com",
+        "description": "The Fall Season hunting area includes Allegany, Garrett and Washington counties only. Winter Season is open statewide."
+      },
+      {
+        "rank": 12,
+        "type": "organic",
+        "title": "Deer Season and Bag Limits - Assateague Island",
+        "url": "https://www.nps.gov/asis/planyourvisit/deer-season-and-bag-limits.htm",
+        "domain": "www.nps.gov",
+        "description": "NO SUNDAY HUNTING; General Firearms Season Late Season Firearms, Southern Zone: Nov. 29 - Dec. 13."
+      },
+      {
+        "rank": 13,
+        "type": "organic",
+        "title": "Hunting Calendar - Meade Natural Heritage Association",
+        "url": "https://www.mnha.net/hunting-calendar",
+        "domain": "www.mnha.net",
+        "description": "Sep 7 Labor Day Closed; Oct 12 Columbus Day Closed; Nov 11 Veterans Day OPEN."
+      },
+      {
+        "rank": 14,
+        "type": "organic",
+        "title": "Maryland Deer Firearms Season Resumes January 9, 2026",
+        "url": "https://news.maryland.gov/dnr/2025/12/23/maryland-deer-firearms-season-resumes-january-9-2026/",
+        "domain": "news.maryland.gov",
+        "description": "Dec 23, 2025 - The season is open Jan. 9-10 in all of Region B."
+      },
+      {
+        "rank": 15,
+        "type": "organic",
+        "title": "When is deer hunting season in Maryland?",
+        "url": "https://www.exploremdhomes.com/blog/when-is-deer-hunting-season-in-maryland/",
+        "domain": "www.exploremdhomes.com",
+        "description": "Oct 16, 2023 - Firearms season usually spans from early November to early December."
+      },
+      {
+        "rank": 16,
+        "type": "organic",
+        "title": "Maryland Hunting Season 2024 2025 Calendar",
+        "url": "https://eset.desales.edu/viewer/maryland-hunting-season-2024-2025-calendar.html",
+        "domain": "eset.desales.edu",
+        "description": "The junior turkey hunt season is open statewide on saturday, april 12, 2025."
+      },
+      {
+        "rank": 17,
+        "type": "organic",
+        "title": "Maryland Hunting Regulations",
+        "url": "https://www.eregulations.com/maryland/hunting/hunting-regulations",
+        "domain": "www.eregulations.com",
+        "description": "Get up-to-date Maryland hunting regulations, including season dates, legal methods, and bag limits."
+      },
+      {
+        "rank": 18,
+        "type": "organic",
+        "title": "An In Focus look at the hunting season calendar in Maryland",
+        "url": "https://www.youtube.com/watch?v=KVyMJlfxbzU",
+        "domain": "www.youtube.com",
+        "description": "Antler white tail deer hunting season using firearms begins this Saturday November 29th and lasts just two weeks."
+      }
+    ],
+    "people_also_ask": [],
+    "related_searches": [
+      "Maryland Hunting regions",
+      "Maryland hunting seasons 2023",
+      "Maryland hunting license",
+      "Maryland Hunting season 25 26",
+      "Maryland Hunting Regulations",
+      "Maryland Hunting regions map",
+      "Maryland Hunting season Calendar",
+      "MD Turkey season 2026"
+    ],
+    "serp_features": [
+      "organic",
+      "images",
+      "related_searches"
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "deer hunting season in maryland",
+      "serp": {
+        "keyword": "deer hunting season in maryland",
+        "items": [
+          {
+            "rank": 1,
+            "type": "organic",
+            "title": "Maryland Hunting Seasons Calendar for 2025-2026",
+            "url": "https://dnr.maryland.gov/huntersguide/documents/hunting_seasons_calendar.pdf",
+            "domain": "dnr.maryland.gov",
+            "description": "White-tailed and sika deer hunting seasons include Sundays."
+          },
+          {
+            "rank": 2,
+            "type": "organic",
+            "title": "Maryland Deer Seasons & Bag Limits",
+            "url": "https://www.eregulations.com/maryland/hunting/deer-seasons-bag-limits",
+            "domain": "www.eregulations.com",
+            "description": "Archery. Sep. 5-Oct. 15, Sunday Oct. 19-Nov. 28, Dec. 15-Dec. 19, Sunday Jan. 4-Jan. 8, Jan. 12-Jan. 31."
+          },
+          {
+            "rank": 3,
+            "type": "organic",
+            "title": "Deer Hunting Maryland: A Breakdown of the Seasons",
+            "url": "https://fishandhuntmaryland.com/articles/deer-hunting-maryland-breakdown-seasons",
+            "domain": "fishandhuntmaryland.com",
+            "description": "The 2024-2025 regular gun season for white-tailed deer is set from November 30 to December 14, 2024."
+          },
+          {
+            "rank": 4,
+            "type": "organic",
+            "title": "Maryland Deer Firearms Season Resumes January 9 - Facebook",
+            "url": "https://www.facebook.com/MarylandDNR/posts/-maryland-deer-firearms-season-resumes-january-9-2026winter-hunt-offers-last-opp/1285317480293082/",
+            "domain": "www.facebook.com",
+            "description": "The two-week firearms hunting season for sika and white-tailed deer opens Saturday, Nov. 25."
+          },
+          {
+            "rank": 5,
+            "type": "organic",
+            "title": "Maryland Deer Firearms Season Resumes January 9, 2026",
+            "url": "https://news.maryland.gov/dnr/2025/12/23/maryland-deer-firearms-season-resumes-january-9-2026/",
+            "domain": "news.maryland.gov",
+            "description": "Dec 23, 2025 - The season is open Jan. 9-10 in all of Region B."
+          },
+          {
+            "rank": 6,
+            "type": "organic",
+            "title": "Guide to the Maryland Hunting Season 2026",
+            "url": "https://huntwise.com/field-guide/state-hunting-guide/maryland-hunting-season",
+            "domain": "huntwise.com",
+            "description": "Maryland Deer Seasons: Archery: September 5 - October 15, 2025."
+          },
+          {
+            "rank": 7,
+            "type": "organic",
+            "title": "Deer Season and Bag Limits - Assateague Island",
+            "url": "https://www.nps.gov/asis/planyourvisit/deer-season-and-bag-limits.htm",
+            "domain": "www.nps.gov",
+            "description": "NO SUNDAY HUNTING; General Firearms Season: Southern Zone: Nov. 29 - Dec. 13."
+          },
+          {
+            "rank": 8,
+            "type": "organic",
+            "title": "Maryland Sunday Deer Hunting",
+            "url": "https://www.eregulations.com/maryland/hunting/sunday-deer-hunting",
+            "domain": "www.eregulations.com",
+            "description": "Sunday Deer Hunting; County. Lands Open. Archery Season."
+          },
+          {
+            "rank": 9,
+            "type": "organic",
+            "title": "Maryland Deer Hunting Trail",
+            "url": "https://fishandhuntmaryland.com/marylands-deer-",
+            "domain": "fishandhuntmaryland.com",
+            "description": "Once Maryland Deer Firearm Season opens the Saturday after Thanksgiving, it is time to start planning a hunt."
+          },
+          {
+            "rank": 10,
+            "type": "organic",
+            "title": "Deer Season In Maryland: Everything You Need To Know",
+            "url": "https://a-z-animals.com/blog/deer-season-in-maryland-everything-you-need-to-know-to-be-prepared/",
+            "domain": "a-z-animals.com",
+            "description": "Dec 5, 2022 - Deer season in Maryland is open in the winter and fall, starting early September until early February."
+          },
+          {
+            "rank": 11,
+            "type": "organic",
+            "title": "hunting - Maryland News",
+            "url": "https://news.maryland.gov/dnr/tag/hunting/",
+            "domain": "news.maryland.gov",
+            "description": "Feb 13, 2026 - The first segment of Maryland muzzleloader deer season will be open Oct. 17-19 statewide."
+          },
+          {
+            "rank": 12,
+            "type": "organic",
+            "title": "When is deer hunting season in Maryland?",
+            "url": "https://www.exploremdhomes.com/blog/when-is-deer-hunting-season-in-maryland/",
+            "domain": "www.exploremdhomes.com",
+            "description": "Oct 16, 2023 - Archery season for white-tailed deer begins in mid-September and runs through the end of January."
+          },
+          {
+            "rank": 13,
+            "type": "organic",
+            "title": "An In Focus look at the hunting season calendar in Maryland",
+            "url": "https://www.youtube.com/watch?v=KVyMJlfxbzU",
+            "domain": "www.youtube.com",
+            "description": "Antler white tail deer hunting season using firearms begins this Saturday November 29th and lasts just two weeks."
+          },
+          {
+            "rank": 14,
+            "type": "organic",
+            "title": "Maryland Hunting Seasons, Licenses and Regulations",
+            "url": "https://www.sportsmans.com/maryland-hunting-guide",
+            "domain": "www.sportsmans.com",
+            "description": "Maryland deer seasons run from September through January, plus primitive deer hunt days."
+          },
+          {
+            "rank": 15,
+            "type": "organic",
+            "title": "Maryland State Land Hunting Season 2025-2026",
+            "url": "https://deepcreektimes.com/maryland-state-land-hunting-season-2025-2026/",
+            "domain": "deepcreektimes.com",
+            "description": "Maryland Deer Firearms Hunting Opens October 16. Maryland Junior Deer Hunt Opens November 15."
+          },
+          {
+            "rank": 16,
+            "type": "organic",
+            "title": "Hunting Calendar - Meade Natural Heritage Association",
+            "url": "https://www.mnha.net/hunting-calendar",
+            "domain": "www.mnha.net",
+            "description": "Hunting dates and times may vary from DNR - especially Federal holidays."
+          },
+          {
+            "rank": 17,
+            "type": "organic",
+            "title": "Maryland Sunday Deer Hunting",
+            "url": "https://www.eregulations.com/maryland/hunting/sunday-deer-hunting",
+            "domain": "www.eregulations.com",
+            "description": "Sunday Deer Hunting. County. Lands Open. Archery Season."
+          },
+          {
+            "rank": 18,
+            "type": "organic",
+            "title": "Maryland Deer Seasons & Bag Limits",
+            "url": "https://www.eregulations.com/maryland/hunting/deer-seasons-bag-limits",
+            "domain": "www.eregulations.com",
+            "description": "Archery. Sep. 5-Oct. 15."
+          }
+        ],
+        "people_also_ask": [
+          "Is deer season still open in Maryland?",
+          "What is the 7 day rule for deer?",
+          "What is the 70 rule in deer hunting?",
+          "Can you shoot deer out of season on your property?"
+        ],
+        "related_searches": [
+          "Deer hunting season in maryland 2022",
+          "Maryland Hunting season 25 26",
+          "Maryland Hunting season Calendar",
+          "Md Hunting Season 24 25",
+          "Maryland Hunting regions map",
+          "MD Turkey season 2026",
+          "Hunting Season MD",
+          "Sika deer season Maryland"
+        ],
+        "serp_features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "images",
+          "related_searches"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "id": "W20a",
+  "topic": "West Virginia Hunting & Fishing Regulations",
+  "primary_keyword": "west virginia hunting seasons",
+  "slug": "west_virginia_hunting_seasons",
+  "primary_keyword_data": {
+    "keyword": "west virginia hunting seasons",
+    "search_volume": 4400,
+    "cpc": null,
+    "competition": 0.0,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 1300
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 2400
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 9900
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "search_volume": 8100
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "search_volume": 8100
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "search_volume": 4400
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "search_volume": 1600
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "search_volume": 1900
+      }
+    ]
+  },
+  "keyword_suggestions": [
+    {
+      "keyword": "west va hunting season",
+      "search_volume": 4400,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv hunting dates",
+      "search_volume": 4400,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "deer hunting season in west virginia",
+      "search_volume": 1900,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "deer season in west virginia",
+      "search_volume": 1900,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv hunting laws",
+      "search_volume": 1900,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "hunt west virginia",
+      "search_volume": 1600,
+      "cpc": 0.95,
+      "competition": 0.01
+    },
+    {
+      "keyword": "west virginia turkey season",
+      "search_volume": 1300,
+      "cpc": 3.59,
+      "competition": 0
+    },
+    {
+      "keyword": "squirrel season west virginia",
+      "search_volume": 880,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "bow season in west virginia",
+      "search_volume": 720,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "west virginia archery season",
+      "search_volume": 720,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv bear season",
+      "search_volume": 720,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "west virginia deer rifle season",
+      "search_volume": 480,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv muzzleloader season",
+      "search_volume": 480,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "hog hunting in west virginia",
+      "search_volume": 320,
+      "cpc": 0.83,
+      "competition": 0.02
+    },
+    {
+      "keyword": "west virginia deer hunting",
+      "search_volume": 320,
+      "cpc": 0.81,
+      "competition": 0
+    },
+    {
+      "keyword": "bear hunting in wv",
+      "search_volume": 260,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "check in deer wv",
+      "search_volume": 210,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv elk hunting",
+      "search_volume": 170,
+      "cpc": 1.31,
+      "competition": 0.03
+    },
+    {
+      "keyword": "dnr wv hunting seasons",
+      "search_volume": 140,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "turkey hunting in west virginia",
+      "search_volume": 140,
+      "cpc": null,
+      "competition": 0.01
+    },
+    {
+      "keyword": "duck hunting in west virginia",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0.01
+    },
+    {
+      "keyword": "west virginia deer hunting regulations",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "public hunting in west virginia",
+      "search_volume": 90,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "west virginia turkey hunting regulations",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv turkey hunting regulations",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "west virginia bear hunting season",
+      "search_volume": 50,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "west virginia dnr hunting",
+      "search_volume": 50,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv dnr deer check in",
+      "search_volume": 40,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv youth hunting regulations",
+      "search_volume": 40,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "west virginia bear hunting regulations",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "wv bow hunting regulations",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "2023 wv hunting regulations",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "deer season wv 2022",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "elk hunting season west virginia",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "west virginia hunting schedule",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0
+    }
+  ],
+  "primary_serp": {
+    "keyword": "west virginia hunting seasons",
+    "items": [
+      {
+        "rank": 1,
+        "type": "organic",
+        "title": "West Virginia Hunting Season Dates, Regs, & Game Info",
+        "url": "https://wvdnr.gov/hunting-seasons/",
+        "domain": "wvdnr.gov",
+        "description": "West Virginia 2025-2026 Hunting Season Dates For bag, possession and season limits, check page 2 in the West Virginia Hunting and Trapping Regulations."
+      },
+      {
+        "rank": 2,
+        "type": "organic",
+        "title": "West Virginia Hunting Regulations & Season Info",
+        "url": "https://wvdnr.gov/hunting/hunting-regulations/",
+        "domain": "wvdnr.gov",
+        "description": "Season dates and open counties for antlerless deer, fall turkey and black bear hunting seasons have changed."
+      },
+      {
+        "rank": 3,
+        "type": "organic",
+        "title": "Hunting Seasons and Dates - West Virginia Hunting",
+        "url": "https://www.eregulations.com/westvirginia/hunting/hunting-seasons-and-dates",
+        "domain": "www.eregulations.com",
+        "description": "Turkey - Spring 2025: April 21 - May 25, 2025; Youth Turkey Hunt: April 19-20, 2025; Fall 2025 (Split Season): October 11-19, 2025."
+      },
+      {
+        "rank": 4,
+        "type": "organic",
+        "title": "HuntING and Trapping REGULATIONS SUMMARY July 2025",
+        "url": "https://wvdnr.gov/wp-content/uploads/2025/08/Pub_Regs_HuntTrap2526_DNR_WILD_20250731_pp.pdf",
+        "domain": "wvdnr.gov",
+        "description": "See West Virginia Migratory Bird Hunting Regulations available in August for details."
+      },
+      {
+        "rank": 5,
+        "type": "organic",
+        "title": "Guide to West Virginia Hunting Seasons 2026",
+        "url": "https://huntwise.com/field-guide/state-hunting-guide/west-virginia-hunting-seasons",
+        "domain": "huntwise.com",
+        "description": "Apr 3, 2025 - West Virginia Deer Hunting Season: Buck Firearms: November 24 - December 7, 2025; Archery and Crossbow: September 27 - December 31, 2025."
+      },
+      {
+        "rank": 6,
+        "type": "organic",
+        "title": "West Virginia Hunting Season Guide: Rules, Dates, and Fees",
+        "url": "https://huntinglocator.com/blog/west-virginia-hunting-seasons/",
+        "domain": "huntinglocator.com",
+        "description": "Feb 26, 2026 - Firearms season runs October 25-November 1, 2026, and February 6-8, 2027. Archery/crossbow hunters get September 27-December 31, 2026."
+      },
+      {
+        "rank": 7,
+        "type": "organic",
+        "title": "Deer Hunting Regulations and Seasons | Virginia DWR",
+        "url": "https://dwr.virginia.gov/hunting/regulations/deer/",
+        "domain": "dwr.virginia.gov",
+        "description": "November 15 through January 3 (full season). October 1 through November 30."
+      },
+      {
+        "rank": 8,
+        "type": "organic",
+        "title": "West Virginia 2025-2026 Hunting Season Dates",
+        "url": "https://www.wvnews.com/news/wvnews/west-virginia-2025-2026-hunting-season-dates-deer-bear-turkey-and-small-game-schedule/article_2772a3a0-0340-4cb0-b2a9-2a0164c1a811.html",
+        "domain": "www.wvnews.com",
+        "description": "Oct 7, 2025 - Key Hunting Season Dates: Wild Boar (Gun): Oct. 25-Nov.; Wild Boar (Archery/Crossbow): Sept. 27-Dec.; Deer (Buck Firearms): Nov. 24-Dec."
+      },
+      {
+        "rank": 9,
+        "type": "organic",
+        "title": "West Virginia Hunting Seasons & Rules",
+        "url": "https://www.eregulations.com/westvirginia/hunting",
+        "domain": "www.eregulations.com",
+        "description": "Official West Virginia Hunting regulations. Season dates, license info, bag limits and more. Deer and Turkey Season info."
+      },
+      {
+        "rank": 10,
+        "type": "organic",
+        "title": "Dates for WV's 2025-2026 hunting seasons released",
+        "url": "https://www.wboy.com/wv-outdoors/dates-for-west-virginias-2025-2026-hunting-seasons-released/",
+        "domain": "www.wboy.com",
+        "description": "Jun 23, 2025 - Dates for West Virginia 2025-2026 hunting seasons: Buck firearm - Nov. 24-Dec. 7; Archery and crossbow (deer) - Sept. 27-Dec. 31."
+      },
+      {
+        "rank": 11,
+        "type": "organic",
+        "title": "Kicking off Buck Firearm Season in West Virginia today",
+        "url": "https://www.facebook.com/WVGovernor/posts/kicking-off-buck-firearm-season-in-west-virginia-todayas-hunters-from-across-the/122146330328730536/",
+        "domain": "www.facebook.com",
+        "description": "The two-week Buck Firearm Season runs November twenty-fourth through December 7th in every county except Logan, Mingo, Wyoming, and McDowell."
+      },
+      {
+        "rank": 12,
+        "type": "organic",
+        "title": "WV Hunting Guide: Licenses, Seasons, and Regulations",
+        "url": "https://wvdnr.gov/hunting/",
+        "domain": "wvdnr.gov",
+        "description": "Explore hunting in West Virginia: get your license, check seasons, rules & public lands with WVDNR full hunting guide."
+      },
+      {
+        "rank": 13,
+        "type": "organic",
+        "title": "West Virginia Hunting Seasons & Rules",
+        "url": "https://www.eregulations.com/westvirginia/hunting",
+        "domain": "www.eregulations.com",
+        "description": "Official West Virginia Hunting regulations. Season dates, license info, bag limits and more."
+      },
+      {
+        "rank": 14,
+        "type": "organic",
+        "title": "West Virginia 2023-2024 Hunting Season Dates",
+        "url": "https://mtstate.org/wvhuntingseason/",
+        "domain": "mtstate.org",
+        "description": "West Virginia 2023-2024 Hunting Season Dates. See Regulations Summary for Bag, Possession and Season Limits."
+      },
+      {
+        "rank": 15,
+        "type": "organic",
+        "title": "Hunting - Almost Heaven - West Virginia",
+        "url": "https://wvtourism.com/seasons/fall/hunting/",
+        "domain": "wvtourism.com",
+        "description": "West Virginia state forests are open to hunting during both small and big game seasons."
+      },
+      {
+        "rank": 16,
+        "type": "organic",
+        "title": "Dates for WV's 2025-2026 hunting seasons released",
+        "url": "https://www.wboy.com/wv-outdoors/dates-for-west-virginias-2025-2026-hunting-seasons-released/",
+        "domain": "www.wboy.com",
+        "description": "Jun 23, 2025 - Buck firearm - Nov. 24-Dec. 7; Archery and crossbow (deer) - Sept. 27-Dec. 31."
+      },
+      {
+        "rank": 17,
+        "type": "organic",
+        "title": "New changes announced for 2024-25 West Virginia hunting seasons",
+        "url": "https://www.wvnstv.com/outdoors-wildlife/new-changes-announced-for-2024-25-west-virginia-hunting-seasons/",
+        "domain": "www.wvnstv.com",
+        "description": "Jun 28, 2024 - October 12th to 20th (most counties); October 28th to November 3rd (fewer counties); November 3rd to 17th (14 counties)."
+      },
+      {
+        "rank": 18,
+        "type": "organic",
+        "title": "West Virginia buck firearm season begins",
+        "url": "https://www.youtube.com/watch?v=Xu_YUYleySE",
+        "domain": "www.youtube.com",
+        "description": "From Nov. 24 to Dec. 7, hundreds of hunters will brace the outdoors for the annual tradition of buck firearm season."
+      },
+      {
+        "rank": 19,
+        "type": "organic",
+        "title": "West Virginia Hunting: Complete 2025 Season Guide",
+        "url": "https://huntinglocator.com/blog/west-virginia-hunting/",
+        "domain": "huntinglocator.com",
+        "description": "Sep 6, 2025 - Complete hunters guide for the 2025 season containing licenses, restrictions and more."
+      },
+      {
+        "rank": 20,
+        "type": "organic",
+        "title": "Small Game Hunting in West Virginia",
+        "url": "https://wvdnr.gov/hunting/small-game/",
+        "domain": "wvdnr.gov",
+        "description": "Small game hunting begins in September and runs into the following year. Squirrel season starts in September, ruffed grouse in October."
+      }
+    ],
+    "people_also_ask": [
+      "What hunting seasons are open in WV right now?",
+      "What is the 7 day rule for deer?",
+      "What animals can you hunt year round in West Virginia?",
+      "How much is a non-resident hunting license in WV?"
+    ],
+    "related_searches": [
+      "West Virginia deer rifle season",
+      "WV hunting seasons 25 26",
+      "West Virginia hunting license",
+      "WV turkey season 2026",
+      "WV youth hunting Regulations",
+      "West virginia hunting seasons 2022",
+      "West Virginia hunting license price",
+      "West virginia hunting seasons 2021 2022"
+    ],
+    "serp_features": [
+      "organic",
+      "people_also_ask",
+      "related_searches"
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "deer hunting season in west virginia",
+      "serp": {
+        "keyword": "deer hunting season in west virginia",
+        "items": [
+          {
+            "rank": 1,
+            "type": "organic",
+            "title": "West Virginia Hunting Season Dates, Regs, & Game Info",
+            "url": "https://wvdnr.gov/hunting-seasons/",
+            "domain": "wvdnr.gov",
+            "description": "*Deer (Archery and Crossbow), September 27, December 31. *Deer (Antlerless) Split Season (Selected Counties), October 23, October 26. November 24, December 7. Read more"
+          },
+          {
+            "rank": 2,
+            "type": "organic",
+            "title": "Hunting Seasons and Dates - West Virginia Hunting",
+            "url": "https://www.eregulations.com/westvirginia/hunting/hunting-seasons-and-dates",
+            "domain": "www.eregulations.com",
+            "description": "Deer \u00b7 October 23 \u2013 26, 2025 \u00b7 November 24 \u2013 December 7, 2025 \u00b7 December 11 \u2013 14, 2025 \u00b7 December 28 \u2013 31, 2025. Read more"
+          },
+          {
+            "rank": 3,
+            "type": "organic",
+            "title": "Guide to West Virginia Hunting Seasons 2026",
+            "url": "https://huntwise.com/field-guide/state-hunting-guide/west-virginia-hunting-seasons",
+            "domain": "huntwise.com",
+            "description": "Apr 3, 2025 \u2014 West Virginia Deer Hunting Season \u00b7 October 23 \u2013 26, 2025 \u00b7 November 24 \u2013 December 7, 2025 \u00b7 December 11 \u2013 14, 2025 \u00b7 December 28 \u2013 31, 2025. Read more"
+          },
+          {
+            "rank": 4,
+            "type": "organic",
+            "title": "HuntING and Trapping REGULATIONS SUMMARY July 2025",
+            "url": "https://wvdnr.gov/wp-content/uploads/2025/08/Pub_Regs_HuntTrap2526_DNR_WILD_20250731_pp.pdf",
+            "domain": "wvdnr.gov",
+            "description": "and female deer across West Virginia. This project will be ongoing for the next five years. Radio-tagged animals are legal game during the hunting season. Read more"
+          },
+          {
+            "rank": 5,
+            "type": "organic",
+            "title": "Governor Morrisey and WVDNR Announce Opening of Buck ...",
+            "url": "https://governor.wv.gov/article/governor-morrisey-and-wvdnr-announce-opening-buck-firearms-season-nov-24",
+            "domain": "governor.wv.gov",
+            "description": "Nov 19, 2025 \u2014 24th to Dec. 7th in every county except Logan, McDowell, Mingo, and Wyoming, which remain closed to firearms deer hunting. Hunters may harvest\u00a0... Read more"
+          },
+          {
+            "rank": 6,
+            "type": "organic",
+            "title": "West Virginia's buck firearms season and the next split of ...",
+            "url": "https://www.facebook.com/wildlifewv/posts/west-virginias-buck-firearms-season-and-the-next-split-of-the-antlerless-deer-se/1155668093423675/",
+            "domain": "www.facebook.com",
+            "description": "Antlerless deer firearms season is split into several dates throughout the fall and winter: October 23\u201326, November 24\u2013December 7, December 11\u2013\u00a0... Read more"
+          },
+          {
+            "rank": 7,
+            "type": "organic",
+            "title": "Hunting - Almost Heaven - West Virginia",
+            "url": "https://wvtourism.com/seasons/fall/hunting/",
+            "domain": "wvtourism.com",
+            "description": "West Virginia state forests are open to hunting during both small and big game seasons and make for an adventurous hunting destination. Read more"
+          },
+          {
+            "rank": 8,
+            "type": "organic",
+            "title": "Deer Season",
+            "url": "https://www.wvencyclopedia.org/articles/1866",
+            "domain": "www.wvencyclopedia.org",
+            "description": "Sep 18, 2025 \u2014 West Virginia holds a variety of deer seasons, including archery, antlerless, muzzleloader, and bucks only, with the last the centerpiece. Read more"
+          },
+          {
+            "rank": 9,
+            "type": "organic",
+            "title": "West Virginia 2025\u20132026 Hunting Season Dates",
+            "url": "https://www.wvnews.com/news/wvnews/west-virginia-2025-2026-hunting-season-dates-deer-bear-turkey-and-small-game-schedule/article_2772a3a0-0340-4cb0-b2a9-2a0164c1a811.html",
+            "domain": "www.wvnews.com",
+            "description": "Oct 7, 2025 \u2014 Deer (Muzzleloader): Dec. 15\u201321. Deer (Youth/Class Q/Class XS): Oct. 18\u201319 and Dec. 26\u00a0... Read more"
+          },
+          {
+            "rank": 10,
+            "type": "organic",
+            "title": "Deer Hunting Regulations and Seasons | Virginia DWR",
+            "url": "https://dwr.virginia.gov/hunting/regulations/deer/",
+            "domain": "dwr.virginia.gov",
+            "description": "October 4 through November 14: Statewide. Firearm season in Chesapeake, Suffolk (east of the Dismal Swamp line), and Virginia Beach overlaps early archery\u00a0... Read more"
+          },
+          {
+            "rank": 11,
+            "type": "organic",
+            "title": "Dates for WV's 2025-2026 hunting seasons released",
+            "url": "https://www.wboy.com/wv-outdoors/dates-for-west-virginias-2025-2026-hunting-seasons-released/",
+            "domain": "www.wboy.com",
+            "description": "Jun 23, 2025 \u2014 Dates for West Virginia's 2025-2026 hunting seasons released \u00b7 Buck firearm \u2013 Nov. 24-Dec. 7 \u00b7 Archery and crossbow (deer) \u2013 Sept. 27-Dec. 31. Read more"
+          },
+          {
+            "rank": 12,
+            "type": "organic",
+            "title": "West Virginia Hunting: Complete 2025 Season Guide For ...",
+            "url": "https://huntinglocator.com/blog/west-virginia-hunting/",
+            "domain": "huntinglocator.com",
+            "description": "Sep 6, 2025 \u2014 Two antlered deer maximum during regular seasons\u2014except CWD areas allow three; Electronic registration and tagging required before hunting again\u00a0... Read more"
+          },
+          {
+            "rank": 13,
+            "type": "organic",
+            "title": "Kicking off Buck Firearm Season in West Virginia today! As ...",
+            "url": "https://www.facebook.com/WVGovernor/posts/kicking-off-buck-firearm-season-in-west-virginia-todayas-hunters-from-across-the/122146330328730536/",
+            "domain": "www.facebook.com",
+            "description": "The two-week Buck Firearm Season runs November twenty- fourth through December 7th in every county except Logan, Mingo, Wyoming, and McDowell. Read more"
+          },
+          {
+            "rank": 14,
+            "type": "organic",
+            "title": "Hunting - Almost Heaven - West Virginia",
+            "url": "https://wvtourism.com/seasons/fall/hunting/",
+            "domain": "wvtourism.com",
+            "description": "West Virginia state forests are open to hunting during both small and big game seasons and make for an adventurous hunting destination. Read more"
+          },
+          {
+            "rank": 15,
+            "type": "organic",
+            "title": "Deer Season",
+            "url": "https://www.wvencyclopedia.org/articles/1866",
+            "domain": "www.wvencyclopedia.org",
+            "description": "Sep 18, 2025 \u2014 West Virginia holds a variety of deer seasons, including archery, antlerless, muzzleloader, and bucks only, with the last the centerpiece. Read more"
+          },
+          {
+            "rank": 16,
+            "type": "organic",
+            "title": "Antlerless Deer Season: A Complete Guide",
+            "url": "https://wvdnr.gov/wv-antlerless-deer-season-guide/",
+            "domain": "wvdnr.gov",
+            "description": "Sep 25, 2025 \u2014 When Are West Virginia's Antlerless Deer Seasons? \u00b7 October 23-36 \u00b7 November 24 \u2013 December 7 \u00b7 December 11-14 \u00b7 December 28-31. Read more"
+          },
+          {
+            "rank": 17,
+            "type": "organic",
+            "title": "New changes announced for 2024-25 West Virginia ...",
+            "url": "https://www.wvnstv.com/outdoors-wildlife/new-changes-announced-for-2024-25-west-virginia-hunting-seasons/",
+            "domain": "www.wvnstv.com",
+            "description": "Jun 28, 2024 \u2014 October 12th to 20th (most counties) \u00b7 October 28th to November 3rd (fewer counties) \u00b7 November 3rd to 17th (14 counties). Read more"
+          },
+          {
+            "rank": 18,
+            "type": "organic",
+            "title": "Round Two in West Virginia for the 2025 Archery Deer Season",
+            "url": "https://www.youtube.com/watch?v=A0hoOcOryVA",
+            "domain": "www.youtube.com",
+            "description": "I'm going to stop in there for a day or two at least and get some stuff ready for gun season. There's also some pretty good bucks on camera."
+          },
+          {
+            "rank": 19,
+            "type": "organic",
+            "title": "West Virginia deer season dates and regulations",
+            "url": "https://www.facebook.com/groups/1604376636508801/posts/4226516970961408/",
+            "domain": "www.facebook.com",
+            "description": "Deer archery season starts September 15 through December 31 state wide. Deer muzzleloader season starts September 15 through September 28\u00a0... Read more"
+          },
+          {
+            "rank": 20,
+            "type": "organic",
+            "title": "West Virginia 2023\u20132024 Hunting Season Dates",
+            "url": "https://mtstate.org/wvhuntingseason/",
+            "domain": "mtstate.org",
+            "description": "Split Season, February 2, February 4. *Deer (Buck Firearms), November 20, December 3. *Deer (Archery and Crossbow), September 30, December 31. *Deer (Antlerless) Read more"
+          }
+        ],
+        "people_also_ask": [
+          "What hunting seasons are open in WV right now?",
+          "What is the 70 rule in deer hunting?",
+          "Can I pee out of a tree stand while hunting deer?",
+          "Can I hunt on my own land without a license in WV?"
+        ],
+        "related_searches": [
+          "West Virginia deer rifle season",
+          "WV hunting regulations",
+          "WV turkey season 2026",
+          "Rifle season wv",
+          "WV hunting seasons 25 26",
+          "Muzzleloader season wv",
+          "Fall turkey season West Virginia",
+          "WV youth hunting Regulations",
+          "WV hunting regulations",
+          "WV hunting seasons 25 26",
+          "Wv Hunting Regulations for deer",
+          "WV turkey season 2026",
+          "Wv hunting license",
+          "WV youth hunting Regulations",
+          "When does deer season start in wv",
+          "Fall turkey season West Virginia"
+        ],
+        "serp_features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "related_searches"
+        ]
+      }
+    }
+  ]
+}

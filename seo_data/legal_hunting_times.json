@@ -1,0 +1,557 @@
+{
+  "id": "W26a",
+  "topic": "Legal Hunting Times Explained: Shooting Hours and Regulations",
+  "primary_keyword": "legal hunting hours",
+  "slug": "legal_hunting_times",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0472 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282005-1118-0093-0000-b24ac44fa238",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "0.0276 sec.",
+        "cost": 0.075,
+        "result_count": 1,
+        "path": [
+          "v3",
+          "keywords_data",
+          "google",
+          "search_volume",
+          "live"
+        ],
+        "data": {
+          "api": "keywords_data",
+          "function": "search_volume",
+          "se": "google",
+          "keywords": [
+            "legal hunting hours"
+          ],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {
+            "keyword": "legal hunting hours",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 880,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 30
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 30
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 6600
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 90
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.0567 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282005-1118-0090-0000-7db226a46b09",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.0420 sec.",
+        "cost": 0.075,
+        "result_count": 3,
+        "path": [
+          "v3",
+          "keywords_data",
+          "google",
+          "keywords_for_keywords",
+          "live"
+        ],
+        "data": {
+          "api": "keywords_data",
+          "function": "keywords_for_keywords",
+          "se": "google",
+          "keywords": [
+            "legal hunting hours"
+          ],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {
+            "keyword": "legal hunting hours",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 880,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 30
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 30
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 6600
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 90
+              }
+            ]
+          },
+          {
+            "keyword": "legal deer hunting hours",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 90,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 720
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 140
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "legal hunting hours maine 2022 23",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": null,
+            "competition": null,
+            "cpc": null,
+            "search_volume": 0,
+            "monthly_searches": []
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.0715 sec.",
+    "cost": 0.0055,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282005-1118-0139-0000-05a29042d545",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "result_count": 1,
+        "result": [
+          {
+            "keyword": "legal hunting hours",
+            "type": "organic",
+            "se_domain": "google.com",
+            "location_code": 2840,
+            "language_code": "en",
+            "datetime": "2026-04-28 17:05:26 +00:00",
+            "item_types": [
+              "ai_overview",
+              "organic",
+              "people_also_ask",
+              "images",
+              "related_searches"
+            ],
+            "se_results_count": 154000000,
+            "items_count": 24,
+            "items": [
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "www.maine.gov",
+                "title": "Legal Hunting Hours: Laws & Rules",
+                "url": "https://www.maine.gov/ifw/hunting-trapping/hunting/laws-rules/legal-hunting-hours.html"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "dnr.wisconsin.gov",
+                "title": "Hunting Regulations and Hours - Wisconsin DNR",
+                "url": "https://dnr.wisconsin.gov/topic/hunt/regulations"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "read.nxtbook.com",
+                "title": "2025-26 Hunting Hours Table",
+                "url": "https://read.nxtbook.com/pgc/huntingtrapping/20252026/_2025_26_hunting_hours_table.html"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "www.maine.gov",
+                "title": "2025-26 LEGAL HUNTING HOURS",
+                "url": "https://www.maine.gov/ifw/docs/Legal%20Shooting%20Hours.pdf"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "dwr.virginia.gov",
+                "title": "General Information & Hunting Regulations | Virginia DWR",
+                "url": "https://dwr.virginia.gov/hunting/regulations/general/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "www.hunter-ed.com",
+                "title": "Hunting Hours",
+                "url": "https://www.hunter-ed.com/virginia/studyGuide/Hunting-Hours/20104702_61939/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "www.eregulations.com",
+                "title": "Washington Hunting Hours",
+                "url": "https://www.eregulations.com/washington/hunting/hunting-hours"
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "domain": "www.pacodeandbulletin.gov",
+                "title": "PA Code hunting hours",
+                "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/058/chapter141/AppendixG.html"
+              },
+              {
+                "type": "related_searches",
+                "rank_group": 1,
+                "items": [
+                  "Legal hunting hours today",
+                  "Legal hunting hours Maine",
+                  "Wisconsin hunting hours today",
+                  "Legal hunting hours texas",
+                  "Legal hunting hours nh",
+                  "Wisconsin hunting hours Southern",
+                  "Legal hunting hours SC",
+                  "Pa legal hunting hours 2026"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "hunting shooting hours by state",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.3142 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282005-1118-0139-0000-8018ae25b310",
+            "status_code": 20000,
+            "result_count": 1,
+            "result": [
+              {
+                "keyword": "hunting shooting hours by state",
+                "se_results_count": 134000000,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "dnr.wisconsin.gov",
+                    "title": "Hunting Regulations and Hours - Wisconsin DNR",
+                    "url": "https://dnr.wisconsin.gov/topic/hunt/regulations"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "read.nxtbook.com",
+                    "title": "2025-26 Hunting Hours Table",
+                    "url": "https://read.nxtbook.com/pgc/huntingtrapping/20252026/_2025_26_hunting_hours_table.html"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "www.maine.gov",
+                    "title": "2025-26 LEGAL HUNTING HOURS",
+                    "url": "https://www.maine.gov/ifw/docs/Legal%20Shooting%20Hours.pdf"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "wdfw.wa.gov",
+                    "title": "2025-2026 Official Hunting Hours for game animals",
+                    "url": "https://wdfw.wa.gov/hunting/regulations/big-game/hunting-hours"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "www.hunter-ed.com",
+                    "title": "Shooting Hours",
+                    "url": "https://www.hunter-ed.com/southdakota/studyGuide/Shooting-Hours/20204303_258103/"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "Deer hunting shooting hours by state",
+                      "Wisconsin hunting hours today",
+                      "What time is legal shooting light today",
+                      "Wisconsin hunting hours Southern",
+                      "Wisconsin hunting hours today map PDF",
+                      "California hunting shooting hours by state",
+                      "Wisconsin hunting hours Northern",
+                      "Legal shooting hours MN"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "what time can you start hunting",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "6.7495 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282005-1118-0139-0000-a367597434e6",
+            "status_code": 20000,
+            "result_count": 1,
+            "result": [
+              {
+                "keyword": "what time can you start hunting",
+                "se_results_count": 482000000,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "www.mossyoak.com",
+                    "title": "When Can You Start Deer Hunting in the Morning?",
+                    "url": "https://www.mossyoak.com/our-obsession/blogs/deer/when-can-you-start-deer-hunting-in-the-morning"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "www.reddit.com",
+                    "title": "How early do you get up in the tree before first light?",
+                    "url": "https://www.reddit.com/r/bowhunting/comments/169pqym/how_early_do_you_get_up_in_the_tree_before_first/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "www.mdwfp.com",
+                    "title": "General Hunting Rules & Regulations | Mississippi ...",
+                    "url": "https://www.mdwfp.com/wildlife-hunting/general-hunting-rules-regulations"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "read.nxtbook.com",
+                    "title": "2025-26 Hunting Hours Table",
+                    "url": "https://read.nxtbook.com/pgc/huntingtrapping/20252026/_2025_26_hunting_hours_table.html"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "What time can you start hunting at night",
+                      "What time can you start hunting in illinois",
+                      "What time can you start hunting in the morning",
+                      "What time do deer come out in the morning",
+                      "What time do deer come out in the evening",
+                      "Deer movement times by zip code"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

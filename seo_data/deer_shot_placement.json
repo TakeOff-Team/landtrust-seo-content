@@ -1,0 +1,2726 @@
+{
+  "id": "W25b",
+  "topic": "Where to Aim to Kill a Deer: Shot Placement Guide for Ethical Harvest",
+  "primary_keyword": "where to shoot a deer",
+  "slug": "deer_shot_placement",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0391 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282003-1118-0093-0000-4cf20f94aa3d",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "0.0243 sec.",
+        "cost": 0.075,
+        "result_count": 1,
+        "path": [
+          "v3",
+          "keywords_data",
+          "google",
+          "search_volume",
+          "live"
+        ],
+        "data": {
+          "api": "keywords_data",
+          "function": "search_volume",
+          "se": "google",
+          "keywords": [
+            "where to shoot a deer"
+          ],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {
+            "keyword": "where to shoot a deer",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 27100,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 1900
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 3600
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 18100
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 40500
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 135000
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 60500
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 18100
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 5400
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 2900
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 1600
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "1.5643 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282003-1118-0090-0000-34167f8b9029",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "1.5454 sec.",
+        "cost": 0.075,
+        "result_count": 1,
+        "path": [
+          "v3",
+          "keywords_data",
+          "google",
+          "keywords_for_keywords",
+          "live"
+        ],
+        "data": {
+          "api": "keywords_data",
+          "function": "keywords_for_keywords",
+          "se": "google",
+          "keywords": [
+            "where to shoot a deer"
+          ],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {
+            "keyword": "where to shoot a deer",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 27100,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 1900
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 3600
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 18100
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 40500
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 135000
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 60500
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 18100
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 5400
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 2900
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 1600
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.1242 sec.",
+    "cost": 0.0055,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282003-1118-0139-0000-8023e46ac35f",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "5.0268 sec.",
+        "cost": 0.0055,
+        "result_count": 1,
+        "path": [
+          "v3",
+          "serp",
+          "google",
+          "organic",
+          "live",
+          "advanced"
+        ],
+        "data": {
+          "api": "serp",
+          "function": "live",
+          "se": "google",
+          "se_type": "organic",
+          "keyword": "where to shoot a deer",
+          "location_code": 2840,
+          "language_code": "en",
+          "device": "desktop",
+          "depth": 20,
+          "calculate_rectangles": true,
+          "os": "windows"
+        },
+        "result": [
+          {
+            "keyword": "where to shoot a deer",
+            "type": "organic",
+            "se_domain": "google.com",
+            "location_code": 2840,
+            "language_code": "en",
+            "check_url": "https://www.google.com/search?q=where%20to%20shoot%20a%20deer&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+            "datetime": "2026-04-28 17:03:22 +00:00",
+            "spell": null,
+            "refinement_chips": null,
+            "item_types": [
+              "images",
+              "people_also_ask",
+              "organic",
+              "video",
+              "related_searches"
+            ],
+            "se_results_count": 64900000,
+            "pages_count": 2,
+            "items_count": 23,
+            "items": [
+              {
+                "type": "images",
+                "rank_group": 1,
+                "rank_absolute": 1,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
+                "title": "Images",
+                "url": "https://www.google.com/search?sca_esv=b5576d60e09f6916&hl=en&gl=US&q=where+to+shoot+a+deer&udm=2&source=univ&fir=OFzqo60lan0UpM%252C_YrzAWT6WD4zTM%252C_%253BMpWp-_f8TCQhtM%252CDp6XZIjMYVRxYM%252C_%253B8rAnaNZhHRMfqM%252CpJNqoDMvJOzY8M%252C_%253B2Amas336f3dBNM%252ChUIAsmuXakWFIM%252C_%253BqXkkTJvSdA9j6M%252CtuOrcfre_gcYSM%252C_%253ByCw3AyhS4dg3pM%252CP8YXwHhke_sqmM%252C_%253BQdP-D_n1X94Y9M%252CqftiTzgSd86FaM%252C_%253BghSJfU_-u5_-CM%252C0Re8EKBB86Y_4M%252C_%253BFVwBpAJ473z4_M%252CdpRUhgx1ryyASM%252C_&usg=AI4_-kQw091Nm47vQLEUc81Uhwf9UcZYgA&sa=X&ved=2ahUKEwj0wJSqg5GUAxUDFTQIHecbKigQ7Al6BAgWEAU",
+                "items": [
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer: Shot Placement Guide for Bow & Rifle ...",
+                    "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart",
+                    "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-8023e46ac35f:0"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer | Mossy Oak",
+                    "url": "https://www.mossyoak.com/our-obsession/blogs/hunting/every-shot-placement-where-to-shoot-a-deer",
+                    "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-8023e46ac35f:1"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Here's our ultimate guide to shot placement on deer: https ...",
+                    "url": "https://www.facebook.com/outdoorlife/posts/heres-our-ultimate-guide-to-shot-placement-on-deer-httpswwwoutdoorlifecomhunting/1186912963483386/",
+                    "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-8023e46ac35f:2"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to shoot : r/Hunting",
+                    "url": "https://www.reddit.com/r/Hunting/comments/1dvkcdp/where_to_shoot/",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlK_4ncdNx8QGsyYUJfP1_v8UWV4OON2Elo7l6f1RrMGQYNzD6j7iMZqE&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Whitetail Deer Anatomy & Shot Placement!!",
+                    "url": "https://www.youtube.com/watch?v=bWhs2SmsOlM",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi3ub2c8jkk1nXm3F1DFA_YeYmtaNrCMLbA4OYRjUh&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer | With a Bow and Rifle | MeatEater ...",
+                    "url": "https://www.themeateater.com/wired-to-hunt/whitetail-hunting/where-to-shoot-a-deer",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrMBj-Id_FKJ4Oy4O8NvYWQ9QcmPliwcQ_5lOfCIgqZW1L2k8ohFudo3k&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer for a Clean Shot | HuntWise",
+                    "url": "https://huntwise.com/field-guide/deer/where-to-shoot-a-deer",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOmesEh4kDCeMe70lI_b6lfw2_buM58FMlbIavyOb9X_DlGSSa2uJwoY&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "How to Find the Perfect Shot Placement on Big-Game Animals ...",
+                    "url": "https://www.gameandfishmag.com/editorial/how-to-find-the-perfect-shot-placement-on-biggame-animals/509922",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWdZjrkbjLydz9W-tm49Heq39aklmLZunSxRQGTag3MLAZ442vycHXvc&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer: Bowhunting Shot Placement - Bowhunter",
+                    "url": "https://www.bowhunter.com/editorial/where-to-shoot-deer-bowhunting-shot-placement/379797",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw707XQ82QH9wbdX_SuVTccF659Xl0qB_UFM5QlRfe4cP5p1s7042gcDI&s"
+                  }
+                ],
+                "related_image_searches": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 184,
+                  "width": 652,
+                  "height": 357.98
+                }
+              },
+              {
+                "type": "people_also_ask",
+                "rank_group": 1,
+                "rank_absolute": 2,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+                "items": [
+                  {
+                    "type": "people_also_ask_element",
+                    "title": "Where is the best spot to shoot a deer with a gun?",
+                    "seed_question": null,
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                    "expanded_element": [
+                      {
+                        "type": "people_also_ask_expanded_element",
+                        "featured_title": null,
+                        "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement",
+                        "domain": "mtntough.com",
+                        "title": "The Best Deer Shot Placement from Any Angle - mtntough",
+                        "description": "Target the point where the deer's body lines intersect, just behind the front shoulder. Landmarks on the deer \u2013 like the lung area, shoulder blade, and heart \u2013 are your keys for a successful shot. You're aiming through the deer, targeting an exit through the opposite shoulder, this maximizes damage to the vitals.",
+                        "images": null,
+                        "timestamp": null,
+                        "table": null
+                      }
+                    ]
+                  },
+                  {
+                    "type": "people_also_ask_element",
+                    "title": "What is the 7 day rule for deer?",
+                    "seed_question": null,
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                    "expanded_element": [
+                      {
+                        "type": "people_also_ask_expanded_element",
+                        "featured_title": null,
+                        "url": "https://kjitripods.com/blogs/news/unlocking-the-7-day-rule-how-to-pattern-and-tag-mature-bucks-year-after-year",
+                        "domain": "kjitripods.com",
+                        "title": "Unlocking the 7-Day Rule: How to Pattern and Tag Mature Bucks Year ...",
+                        "description": "The 7-Day Rule is a strategy built around the fact that mature bucks often revisit specific scrapes, trails, or stand sites during the same 7-day period every year, sometimes down to the exact day.",
+                        "images": null,
+                        "timestamp": null,
+                        "table": null
+                      }
+                    ]
+                  },
+                  {
+                    "type": "people_also_ask_element",
+                    "title": "Where exactly to hit a deer?",
+                    "seed_question": null,
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                    "expanded_element": [
+                      {
+                        "type": "people_also_ask_expanded_element",
+                        "featured_title": null,
+                        "url": "https://www.hunter-ed.com/blog/hunter-tip-knowing-where-to-shoot-a-deer/",
+                        "domain": "www.hunter-ed.com",
+                        "title": "Hunter Tip: Knowing Where to Shoot a Deer",
+                        "description": "The heart, liver, and lungs are the most effective vitals to target for a quick kill. Heart: Sitting just above and slightly behind the shoulder, the heart is a small but deadly target. A direct hit to the heart results in rapid blood loss, and deer rarely run more than 50 yards.",
+                        "images": null,
+                        "timestamp": null,
+                        "table": null
+                      }
+                    ]
+                  },
+                  {
+                    "type": "people_also_ask_element",
+                    "title": "Why do you wait 30 minutes after shooting a deer?",
+                    "seed_question": null,
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                    "expanded_element": [
+                      {
+                        "type": "people_also_ask_expanded_element",
+                        "featured_title": null,
+                        "url": "https://tpwd.texas.gov/education/hunter-education/online-course/hunting-skills-1/after-the-shot",
+                        "domain": "tpwd.texas.gov",
+                        "title": "After the Shot - Texas Parks and Wildlife Department (TPWD)",
+                        "description": "If the deer has run off, mark the time then wait for at least 30 minutes to an hour before beginning to trail. After incurring a mortal wound, an animal, after a short run, will usually lie down, go into shock and die. If you move in too quickly, the animal's flight instinct will kick in.",
+                        "images": null,
+                        "timestamp": null,
+                        "table": null
+                      }
+                    ]
+                  }
+                ],
+                "rectangle": {
+                  "x": 230,
+                  "y": 585.98,
+                  "width": 652,
+                  "height": 247
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "rank_absolute": 3,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                "domain": "fieldandstream.com",
+                "title": "Where to Shoot a Deer With Gun or Bow",
+                "url": "https://fieldandstream.com/stories/hunting/deer-hunting/whitetail-hunting/deer-shot-placement-guide",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://fieldandstream.com \u203a ... \u203a Whitetail Hunting",
+                "website_name": "Field & Stream",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Mar 23, 2026 \u2014 Where to Shoot a Deer with a Gun \u00b7 1. The Behind-the-Shoulder Lung Shot \u00b7 2. High-Shoulder Shot \u00b7 3. Face-On Chest Shot \u00b7 4. Back of the Neck\u00a0... Read more",
+                "pre_snippet": "03/23/2026 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": {
+                  "current": 75,
+                  "regular": null,
+                  "max_value": null,
+                  "currency": "USD",
+                  "is_price_range": false,
+                  "displayed_price": "$75.00"
+                },
+                "highlighted": [
+                  "1. The Behind-the-Shoulder Lung Shot"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2026-03-23 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 876.98,
+                  "width": 652,
+                  "height": 138.53
+                }
+              },
+              {
+                "type": "video",
+                "rank_group": 1,
+                "rank_absolute": 4,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]",
+                "items": [
+                  {
+                    "type": "video_element",
+                    "source": "YouTube \u00b7 North American Whitetail",
+                    "title": "Tips on Where to Shoot a Deer",
+                    "timestamp": "2025-09-30 00:00:00 +00:00",
+                    "url": "https://www.youtube.com/watch?v=LRZZOSNZnEo"
+                  },
+                  {
+                    "type": "video_element",
+                    "source": "YouTube \u00b7 WIDNRTV",
+                    "title": "Deer Hunting 101 - Episode 12 - Shot Placement",
+                    "timestamp": "2024-10-11 00:00:00 +00:00",
+                    "url": "https://www.youtube.com/watch?v=2LvM-L3GDu0"
+                  },
+                  {
+                    "type": "video_element",
+                    "source": "YouTube \u00b7 GrowingDeer.tv",
+                    "title": "Where to Aim: Best Shot Placement on Deer (834)",
+                    "timestamp": "2024-09-16 00:00:00 +00:00",
+                    "url": "https://www.youtube.com/watch?v=Pu0lCf53Q8M"
+                  }
+                ],
+                "rectangle": {
+                  "x": 230,
+                  "y": 1045.52,
+                  "width": 652,
+                  "height": 527
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "rank_absolute": 5,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                "domain": "mtntough.com",
+                "title": "The Best Deer Shot Placement from Any Angle",
+                "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement?srsltid=AfmBOop3OScYaZePAn1DAEZ85hYE7_jBt5ajSHQGIKs-GG-wUtLrgAGV",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://mtntough.com \u203a blogs \u203a mtntough-blog \u203a deer-s...",
+                "website_name": "mtntough",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "The best shot placement on a deer is the lungs. With the heart sharing some of the same area, this region of vital organs has the largest kill zone and safety\u00a0... Read more",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "lungs"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 1618.52,
+                  "width": 652,
+                  "height": 116.53
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "rank_absolute": 6,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]/div[1]",
+                "domain": "www.reddit.com",
+                "title": "r/Hunting - Where to shoot",
+                "url": "https://www.reddit.com/r/Hunting/comments/1dvkcdp/where_to_shoot/",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "120+ comments  \u00b7  1 year ago",
+                "website_name": "Reddit\u00a0\u00b7\u00a0r/Hunting",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Look into high shoulder shot placement. Essentially rendering the animal unable to move via hitting its spin and terminating due to hitting the lungs. Read more",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "high shoulder shot placement"
+                ],
+                "links": [
+                  {
+                    "type": "link_element",
+                    "title": "Where y'all shooting a Whitetail if you need to drop it in it ...",
+                    "description": null,
+                    "url": "https://www.reddit.com/r/Hunting/comments/1916h3m/where_yall_shooting_a_whitetail_if_you_need_to/",
+                    "domain": "www.reddit.com"
+                  },
+                  {
+                    "type": "link_element",
+                    "title": "What's the farthest distance you've shot a deer at and ...",
+                    "description": null,
+                    "url": "https://www.reddit.com/r/Hunting/comments/1hxqyfy/whats_the_farthest_distance_youve_shot_a_deer_at/",
+                    "domain": "www.reddit.com"
+                  },
+                  {
+                    "type": "link_element",
+                    "title": "More results from www.reddit.com",
+                    "description": null,
+                    "url": "https://www.google.com/search?q=where+to+shoot+a+deer+site:www.reddit.com&sca_esv=b5576d60e09f6916&hl=en&gl=US&sa=X&ved=2ahUKEwj0wJSqg5GUAxUDFTQIHecbKigQrQIoAnoECD8QAw",
+                    "domain": "www.google.com"
+                  }
+                ],
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 1765.05,
+                  "width": 652,
+                  "height": 187.86
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "rank_absolute": 7,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]",
+                "domain": "www.onxmaps.com",
+                "title": "Where to Shoot a Deer: Shot Placement Guide for Bow & ...",
+                "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://www.onxmaps.com \u203a hunt \u203a blog \u203a deer-shot-pl...",
+                "website_name": "onX Maps",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "TL;DR: The best place to shoot a deer\u2014whether with a bow or rifle\u2014is the heart-lung area just behind the front shoulder. This vital zone ensures a quick,\u00a0... Read more",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "heart-lung area just behind the front shoulder"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 1982.91,
+                  "width": 652,
+                  "height": 116.53
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "rank_absolute": 8,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]",
+                "domain": "1source.basspro.com",
+                "title": "Where To Shoot A Deer | Deer Hunting 101",
+                "url": "https://1source.basspro.com/video/deer/36354/where-shoot-deer-deer-hunting-101",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://1source.basspro.com \u00b7 Nov 21, 2024",
+                "website_name": "Bass Pro Shops\u00a0\u00b7\u00a0Bass Pro Shops",
+                "is_image": false,
+                "is_video": true,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Key Tips: Aim for a broadside shot behind the shoulder. Be patient and wait for a clear shot. Avoid risky shots at bad angles.",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "Aim for a broadside shot behind the shoulder"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2024-11-21 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 2129.44,
+                  "width": 652,
+                  "height": 163
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "rank_absolute": 9,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+                "domain": "www.facebook.com",
+                "title": "Here's our ultimate guide to shot placement on deer: https:// ...",
+                "url": "https://www.facebook.com/outdoorlife/posts/heres-our-ultimate-guide-to-shot-placement-on-deer-httpswwwoutdoorlifecomhunting/1186912963483386/",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "500+ reactions  \u00b7  7 months ago",
+                "website_name": "Facebook\u00a0\u00b7\u00a0Outdoor Life",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Your aim should be right behind the elbow of the front leg. Not too high since broadside deer are notorious for dropping on the shot. Visualize\u00a0... Read more",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "right behind the elbow of the front leg"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 2322.44,
+                  "width": 652,
+                  "height": 116.53
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "rank_absolute": 10,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+                "domain": "www.sitkagear.com",
+                "title": "Where to Shoot a Deer with a Bow or Rifle",
+                "url": "https://www.sitkagear.com/experience/where-to-shoot-a-deer?srsltid=AfmBOooCWPG7ocwYgXLOKnDoaXBcmUdqMO6_knzVZ0sPqxnrEOVBRni4",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://www.sitkagear.com \u203a experience \u203a where-to-sho...",
+                "website_name": "SITKA Gear",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Jun 23, 2025 \u2014 With a broadside deer, the best aiming point for a deer standing broadside, is right behind the crease of the front leg. That said, bowhunters\u00a0... Read more",
+                "pre_snippet": "06/23/2025 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "right behind the crease of the front leg"
+                ],
+                "links": [
+                  {
+                    "type": "link_element",
+                    "title": "Understanding Deer Anatomy",
+                    "description": null,
+                    "url": "https://www.sitkagear.com/experience/where-to-shoot-a-deer",
+                    "domain": "www.sitkagear.com"
+                  },
+                  {
+                    "type": "link_element",
+                    "title": "Shot Placement For Different...",
+                    "description": null,
+                    "url": "https://www.sitkagear.com/experience/where-to-shoot-a-deer",
+                    "domain": "www.sitkagear.com"
+                  },
+                  {
+                    "type": "link_element",
+                    "title": "Quartering-Away And...",
+                    "description": null,
+                    "url": "https://www.sitkagear.com/experience/where-to-shoot-a-deer",
+                    "domain": "www.sitkagear.com"
+                  }
+                ],
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2025-06-23 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 2468.97,
+                  "width": 652,
+                  "height": 152.53
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "rank_absolute": 11,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+                "domain": "tpwd.texas.gov",
+                "title": "Shots to the Vital Areas - Texas Parks and Wildlife",
+                "url": "https://tpwd.texas.gov/education/hunter-education/online-course/hunting-skills-1/vital-areas",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://tpwd.texas.gov \u203a online-course \u203a hunting-skills-1",
+                "website_name": "Texas Parks and Wildlife (.gov)",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "To find the best shot placement, look at the front leg facing you, along a line on the back side of this leg, come up one third of the way into the body. This\u00a0... Read more",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "look at the front leg facing you, along a line on the back side of this leg"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 2651.5,
+                  "width": 652,
+                  "height": 116.53
+                }
+              },
+              {
+                "type": "related_searches",
+                "rank_group": 1,
+                "rank_absolute": 12,
+                "page": 1,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "items": [
+                  "Where to shoot a deer for the first time",
+                  "Picture of where to shoot a deer with a rifle",
+                  "Where to shoot a deer with an arrow",
+                  "Where to shoot a deer for a fast kill",
+                  "Deer shot placement chart",
+                  "Where to shoot a deer with a bow to drop it in its tracks",
+                  "Where to shoot a deer with a 22 magnum",
+                  "High shoulder shot on deer"
+                ],
+                "rectangle": {
+                  "x": 230,
+                  "y": 2826.03,
+                  "width": 652,
+                  "height": 240
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 9,
+                "rank_absolute": 13,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "domain": "www.reddit.com",
+                "title": "r/Hunting - Where to shoot",
+                "url": "https://www.reddit.com/r/Hunting/comments/1dvkcdp/where_to_shoot/",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "120+ comments  \u00b7  1 year ago",
+                "website_name": "Reddit\u00a0\u00b7\u00a0r/Hunting",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Look into high shoulder shot placement. Essentially rendering the animal unable to move via hitting its spin and terminating due to hitting the lungs. Read more",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "high shoulder shot placement"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 184,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 10,
+                "rank_absolute": 14,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                "domain": "www.mossyoak.com",
+                "title": "Every Shot Placement: Where to Shoot a Deer",
+                "url": "https://www.mossyoak.com/our-obsession/blogs/hunting/every-shot-placement-where-to-shoot-a-deer",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://www.mossyoak.com \u203a blogs \u203a hunting \u203a every-s...",
+                "website_name": "Mossy Oak",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Oct 11, 2023 \u2014 Much like the bowhunter, you want to aim right behind and slightly above the elbow of the lead leg. Ideally, you can wait until the lead leg is\u00a0... Read more",
+                "pre_snippet": "10/11/2023 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "aim right behind and slightly above the elbow of the lead leg"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2023-10-11 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 330,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 11,
+                "rank_absolute": 15,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                "domain": "www.americanhunter.org",
+                "title": "Shot Placement 101: Where to Shoot a Deer",
+                "url": "https://www.americanhunter.org/content/shot-placement-101-where-to-shoot-a-deer/",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://www.americanhunter.org \u203a content \u203a shot-placem...",
+                "website_name": "American Hunter",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Aug 4, 2020 \u2014 25-caliber rifles or smaller, I recommend a shot directly behind the front shoulder, one-third of the way up from the bottom of the deer's belly\u00a0... Read more",
+                "pre_snippet": "08/04/2020 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "directly behind the front shoulder"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2020-08-04 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 476,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 12,
+                "rank_absolute": 16,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                "domain": "www.hunter-ed.com",
+                "title": "Hunter Tip: Knowing Where to Shoot a Deer",
+                "url": "https://www.hunter-ed.com/blog/hunter-tip-knowing-where-to-shoot-a-deer/",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://www.hunter-ed.com \u203a blog \u203a hunter-tip-knowin...",
+                "website_name": "Hunter Ed",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Oct 8, 2024 \u2014 The broadside shot is the best shot to take when deer hunting. When the deer is broadside, you have a clear view of the vitals, with a cleaner shot that avoids\u00a0... Read more",
+                "pre_snippet": "10/08/2024 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "The broadside shot is the best shot to take when deer hunting"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2024-10-08 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 622,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 13,
+                "rank_absolute": 17,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                "domain": "www.quora.com",
+                "title": "Where do you shoot a deer to drop it where it stands?",
+                "url": "https://www.quora.com/Where-do-you-shoot-a-deer-to-drop-it-where-it-stands",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "20+ answers  \u00b7  4 years ago",
+                "website_name": "Quora",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "You ideally want to shoot it just behind its shoulder orbital joint (front legs) in order to puncture both lungs so it can't run very far away\u00a0... Read more",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "behind its shoulder orbital joint (front legs"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 768,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "images",
+                "rank_group": 2,
+                "rank_absolute": 18,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]",
+                "title": "Images",
+                "url": "https://www.google.com/search?sa=N&hl=en&gl=US&sca_esv=b5576d60e09f6916&q=where+to+shoot+a+deer&udm=2&source=univ&fir=gx4k4Pi-rArySM%252CJNoiiKeuEsGyPM%252C_%253B_EEdDQY04XcHDM%252CtuiuH98Lr4ZpeM%252C_%253BWojEGfAITRIiiM%252CDp6XZIjMYVRxYM%252C_%253BizWksd-ScHiBbM%252C_CmcC8TEuRIc9M%252C_%253B7fBsYcVXNo5zSM%252C1AeAGyiqBFJ55M%252C_%253BwVIxXhXkSCysxM%252CuP_LvK2B9Cwr7M%252C_%253Bc4B_PhoWYKF3CM%252C_YrzAWT6WD4zTM%252C_%253BtwBeH67Pf8o5GM%252CAFLTq7pqEVp5yM%252C_%253BrHeDbIFisCAfWM%252CP8YXwHhke_sqmM%252C_&usg=AI4_-kQfKFjskuEqGLW1psjZ1Xx1ZHnlig&ved=2ahUKEwiTz_Oqg5GUAxVxMzQIHcovMiE4ChDsCXoECBMQBQ",
+                "items": [
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer | Outdoor Life",
+                    "url": "https://www.outdoorlife.com/hunting/where-to-shoot-a-deer/",
+                    "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-8023e46ac35f:3"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "The Best Deer Shot Placement from Any Angle \u2013 MTNTOUGH",
+                    "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement?srsltid=AfmBOooTF1R75_XWess6DIvAtUIpBqxgnkZqlLupMN-fMz7E4egI5ssl",
+                    "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-8023e46ac35f:4"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer | Mossy Oak",
+                    "url": "https://www.mossyoak.com/our-obsession/blogs/hunting/every-shot-placement-where-to-shoot-a-deer",
+                    "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-8023e46ac35f:5"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer | Grand View Outdoors",
+                    "url": "https://www.grandviewoutdoors.com/big-game-hunting/whitetail-deer/where-to-shoot-a-deer",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YeF27w1rZFMQpZiPZmqv7r9GzkTgIVJTgX7sRQRtJrFJFPQ66hqO6FM&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "The Do's and Don'ts of Crossbow Shot Placement on Whitetails",
+                    "url": "https://www.deeranddeerhunting.com/content/blogs/the-dos-and-donts-of-crossbow-shot-placement-on-whitetails",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_u5CPHwCDj9wjZF0X0Sk1h0dT1Pgkm3DtJ9N-A8v6Zn-ogEGXW6tLk_8&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Shots to the Vital Areas \u2014 Texas Parks & Wildlife Department",
+                    "url": "https://tpwd.texas.gov/education/hunter-education/online-course/hunting-skills-1/vital-areas",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SoZ0QyVVNHXGdUfUJ1BXkovp4RX-pLpsNhYX_VgvaiQx_I-7T0Bk-8M&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer: Shot Placement Guide for Bow & Rifle ...",
+                    "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKHvtnfxgfRmTlbSpDSPG-EX0HKX3iYq_uEfykzhu0ijmwPHEZsA7A4o&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot",
+                    "url": "https://www.hunter-ed.com/national/studyGuide/Where-to-Shoot/201099_92930/",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCb6LNEFGXK6b8fHJDL-PWSmBX715Y9ZvXG5O9TEBR9dkA1m28XSpO6vI&s"
+                  },
+                  {
+                    "type": "images_element",
+                    "alt": "Where to Shoot a Deer | With a Bow and Rifle | MeatEater ...",
+                    "url": "https://www.themeateater.com/wired-to-hunt/whitetail-hunting/where-to-shoot-a-deer",
+                    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitJk5Mk2DuzPEdvBPVUcB6-S4siOGpTW9KAwckF0t5sJvh31vsLXJdkQ&s"
+                  }
+                ],
+                "related_image_searches": null,
+                "rectangle": {
+                  "x": 230,
+                  "y": 914,
+                  "width": 652,
+                  "height": 357.98
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 14,
+                "rank_absolute": 19,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]",
+                "domain": "www.youtube.com",
+                "title": "Best Shot Placement for Deer. How to Hunt Deer Ep. 12",
+                "url": "https://www.youtube.com/watch?v=zhhkMPz-nAE",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "337.7K+ views  \u00b7  2 years ago",
+                "website_name": "YouTube\u00a0\u00b7\u00a0National Deer Association",
+                "is_image": false,
+                "is_video": true,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "The best place to aim and it's also the easiest place to pick to aim once you're in the field especially for new Hunters.",
+                "pre_snippet": null,
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "The best place to aim"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2023-10-06 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 1315.98,
+                  "width": 652,
+                  "height": 163
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 15,
+                "rank_absolute": 20,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+                "domain": "realtree.com",
+                "title": "The Best Shot Placement on Deer",
+                "url": "https://realtree.com/deer-hunting/articles/the-best-shot-placement-on-deer?srsltid=AfmBOooYzpa6thXJ76XJdnP3vZosrTXx2rVtidUwR2FEo7MohPCeJIXZ",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://realtree.com \u203a deer-hunting \u203a articles \u203a the-best-s...",
+                "website_name": "Realtree",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Oct 23, 2024 \u2014 The deadliest place to hit a deer is the frontal lung and heart area. So why do so many hunters aim behind it?",
+                "pre_snippet": "10/23/2024 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "frontal lung and heart area"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2024-10-23 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 1508.98,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 16,
+                "rank_absolute": 21,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                "domain": "www.themeateater.com",
+                "title": "Where to Shoot a Deer | With a Bow and Rifle",
+                "url": "https://www.themeateater.com/wired-to-hunt/whitetail-hunting/where-to-shoot-a-deer",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://www.themeateater.com \u203a whitetail-hunting \u203a wh...",
+                "website_name": "MeatEater",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Jul 10, 2022 \u2014 Unlike archers, gun hunters can do just fine hugging the crease of the shoulder and holding right at the equator between the top and bottom of\u00a0... Read more",
+                "pre_snippet": "07/10/2022 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "hugging the crease of the shoulder and holding right at the equator"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2022-07-10 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 1654.98,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "organic",
+                "rank_group": 17,
+                "rank_absolute": 22,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                "domain": "deerassociation.com",
+                "title": "Improved Shot Placement for Enhanced Hunting Success",
+                "url": "https://deerassociation.com/shot-placement/",
+                "cache_url": null,
+                "related_search_url": null,
+                "breadcrumb": "https://deerassociation.com \u203a Hunting",
+                "website_name": "National Deer Association",
+                "is_image": false,
+                "is_video": false,
+                "is_featured_snippet": false,
+                "is_malicious": false,
+                "is_web_story": false,
+                "description": "Nov 7, 2018 \u2014 Simply draw a vertical line straight up the deer's front leg. Then draw a horizontal line across the body splitting it in half. Where those\u00a0... Read more",
+                "pre_snippet": "11/07/2018 00:00:00",
+                "extended_snippet": null,
+                "images": null,
+                "amp_version": false,
+                "rating": null,
+                "price": null,
+                "highlighted": [
+                  "Simply draw a vertical line straight up the deer's front leg"
+                ],
+                "links": null,
+                "faq": null,
+                "extended_people_also_search": null,
+                "about_this_result": null,
+                "related_result": null,
+                "timestamp": "2018-11-07 00:00:00 +00:00",
+                "rectangle": {
+                  "x": 230,
+                  "y": 1800.98,
+                  "width": 652,
+                  "height": 116
+                }
+              },
+              {
+                "type": "related_searches",
+                "rank_group": 2,
+                "rank_absolute": 23,
+                "page": 2,
+                "position": "left",
+                "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "items": [
+                  "Where to shoot a deer for the first time",
+                  "Picture of where to shoot a deer with a rifle",
+                  "Where to shoot a deer with an arrow",
+                  "Where to shoot a deer for a fast kill",
+                  "Deer shot placement chart",
+                  "Where to shoot a deer with a bow to drop it in its tracks",
+                  "Where to shoot a deer with a 22 magnum",
+                  "High shoulder shot on deer"
+                ],
+                "rectangle": {
+                  "x": 230,
+                  "y": 1974.98,
+                  "width": 652,
+                  "height": 240
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "deer shot placement",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "5.0594 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282003-1118-0139-0000-76580cf0d31c",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "4.9548 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": [
+              "v3",
+              "serp",
+              "google",
+              "organic",
+              "live",
+              "advanced"
+            ],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "deer shot placement",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20,
+              "calculate_rectangles": true,
+              "os": "windows"
+            },
+            "result": [
+              {
+                "keyword": "deer shot placement",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=deer%20shot%20placement&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "datetime": "2026-04-28 17:03:36 +00:00",
+                "spell": null,
+                "refinement_chips": null,
+                "item_types": [
+                  "organic",
+                  "images",
+                  "video",
+                  "people_also_ask",
+                  "perspectives",
+                  "related_searches"
+                ],
+                "se_results_count": 4630000,
+                "pages_count": 2,
+                "items_count": 23,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "rank_absolute": 1,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "mtntough.com",
+                    "title": "The Best Deer Shot Placement from Any Angle",
+                    "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement?srsltid=AfmBOordcD-rz9_qTKDVBReE50UGzHviss8ZgftUhU0f8d4HxpwCEuvK",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://mtntough.com \u203a blogs \u203a mtntough-blog \u203a deer-s...",
+                    "website_name": "mtntough",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Aim for the front side of the near shoulder, targeting your shot to exit near the middle or back of the opposite ribcage. Keep your shot level with the deer's\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Aim for the front side of the near shoulder"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Deer Anatomy 101",
+                        "description": null,
+                        "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement#deer-anatomy-101",
+                        "domain": "mtntough.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Broadside Shots",
+                        "description": null,
+                        "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement#broadside-shots",
+                        "domain": "mtntough.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Quartering Away",
+                        "description": null,
+                        "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement#quartering-away",
+                        "domain": "mtntough.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Frontal",
+                        "description": null,
+                        "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement#frontal",
+                        "domain": "mtntough.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 184,
+                      "width": 652,
+                      "height": 152.53
+                    }
+                  },
+                  {
+                    "type": "images",
+                    "rank_group": 1,
+                    "rank_absolute": 2,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]",
+                    "title": "Images",
+                    "url": "https://www.google.com/search?sca_esv=b5576d60e09f6916&hl=en&gl=US&q=deer+shot+placement&udm=2&source=univ&fir=M9XZfT0SvslocM%252COLu08qEwwzDvSM%252C_%253BOFzqo60lan0UpM%252C_YrzAWT6WD4zTM%252C_%253BghSJfU_-u5_-CM%252C0Re8EKBB86Y_4M%252C_%253B_EEdDQY04XcHDM%252CtuiuH98Lr4ZpeM%252C_%253BwVIxXhXkSCysxM%252CuP_LvK2B9Cwr7M%252C_%253BINSTLSG2PJ-v0M%252C_KTUS1KqqnfRMM%252C_%253BqXkkTJvSdA9j6M%252CtuOrcfre_gcYSM%252C_%253B8rAnaNZhHRMfqM%252CpJNqoDMvJOzY8M%252C_%253BYlDVr0uMnBphaM%252CDp6XZIjMYVRxYM%252C_&usg=AI4_-kTScUZItpzI89FM2Mb0Mkzg5RPfrg&sa=X&ved=2ahUKEwjjot6wg5GUAxWTLkQIHbFrPIYQ7Al6BAgWEAU",
+                    "items": [
+                      {
+                        "type": "images_element",
+                        "alt": "Improved Shot Placement for Enhanced Hunting Success ...",
+                        "url": "https://deerassociation.com/shot-placement/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-76580cf0d31c:0"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Where to Shoot a Deer: Shot Placement Guide for Bow & Rifle ...",
+                        "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-76580cf0d31c:1"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "How to Find the Perfect Shot Placement on Big-Game Animals ...",
+                        "url": "https://www.gameandfishmag.com/editorial/how-to-find-the-perfect-shot-placement-on-biggame-animals/509922",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-76580cf0d31c:2"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "The Best Deer Shot Placement from Any Angle \u2013 MTNTOUGH",
+                        "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement?srsltid=AfmBOoolqws0EezgL6JqotmTNcX5Rha_PAp0fVjBvvFOpb84t-iABWUZ",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyg-3mZYCLzmq75Sw-R7H1_SCiVZHodTnySfk1AjZpgymj04I7ILCwp3A&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Shots to the Vital Areas \u2014 Texas Parks & Wildlife Department",
+                        "url": "https://tpwd.texas.gov/education/hunter-education/online-course/hunting-skills-1/vital-areas",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SoZ0QyVVNHXGdUfUJ1BXkovp4RX-pLpsNhYX_VgvaiQx_I-7T0Bk-8M&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Informative Breakdown of Where to Aim at Deer & the Results ...",
+                        "url": "https://www.petersenshunting.com/editorial/where-to-aim-at-deer/480425",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0FTRcGEV8XZbQQG89O1IzFwlGIae8MRaJWbfrt95vpvBKg6Fqa8Qsi8&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Whitetail Deer Anatomy & Shot Placement!! - YouTube",
+                        "url": "https://www.youtube.com/watch?v=bWhs2SmsOlM",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi3ub2c8jkk1nXm3F1DFA_YeYmtaNrCMLbA4OYRjUh&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Here's our ultimate guide to shot placement on deer: https ...",
+                        "url": "https://www.facebook.com/outdoorlife/posts/heres-our-ultimate-guide-to-shot-placement-on-deer-httpswwwoutdoorlifecomhunting/1186912963483386/",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLm2lw5pw9W_8bdHk5juR2-l2f5rWUBXUQFQ6QgOAcgHNu_IN4Yer2uj8&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Where to Shoot a Deer | Mossy Oak",
+                        "url": "https://www.mossyoak.com/our-obsession/blogs/hunting/every-shot-placement-where-to-shoot-a-deer",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-2mPsMGff8w_OcAfQcQ9rC9jBdGr2gVk4NUEXkSt6kx6chM2JbNhSew&s"
+                      }
+                    ],
+                    "related_image_searches": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 366.53,
+                      "width": 652,
+                      "height": 357.98
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "rank_absolute": 3,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "www.onxmaps.com",
+                    "title": "Where to Shoot a Deer: Shot Placement Guide for Bow & ...",
+                    "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.onxmaps.com \u203a hunt \u203a blog \u203a deer-shot-pl...",
+                    "website_name": "onX Maps",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The best broadside shot to take on a deer is to aim directly in line with the front leg and between the halfway and lower one-third mark between the bottom of\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "aim directly in line with the front leg"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Deer Anatomy 101",
+                        "description": null,
+                        "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart#Deer-Anatomy-101",
+                        "domain": "www.onxmaps.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Broadside",
+                        "description": null,
+                        "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart#broadside",
+                        "domain": "www.onxmaps.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Quartering Away",
+                        "description": null,
+                        "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart#quartering-away",
+                        "domain": "www.onxmaps.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Frontal Shot",
+                        "description": null,
+                        "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart#frontal-shot",
+                        "domain": "www.onxmaps.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 768.52,
+                      "width": 652,
+                      "height": 152.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "rank_absolute": 4,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "www.facebook.com",
+                    "title": "Here's our ultimate guide to shot placement on deer: https:// ...",
+                    "url": "https://www.facebook.com/outdoorlife/posts/heres-our-ultimate-guide-to-shot-placement-on-deer-httpswwwoutdoorlifecomhunting/1246407437533938/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "200+ reactions  \u00b7  5 months ago",
+                    "website_name": "Facebook\u00a0\u00b7\u00a0Outdoor Life",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "It will always be my opinion that a good shot behind the shoulder (at the correct angle) is best a majority of the time. It is a matter of\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "a good shot behind the shoulder"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 951.05,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "rank_absolute": 5,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+                    "domain": "tpwd.texas.gov",
+                    "title": "Shots to the Vital Areas - Texas Parks and Wildlife",
+                    "url": "https://tpwd.texas.gov/education/hunter-education/online-course/hunting-skills-1/vital-areas",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://tpwd.texas.gov \u203a online-course \u203a hunting-skills-1",
+                    "website_name": "Texas Parks and Wildlife (.gov)",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "To find the best shot placement, look at the front leg facing you, along a line on the back side of this leg, come up one third of the way into the body. This\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "look at the front leg facing you, along a line on the back side of this leg"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1097.58,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "video",
+                    "rank_group": 1,
+                    "rank_absolute": 6,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]",
+                    "items": [
+                      {
+                        "type": "video_element",
+                        "source": "YouTube \u00b7 WIDNRTV",
+                        "title": "Deer Hunting 101 - Episode 12 - Shot Placement",
+                        "timestamp": "2024-10-11 00:00:00 +00:00",
+                        "url": "https://www.youtube.com/watch?v=2LvM-L3GDu0"
+                      },
+                      {
+                        "type": "video_element",
+                        "source": "YouTube \u00b7 North American Whitetail",
+                        "title": "Tips on Where to Shoot a Deer",
+                        "timestamp": "2025-09-30 00:00:00 +00:00",
+                        "url": "https://www.youtube.com/watch?v=LRZZOSNZnEo"
+                      },
+                      {
+                        "type": "video_element",
+                        "source": "YouTube \u00b7 Carter's Country",
+                        "title": "Whitetail Deer Shot Placement - From a Pro Guide",
+                        "timestamp": "2025-10-31 00:00:00 +00:00",
+                        "url": "https://www.youtube.com/watch?v=lpQFkA6IFVQ"
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1244.11,
+                      "width": 652,
+                      "height": 547
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "rank_absolute": 7,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+                    "domain": "www.northamericanwhitetail.com",
+                    "title": "How To Drop & Secure A Deer In Its Tracks",
+                    "url": "https://www.northamericanwhitetail.com/editorial/how-to-drop-deer-in-tracks/329631",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.northamericanwhitetail.com \u203a editorial \u203a h...",
+                    "website_name": "North American Whitetail",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "With a quality bullet or slug, you can kill a broadside deer in its tracks by shooting through the near-side shoulder and into (or through) the off-side\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "near-side shoulder"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1837.11,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "rank_absolute": 8,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "Deer Shot Placement | Where To Aim For Broadside ...",
+                    "url": "https://www.youtube.com/watch?v=yf6x0FIb56k",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "1.2M+ views  \u00b7  5 years ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0Whitetail Properties",
+                    "is_image": false,
+                    "is_video": true,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Shot placement on a whitetail deer can make the difference in a good clean ethical harvest or wounding a deer and potentially losing it.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Shot placement on a whitetail deer can make the difference"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2020-10-08 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1983.64,
+                      "width": 652,
+                      "height": 163
+                    }
+                  },
+                  {
+                    "type": "people_also_ask",
+                    "rank_group": 1,
+                    "rank_absolute": 9,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]",
+                    "items": [
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Where is the correct spot to shoot a deer?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart",
+                            "domain": "www.onxmaps.com",
+                            "title": "Where To Shoot a Deer: Shot Placement Guide for Bow Hunters",
+                            "description": "TL;DR: The best place to shoot a deer\u2014whether with a bow or rifle\u2014is the heart-lung area just behind the front shoulder. This vital zone ensures a quick, ethical kill. Broadside and quartering away angles offer the best shot opportunities, while frontal and head shots should be avoided.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Can deer hear human voices?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.facebook.com/deerassociation/posts/listen-up-as-we-cover-the-science-of-deer-hearing-how-deer-ears-work-to-detect-y/1329630865862467/",
+                            "domain": "www.facebook.com",
+                            "title": "Listen up as we cover the science of deer hearing, how deer ears work ...",
+                            "description": "Research done by Dr. Henry Heffner at the University of Toledo shows that deer can hear at levels of 54,000 hertz, unlike humans who can only hear up to 20,000 hertz on a good day. Simply put, a whitetail can hear noises that we don't even know we're making.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What is the 70 rule in deer hunting?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.tactacam.com/blog/post/shed-hunting-unveiling-the-70-rule",
+                            "domain": "www.tactacam.com",
+                            "title": "Shed Hunting: Unveiling the 70% Rule - Tactacam",
+                            "description": "The 70% rule simplifies shed hunting timing. The idea is to wait until approximately 70% of the bucks have shed their antlers before hitting the woods. This timing minimizes the risk of pushing deer around and maximizes your chances of finding antlers.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What is the 7 day rule for Bucks?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.northamericanwhitetail.com/editorial/7-day-rule-patterning-tagging-mature-bucks/262622",
+                            "domain": "www.northamericanwhitetail.com",
+                            "title": "The Best Expert Tips for Patterning & Tagging Mature Bucks",
+                            "description": "In theory, The 7-Day Rule works like as follows. A good buck walks along a certain trail and visits a scrape, and you either see him or get him on trail camera. One year from that date, he should be visiting the same scrape and walking along the same trail.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2176.64,
+                      "width": 652,
+                      "height": 247
+                    }
+                  },
+                  {
+                    "type": "perspectives",
+                    "rank_group": 1,
+                    "rank_absolute": 10,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]",
+                    "title": "What people are saying",
+                    "items": [
+                      {
+                        "type": "perspectives_element",
+                        "title": "A Target that tells you exactly where you hit \ud83c\udfaf",
+                        "description": null,
+                        "url": "https://www.youtube.com/shorts/qVnPB8eVN3M",
+                        "domain": "www.youtube.com",
+                        "date": "18 hours ago",
+                        "source": "Bowhunt or Die",
+                        "timestamp": "2026-04-27 23:03:34 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "I gained access to hunt deer on a small property this fall. Need to prevent deer from running after the shot. Would a 12 gauge slug or 308 be better suited?",
+                        "description": null,
+                        "url": "https://www.reddit.com/r/Hunting/comments/1sg1e80/i_gained_access_to_hunt_deer_on_a_small_property/",
+                        "domain": "www.reddit.com",
+                        "date": "3 weeks ago",
+                        "source": "r/Hunting",
+                        "timestamp": "2026-04-07 17:03:34 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Shot placement is everything in bowhunting \ud83c\udff9 No matter how good your setup is, it all comes down to putting that arrow in the right spot. Aim for the vitals \u2014 heart and lungs \u2014 and focus on angles that give you the best chance for a quick, ethical recovery. \u2022 Bro",
+                        "description": null,
+                        "url": "https://www.facebook.com/groups/404482059600758/posts/26403917479230527/",
+                        "domain": "www.facebook.com",
+                        "date": "1 month ago",
+                        "source": "Public Land Whitetails",
+                        "timestamp": "2026-03-28 17:03:34 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Don't Look at the Horns: Better Shot Placement",
+                        "description": null,
+                        "url": "https://www.youtube.com/shorts/uQRX_2lIRmk",
+                        "domain": "www.youtube.com",
+                        "date": "6 days ago",
+                        "source": "Stoney Wolf Outdoors",
+                        "timestamp": "2026-04-22 17:03:34 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Where to Shoot a Deer With Gun or Bow",
+                        "description": null,
+                        "url": "https://www.facebook.com/fieldandstream/posts/where-to-shoot-a-deer-with-gun-or-bow/802846371876310/",
+                        "domain": "www.facebook.com",
+                        "date": "2 weeks ago",
+                        "source": "fieldandstream",
+                        "timestamp": "2026-04-14 17:03:34 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Key to Big Game Shot Placement #pursuitwithcliff",
+                        "description": null,
+                        "url": "https://www.youtube.com/shorts/O1ahtA1t-k4",
+                        "domain": "www.youtube.com",
+                        "date": "1 month ago",
+                        "source": "Cliff Gray",
+                        "timestamp": "2026-03-28 17:03:34 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Kids learning shot placement for Whitetail Deer Hunting",
+                        "description": null,
+                        "url": "https://www.youtube.com/watch?v=ogIkCKsLMqY",
+                        "domain": "www.youtube.com",
+                        "date": "Feb 28, 2026",
+                        "source": "Yamaha Whitetail Diaries",
+                        "timestamp": "2026-02-28 00:00:00 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "When hunting, understanding shot angles is crucial for an ethical hunt. Broadside shots provide the best target and are always ethical. Quartering away shots are good as long as there's a clear path to vital organs, while quartering toward shots aren't recomme",
+                        "description": null,
+                        "url": "https://www.facebook.com/hunterswholesale/posts/when-hunting-understanding-shot-angles-is-crucial-for-an-ethical-hunt-broadside-/1502021374822769/",
+                        "domain": "www.facebook.com",
+                        "date": "Feb 6, 2026",
+                        "source": "hunterswholesale",
+                        "timestamp": "2026-02-06 00:00:00 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Understanding Turkey shot placement with your Tenpoint Crossbow! #TenPointCrossbows #TurkeyHunting",
+                        "description": null,
+                        "url": "https://www.facebook.com/deerhuntingmag/posts/understanding-turkey-shot-placement-with-your-tenpoint-crossbow-tenpointcrossbow/945921771417906/",
+                        "domain": "www.facebook.com",
+                        "date": "3 weeks ago",
+                        "source": "deerhuntingmag",
+                        "timestamp": "2026-04-07 17:03:34 +00:00"
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2467.64,
+                      "width": 652,
+                      "height": 398
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "rank_absolute": 11,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+                    "domain": "www.themeateater.com",
+                    "title": "Shot Placement for Big Game - Hunting",
+                    "url": "https://www.themeateater.com/hunt/big-game/shot-placement-for-big-game",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.themeateater.com \u203a hunt \u203a shot-placement-...",
+                    "website_name": "MeatEater",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "In a broadside situation, a shot placed behind the crease of the shoulder will result in the bullet traveling through both lungs. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "behind the crease of the shoulder"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2909.64,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 1,
+                    "rank_absolute": 12,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Deer shot placement chart",
+                      "Deer shot placement map",
+                      "Deer shot placement chart PDF",
+                      "Shot placement on deer with rifle",
+                      "Deer shot placement game",
+                      "Deer shot placement app",
+                      "High shoulder deer shot placement chart",
+                      "Deer shot placement from above"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 3084.17,
+                      "width": 652,
+                      "height": 240
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "rank_absolute": 13,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "realtree.com",
+                    "title": "The Best Shot Placement on Deer",
+                    "url": "https://realtree.com/deer-hunting/articles/the-best-shot-placement-on-deer?srsltid=AfmBOor8hmc6E9iZDzn1T5QZDJ6I7poCK4wz3b07EH0eMH5ucTEhyxHv",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://realtree.com \u203a deer-hunting \u203a articles \u203a the-best-s...",
+                    "website_name": "Realtree",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Oct 23, 2024 \u2014 Keep the shot height the same, just below center. But pull the sight pin forward just a little, settling it about an inch ahead of the shoulder\u00a0... Read more",
+                    "pre_snippet": "10/23/2024 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "just below center"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2024-10-23 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 184,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 9,
+                    "rank_absolute": 14,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "www.mossyoak.com",
+                    "title": "Every Shot Placement: Where to Shoot a Deer",
+                    "url": "https://www.mossyoak.com/our-obsession/blogs/hunting/every-shot-placement-where-to-shoot-a-deer",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.mossyoak.com \u203a blogs \u203a hunting \u203a every-s...",
+                    "website_name": "Mossy Oak",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Oct 11, 2023 \u2014 Much like the bowhunter, you want to aim right behind and slightly above the elbow of the lead leg. Ideally, you can wait until the lead leg is\u00a0... Read more",
+                    "pre_snippet": "10/11/2023 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "aim right behind and slightly above the elbow of the lead leg"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2023-10-11 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 330,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 10,
+                    "rank_absolute": 15,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                    "domain": "deerassociation.com",
+                    "title": "Improved Shot Placement for Enhanced Hunting Success",
+                    "url": "https://deerassociation.com/shot-placement/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://deerassociation.com \u203a Hunting",
+                    "website_name": "National Deer Association",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Nov 7, 2018 \u2014 Simply draw a vertical line straight up the deer's front leg. Then draw a horizontal line across the body splitting it in half. Where those\u00a0... Read more",
+                    "pre_snippet": "11/07/2018 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Simply draw a vertical line straight up the deer's front leg"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2018-11-07 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 476,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 11,
+                    "rank_absolute": 16,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "www.academy.com",
+                    "title": "Where to Shoot a Deer: Shot Placements from Any Angle",
+                    "url": "https://www.academy.com/expert-advice/deer-shot-placement",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.academy.com \u203a Expert Advice \u203a Outdoors",
+                    "website_name": "Academy Sports",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Deer Shot Placement Considerations \u00b7 Aim just behind the front shoulder \u00b7 Aim slightly lower to target the heart \u00b7 Aim slightly higher for a double-lung shot. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Aim just behind the front shoulder"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 622,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "images",
+                    "rank_group": 2,
+                    "rank_absolute": 17,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]",
+                    "title": "Images",
+                    "url": "https://www.google.com/search?sa=N&hl=en&gl=US&sca_esv=b5576d60e09f6916&q=deer+shot+placement&udm=2&source=univ&fir=nuug6yDaHkEBmM%252CZ6sn1ckFpq0u1M%252C_%253BQdP-D_n1X94Y9M%252CqftiTzgSd86FaM%252C_%253B4bhezeQEyBqSaM%252C1AeAGyiqBFJ55M%252C_%253Bc4B_PhoWYKF3CM%252C_YrzAWT6WD4zTM%252C_%253BFVwBpAJ473z4_M%252CdpRUhgx1ryyASM%252C_%253BizswH8pYF41n8M%252Cy7MXsxXFFT7d-M%252C_%253BIdYGHSWwxGfHHM%252CtuiuH98Lr4ZpeM%252C_%253B4Z2iNduVcg7rMM%252CuiovkE093GcF4M%252C_%253BHPFaJrYcAZzwVM%252CrF4tG6J34qXAlM%252C_&usg=AI4_-kT8BX4wJPZWEUBjbmB3mW1WEcGI9g&ved=2ahUKEwjLnruxg5GUAxWVJ0QIHYZoIpQ4ChDsCXoECBMQBQ",
+                    "items": [
+                      {
+                        "type": "images_element",
+                        "alt": "Shot Placement on Whitetails - International Sportsman",
+                        "url": "https://internationalsportsman.com/shot-placement-on-whitetails/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-76580cf0d31c:3"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Where to Shoot a Deer for a Clean Shot | HuntWise",
+                        "url": "https://huntwise.com/field-guide/deer/where-to-shoot-a-deer",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-76580cf0d31c:4"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "The Do's and Don'ts of Crossbow Shot Placement on Whitetails",
+                        "url": "https://www.deeranddeerhunting.com/content/blogs/the-dos-and-donts-of-crossbow-shot-placement-on-whitetails",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282003-1118-0139-0000-76580cf0d31c:5"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Where to Shoot a Deer: Shot Placement Guide for Bow & Rifle ...",
+                        "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKHvtnfxgfRmTlbSpDSPG-EX0HKX3iYq_uEfykzhu0ijmwPHEZsA7A4o&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Where to Shoot a Deer: Bowhunting Shot Placement - Bowhunter",
+                        "url": "https://www.bowhunter.com/editorial/where-to-shoot-deer-bowhunting-shot-placement/379797",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw707XQ82QH9wbdX_SuVTccF659Xl0qB_UFM5QlRfe4cP5p1s7042gcDI&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Ethical shot placement using firearms and bows",
+                        "url": "https://www.hunter-ed.com/newsouthwales/studyGuide/Ethical-shot-placement-using-firearms-and-bows/201601_166173/",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQot9feuY8OXEV_7BVOQnN3doiQUDaF4omnRFfAGdPhQ9ctAEPuy5SZSGs&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "The Best Deer Shot Placement from Any Angle \u2013 MTNTOUGH",
+                        "url": "https://mtntough.com/blogs/mtntough-blog/deer-shot-placement?srsltid=AfmBOorXbA4E-r6QX0gIC0x0BJwf_T-fmtoVs69lSwEHzjlDSSG-xvVr",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxpMVNKjyKUYZDRYUc-DSoTwanWzoTJGdvGzM5reX1VTJGgEp6374_p4&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Ethical Bowhunting: Shot Placement Tips for Deer",
+                        "url": "https://vortexoptics.com/blog/everything-bowhunters-need-to-know-about-shot-placement.html",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pCC97tsfDmaJWxkfcbP0CXrdqVRBvsw_Njk14JDrVDTkYiVHtZoN98w&s"
+                      },
+                      {
+                        "type": "images_element",
+                        "alt": "Shot Placement for Big Game | MeatEater Hunting",
+                        "url": "https://www.themeateater.com/hunt/big-game/shot-placement-for-big-game",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo8MDBau_qNRhorvQQv4ci-1uEWaAkkyWZNZV-nFhZIxz0H_d-PZLOFTQ&s"
+                      }
+                    ],
+                    "related_image_searches": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 768,
+                      "width": 652,
+                      "height": 357.98
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 12,
+                    "rank_absolute": 18,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "www.americanhunter.org",
+                    "title": "Shot Placement 101: Where to Shoot a Deer",
+                    "url": "https://www.americanhunter.org/content/shot-placement-101-where-to-shoot-a-deer/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.americanhunter.org \u203a content \u203a shot-placem...",
+                    "website_name": "American Hunter",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Aug 4, 2020 \u2014 25-caliber rifles or smaller, I recommend a shot directly behind the front shoulder, one-third of the way up from the bottom of the deer's belly\u00a0... Read more",
+                    "pre_snippet": "08/04/2020 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "directly behind the front shoulder"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2020-08-04 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1169.98,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 13,
+                    "rank_absolute": 19,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                    "domain": "thedeerinitiative.co.uk",
+                    "title": "Shot placement.",
+                    "url": "https://thedeerinitiative.co.uk/wp-content/uploads/2024/07/RHMC0711_Shot-Placement_Guide_Deer_July-2023_V4.pdf",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://thedeerinitiative.co.uk \u203a uploads \u203a 2024/07",
+                    "website_name": "The Deer Initiative |",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "It is recommended that the ideal shot to take on a deer is to the heart/lung area within the chest. This vital area is centred on the complex of blood\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "the heart/lung area within the chest"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1315.98,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 14,
+                    "rank_absolute": 20,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "Best Shot Placement for Deer. How to Hunt Deer Ep. 12",
+                    "url": "https://www.youtube.com/watch?v=zhhkMPz-nAE",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "337.7K+ views  \u00b7  2 years ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0National Deer Association",
+                    "is_image": false,
+                    "is_video": true,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The best place to aim and it's also the easiest place to pick to aim once you're in the field especially for new Hunters.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "The best place to aim"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2023-10-06 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1461.98,
+                      "width": 652,
+                      "height": 163
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 15,
+                    "rank_absolute": 21,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                    "domain": "huntwise.com",
+                    "title": "Where to Shoot a Deer [Shot Placement Guide]",
+                    "url": "https://huntwise.com/field-guide/deer/where-to-shoot-a-deer",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://huntwise.com \u203a Media \u203a Blog",
+                    "website_name": "Huntwise",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Oct 23, 2025 \u2014 The broadside shot is the gold standard for where to aim and offers the highest probability of a quick and clean kill. Aiming slightly behind\u00a0... Read more",
+                    "pre_snippet": "10/23/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "The broadside shot is the gold standard for where to aim"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-10-23 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1654.98,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 16,
+                    "rank_absolute": 22,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "www.gameandfishmag.com",
+                    "title": "Shot Placement Tips for Hunting Whitetails",
+                    "url": "https://www.gameandfishmag.com/editorial/shot-placement-tips-for-hunting-whitetails-rut/485513",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.gameandfishmag.com \u203a editorial \u203a shot-pla...",
+                    "website_name": "Game & Fish Magazine",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Nov 7, 2023 \u2014 If aiming solely for the lungs, which offers a greater margin of error, it's better to aim just behind the front leg about 1/3 to \u00bd of the way\u00a0... Read more",
+                    "pre_snippet": "11/07/2023 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": null,
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2023-11-07 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1800.98,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 2,
+                    "rank_absolute": 23,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Deer shot placement chart",
+                      "Deer shot placement map",
+                      "Deer shot placement chart PDF",
+                      "Shot placement on deer with rifle",
+                      "Deer shot placement game",
+                      "High shoulder deer shot placement chart",
+                      "Deer shot placement app",
+                      "Deer shot placement from above"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1974.98,
+                      "width": 652,
+                      "height": 240
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "bow hunting shot placement",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "9.8765 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282003-1118-0139-0000-72a446f74430",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "9.7853 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": [
+              "v3",
+              "serp",
+              "google",
+              "organic",
+              "live",
+              "advanced"
+            ],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "bow hunting shot placement",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20
+            },
+            "result": [
+              {
+                "keyword": "bow hunting shot placement",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "datetime": "2026-04-28 17:03:52 +00:00",
+                "item_types": [
+                  "ai_overview",
+                  "organic",
+                  "video",
+                  "images",
+                  "related_searches"
+                ],
+                "se_results_count": 1750000,
+                "pages_count": 2,
+                "items_count": 23,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "rank_absolute": 1,
+                    "domain": "www.bowhunter.com",
+                    "title": "Where to Shoot a Deer: Bowhunting Shot Placement",
+                    "url": "https://www.bowhunter.com/editorial/where-to-shoot-deer-bowhunting-shot-placement/379797"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "rank_absolute": 3,
+                    "domain": "www.onxmaps.com",
+                    "title": "Where to Shoot a Deer: Shot Placement Guide for Bow & ...",
+                    "url": "https://www.onxmaps.com/hunt/blog/deer-shot-placement-guide-and-chart"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "rank_absolute": 5,
+                    "domain": "vortexoptics.com",
+                    "title": "Everything Bowhunters Need to Know About Shot Placement",
+                    "url": "https://vortexoptics.com/blog/everything-bowhunters-need-to-know-about-shot-placement.html"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "rank_absolute": 7,
+                    "domain": "www.themeateater.com",
+                    "title": "Where to Shoot a Deer | With a Bow and Rifle",
+                    "url": "https://www.themeateater.com/wired-to-hunt/whitetail-hunting/where-to-shoot-a-deer"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "rank_absolute": 8,
+                    "domain": "www.montanaknifecompany.com",
+                    "title": "Mastering the Art of Arrow Shot Placement for Whitetail ...",
+                    "url": "https://www.montanaknifecompany.com/blogs/news/where-to-shoot-a-whitetail-deer"
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 1,
+                    "rank_absolute": 12,
+                    "items": [
+                      "Bow hunting shot placement chart",
+                      "Best bow hunting shot placement",
+                      "Deer shot placement chart",
+                      "Frontal shot on deer with rifle",
+                      "Deer neck shot placement diagram",
+                      "Deer shot placement chart PDF",
+                      "Shot placement on deer with rifle",
+                      "High shoulder deer shot placement chart"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

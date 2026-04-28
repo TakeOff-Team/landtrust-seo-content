@@ -1,0 +1,439 @@
+{
+  "id": "W26b",
+  "topic": "Nebraska Hunting and Land Leases: Private Access Guide",
+  "primary_keyword": "nebraska hunting leases",
+  "slug": "nebraska_hunting_land_leases",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "id": "04282006-1118-0093-0000-3d7393458d4a",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "nebraska hunting leases",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.33,
+            "cpc": 0.84,
+            "search_volume": 320,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 210
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 210
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 880
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 170
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 210
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "id": "04282006-1118-0090-0000-2742b635924a",
+        "status_code": 20000,
+        "result_count": 10,
+        "result": [
+          {
+            "keyword": "nebraska hunting leases",
+            "search_volume": 320,
+            "competition": 0.33,
+            "cpc": 0.84
+          },
+          {
+            "keyword": "hunting land for lease in nebraska",
+            "search_volume": 50,
+            "competition": 0.34,
+            "cpc": 0.35
+          },
+          {
+            "keyword": "hunting ground for lease in nebraska",
+            "search_volume": 50,
+            "competition": 0.34,
+            "cpc": 0.35
+          },
+          {
+            "keyword": "nebraska deer lease",
+            "search_volume": 20,
+            "competition": 0.25,
+            "cpc": 0.52
+          },
+          {
+            "keyword": "deer hunting lease nebraska",
+            "search_volume": 20,
+            "competition": 0.33,
+            "cpc": 1.19
+          },
+          {
+            "keyword": "hunting lease network nebraska",
+            "search_volume": 30,
+            "competition": 0.16,
+            "cpc": null
+          },
+          {
+            "keyword": "nebraska hunting leases craigslist",
+            "search_volume": 10,
+            "competition": 0.1,
+            "cpc": 0.47
+          },
+          {
+            "keyword": "duck hunting leases in nebraska",
+            "search_volume": 10,
+            "competition": 0.11,
+            "cpc": 1.0
+          },
+          {
+            "keyword": "waterfowl hunting lease nebraska",
+            "search_volume": 10
+          },
+          {
+            "keyword": "waterfowl leases in nebraska",
+            "search_volume": 10,
+            "competition": 0.57,
+            "cpc": 0.21
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "id": "04282006-1118-0139-0000-0633e4e2aab7",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "nebraska hunting leases",
+            "se_results_count": 366000,
+            "item_types": [
+              "organic",
+              "related_searches"
+            ],
+            "items": [
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "www.huntingleasenetwork.com",
+                "title": "Nebraska Hunting Leases",
+                "url": "https://www.huntingleasenetwork.com/Land_for_Lease/viewlistings.asp?State=NE"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "www.basecampleasing.com",
+                "title": "Nebraska Hunting Leases",
+                "url": "https://www.basecampleasing.com/searchstates/nebraska_map.htm"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "www.hlrbo.com",
+                "title": "Nebraska Hunting Leases",
+                "url": "https://www.hlrbo.com/search/results/us/ne"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "cap.unl.edu",
+                "title": "Hunting Lease Comparisons for Wild Game Across Nebraska 2025",
+                "url": "https://cap.unl.edu/news/hunting-lease-comparisons-wild-game-across-nebraska-2025/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "www.facebook.com",
+                "title": "Nebraska private land mule deer lease recommendations",
+                "url": "https://www.facebook.com/groups/219483804899402/posts/2911687322345690/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "mediahub.unl.edu",
+                "title": "Nebraska Hunting Leases and Legal Considerations",
+                "url": "https://mediahub.unl.edu/media/26475"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "www.reddit.com",
+                "title": "Rates for hunting leases : r/Hunting",
+                "url": "https://www.reddit.com/r/Hunting/comments/1rdqzon/rates_for_hunting_leases/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "domain": "www.haydenoutdoors.com",
+                "title": "Land for Lease",
+                "url": "https://www.haydenoutdoors.com/land-for-sale-by-type/leases/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 9,
+                "domain": "landtrust.com",
+                "title": "Hunt for Mule Deer on private land in Nebraska",
+                "url": "https://landtrust.com/us/nebraska/mule-deer"
+              },
+              {
+                "type": "organic",
+                "rank_group": 10,
+                "domain": "huntinglocator.com",
+                "title": "Duck Hunting Land in Nebraska",
+                "url": "https://huntinglocator.com/hunting-land/features/duck/nebraska"
+              },
+              {
+                "type": "related_searches",
+                "items": [
+                  "Nebraska hunting leases by owner",
+                  "Nebraska hunting leases craigslist",
+                  "Nebraska hunting leases for deer",
+                  "Wyoming hunting leases",
+                  "Kansas hunting leases",
+                  "Wisconsin hunting leases",
+                  "Nebraska hunting land for sale",
+                  "Colorado hunting leases"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "nebraska private land hunting",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "tasks": [
+          {
+            "id": "04282007-1118-0139-0000-3fca59f4826a",
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "nebraska private land hunting",
+                "se_results_count": 3700000,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "outdoornebraska.gov",
+                    "title": "Where to Hunt",
+                    "url": "https://outdoornebraska.gov/hunt/where-to-hunt/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "landtrust.com",
+                    "title": "Book access to private land in Nebraska",
+                    "url": "https://landtrust.com/us/nebraska"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "outdoornebraska.gov",
+                    "title": "Landowner Hunting Programs",
+                    "url": "https://outdoornebraska.gov/hunt/hunting-programs/landowner-hunting-programs/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "infiniteoutdoorsusa.com",
+                    "title": "Hunt Deer in Nebraska on private land",
+                    "url": "https://infiniteoutdoorsusa.com/explore/nebraska/deer"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "www.huntingleasenetwork.com",
+                    "title": "Nebraska Hunting Leases",
+                    "url": "https://www.huntingleasenetwork.com/Land_for_Lease/viewlistings.asp?State=NE"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "domain": "www.huntingsmart.com",
+                    "title": "Nebraska Hunting Laws & Regulations",
+                    "url": "https://www.huntingsmart.com/nebraska/hunting-regulation/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "domain": "www.facebook.com",
+                    "title": "Finding private land to hunt can be a challenge",
+                    "url": "https://www.facebook.com/NEGameandParks/posts/finding-private-land-to-hunt-can-be-a-challenge-if-youre-feeling-the-weight-of-t/927514712743977/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "domain": "magazine.outdoornebraska.gov",
+                    "title": "Tips for Getting Permission to Hunt on Private Land",
+                    "url": "https://magazine.outdoornebraska.gov/blogs/in-the-wild/tips-for-getting-permission-to-hunt-on-private-land/"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "Nebraska private land hunting regulations",
+                      "Nebraska private land hunting public land",
+                      "Nebraska private land hunting map",
+                      "Best nebraska private land hunting",
+                      "Free Nebraska public hunting land map",
+                      "Best public hunting land in Nebraska",
+                      "Nebraska Public hunting land map PDF",
+                      "Nebraska hunting zones"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "hunting land for lease in nebraska",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "tasks": [
+          {
+            "id": "04282007-1118-0139-0000-d165f9174978",
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "hunting land for lease in nebraska",
+                "se_results_count": 916000,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "www.huntingleasenetwork.com",
+                    "title": "Nebraska Hunting Leases",
+                    "url": "https://www.huntingleasenetwork.com/Land_for_Lease/viewlistings.asp?State=NE"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "www.basecampleasing.com",
+                    "title": "Nebraska Hunting Leases",
+                    "url": "https://www.basecampleasing.com/searchstates/nebraska_map.htm"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "landtrust.com",
+                    "title": "Hunt for Mule Deer on private land in Nebraska",
+                    "url": "https://landtrust.com/us/nebraska/mule-deer"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "www.facebook.com",
+                    "title": "Nebraska private land mule deer lease recommendations",
+                    "url": "https://www.facebook.com/groups/219483804899402/posts/2911687322345690/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "www.hlrbo.com",
+                    "title": "Nebraska Hunting Leases",
+                    "url": "https://www.hlrbo.com/search/results/us/ne"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "domain": "cap.unl.edu",
+                    "title": "Hunting Lease Comparisons for Wild Game Across Nebraska 2025",
+                    "url": "https://cap.unl.edu/news/hunting-lease-comparisons-wild-game-across-nebraska-2025/"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "Hunting land for lease in nebraska under $1000",
+                      "Hunting land for lease in nebraska by owner",
+                      "Craigslist hunting land for lease in nebraska",
+                      "Cheap hunting land for lease in nebraska",
+                      "Nebraska hunting leases craigslist",
+                      "Hunting land for lease by Owner",
+                      "Iowa hunting land for lease craigslist",
+                      "Waterfowl hunting leases in nebraska"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

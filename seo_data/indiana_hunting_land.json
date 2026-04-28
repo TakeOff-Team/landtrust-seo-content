@@ -1,0 +1,2746 @@
+{
+  "id": "W33b",
+  "topic": "Indiana Public and Private Hunting Land: Finding Access",
+  "primary_keyword": "indiana hunting land",
+  "slug": "indiana_hunting_land",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "indiana hunting land",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.26,
+            "cpc": 0.36,
+            "search_volume": 90,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 70
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 50
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 50
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.4073 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282004-1118-0090-0000-8074c1f0b716",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.3878 sec.",
+        "cost": 0.075,
+        "result_count": 32,
+        "path": [
+          "v3",
+          "keywords_data",
+          "google",
+          "keywords_for_keywords",
+          "live"
+        ],
+        "data": {
+          "api": "keywords_data",
+          "function": "keywords_for_keywords",
+          "se": "google",
+          "keywords": [
+            "indiana hunting land"
+          ],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {
+            "keyword": "indiana hunting land",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.26,
+            "cpc": 0.36,
+            "search_volume": 90,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 70
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 50
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 50
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land for sale indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.41,
+            "cpc": 0.21,
+            "search_volume": 720,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 480
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 590
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 880
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 1600
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 720
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 480
+              }
+            ]
+          },
+          {
+            "keyword": "indiana hunting leases",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.26,
+            "cpc": 1.01,
+            "search_volume": 880,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 590
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 590
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 720
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 2400
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 1300
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 880
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 880
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 480
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land for lease indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.3,
+            "cpc": 0.7,
+            "search_volume": 260,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 110
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 110
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 140
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 210
+              }
+            ]
+          },
+          {
+            "keyword": "hunting property for sale in indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.55,
+            "cpc": 0.31,
+            "search_volume": 50,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 40
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 50
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 140
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 50
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land for sale in indiana by owner",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.52,
+            "cpc": 0.47,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "hunting property for lease in indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.3,
+            "cpc": 0.7,
+            "search_volume": 260,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 110
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 110
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 140
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 210
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land for sale in southern indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.38,
+            "cpc": 0.08,
+            "search_volume": 30,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 20
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 20
+              }
+            ]
+          },
+          {
+            "keyword": "deer hunting land for lease in indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.29,
+            "cpc": null,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "deer hunting land for sale in indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "deer hunting lease in indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.31,
+            "cpc": 0.67,
+            "search_volume": 70,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 30
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 50
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 20
+              }
+            ]
+          },
+          {
+            "keyword": "hunting cabins for sale indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.29,
+            "cpc": 0.18,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "hunting ground for sale in indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.41,
+            "cpc": 0.21,
+            "search_volume": 720,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 480
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 590
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 880
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 1600
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 720
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 480
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land for lease by owner indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land for lease in southern indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.64,
+            "cpc": 0.32,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 20
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land for sale in northern indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.48,
+            "cpc": 0.23,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "hunting land indiana for sale",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.41,
+            "cpc": 0.21,
+            "search_volume": 720,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 480
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 590
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 880
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 1600
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 720
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 590
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 480
+              }
+            ]
+          },
+          {
+            "keyword": "hunting lease network indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "hunting property for sale in southern indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.71,
+            "cpc": 0.03,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "hunting property in indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.57,
+            "cpc": 0.2,
+            "search_volume": 30,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 20
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 40
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 20
+              }
+            ]
+          },
+          {
+            "keyword": "indiana deer hunting land",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.86,
+            "cpc": null,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "indiana deer lease",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.49,
+            "cpc": 1.01,
+            "search_volume": 90,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 50
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 50
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 140
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 110
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 40
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 40
+              }
+            ]
+          },
+          {
+            "keyword": "indiana duck hunting leases",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.16,
+            "cpc": 0.51,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 20
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "indiana hunting land for sale by owner",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.64,
+            "cpc": 0.16,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "indiana hunting lease prices",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "indiana hunting lease property",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.07,
+            "cpc": 0.25,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "indiana hunting leases 2022",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": 0,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "indiana hunting leases by owner",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.32,
+            "cpc": 0.46,
+            "search_volume": 30,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 20
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 20
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 50
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 40
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 20
+              }
+            ]
+          },
+          {
+            "keyword": "indiana whitetail properties",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.17,
+            "cpc": 0.39,
+            "search_volume": 390,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 320
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 390
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 390
+              }
+            ]
+          },
+          {
+            "keyword": "northern indiana hunting leases",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.86,
+            "cpc": 1.65,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 0
+              }
+            ]
+          },
+          {
+            "keyword": "private hunting land indiana",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 0
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 0
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          },
+          {
+            "keyword": "southern indiana hunting lease",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.33,
+            "cpc": 0.61,
+            "search_volume": 10,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 10
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 20
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 30
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 10
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 10
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "indiana hunting land",
+            "type": "organic",
+            "se_domain": "google.com",
+            "location_code": 2840,
+            "language_code": "en",
+            "datetime": "2026-04-28 17:04:36 +00:00",
+            "item_types": [
+              "organic",
+              "related_searches"
+            ],
+            "se_results_count": 28600000,
+            "pages_count": 2,
+            "items_count": 22,
+            "top_results": [
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "www.whitetailproperties.com",
+                "title": "Land for Sale in Indiana",
+                "url": "https://www.whitetailproperties.com/hunting-land/indiana"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "www.landwatch.com",
+                "title": "Indiana Hunting Land for Sale",
+                "url": "https://www.landwatch.com/indiana-land-for-sale/hunting-property"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "www.in.gov",
+                "title": "Fish and Wildlife: Where to Hunt in Indiana",
+                "url": "https://www.in.gov/dnr/fish-and-wildlife/hunting-and-trapping/where-to-hunt"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "www.basecampleasing.com",
+                "title": "Indiana Hunting Leases",
+                "url": "https://www.basecampleasing.com/searchstates/indiana_map.htm"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "www.mossyoakproperties.com",
+                "title": "Indiana Hunting Land For Sale 48 Listings",
+                "url": "https://www.mossyoakproperties.com/land-for-sale/indiana/hunting/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "indianalandandlifestyle.com",
+                "title": "Indiana Hunting Land for Sale | IN",
+                "url": "https://indianalandandlifestyle.com/land-for-sale/hunting-land/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "www.eregulations.com",
+                "title": "Public Hunting Areas - Indiana",
+                "url": "https://www.eregulations.com/indiana/hunting/public-hunting-areas"
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "domain": "www.land.com",
+                "title": "Hunting Land for Sale in Indiana - 69 Properties",
+                "url": "https://www.land.com/Indiana/hunting-land/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 9,
+                "domain": "www.hlrbo.com",
+                "title": "Indiana Hunting Leases",
+                "url": "https://www.hlrbo.com/search/results/us/in"
+              },
+              {
+                "type": "organic",
+                "rank_group": 10,
+                "domain": "www.in.gov",
+                "title": "Fish and Wildlife: Indiana Private Lands Access Program",
+                "url": "https://www.in.gov/dnr/fish-and-wildlife/hunting-and-trapping/indiana-private-lands-access-program/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 11,
+                "domain": "landtrust.com",
+                "title": "Book access to private land in Indiana",
+                "url": "https://landtrust.com/us/indiana"
+              }
+            ],
+            "related_searches": [
+              "Indiana hunting land under $1000",
+              "Indiana hunting land for sale",
+              "Indiana hunting land map",
+              "Indiana hunting land by owner",
+              "Indiana hunting leases by Owner",
+              "Hunting land for lease Indiana",
+              "INDIANA land Zillow"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "indiana hunting leases",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "tasks": [
+          {
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "indiana hunting leases",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "datetime": "2026-04-28 17:06:47 +00:00",
+                "item_types": [
+                  "organic",
+                  "related_searches"
+                ],
+                "se_results_count": 529000,
+                "pages_count": 2,
+                "items_count": 22,
+                "top_results": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "www.basecampleasing.com",
+                    "title": "Indiana Hunting Leases",
+                    "url": "https://www.basecampleasing.com/searchstates/indiana_map.htm"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "www.hlrbo.com",
+                    "title": "Indiana Hunting Leases",
+                    "url": "https://www.hlrbo.com/search/results/us/in"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "www.huntingleasenetwork.com",
+                    "title": "Indiana Hunting Leases",
+                    "url": "https://www.huntingleasenetwork.com/Land_for_Lease/viewlistings.asp?State=IN"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "ahuntinglease.org",
+                    "title": "Greene County Indiana Hunting Lease",
+                    "url": "https://ahuntinglease.org/lease-spotter-map/Greene-County-Indiana"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "www.hlrbo.com",
+                    "title": "Finding the Best Hunting Leases in Indiana A Guide for...",
+                    "url": "https://www.hlrbo.com/news/fullarticle/Finding-the-Best-Hunting-Leases-in-Indiana-A-Guide-for-Hunters"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "domain": "huntinglocator.com",
+                    "title": "Indiana Hunting and Deer Leases - HuntingLocator.com",
+                    "url": "https://huntinglocator.com/leases/state/indiana"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "domain": "www.leasehunter.com",
+                    "title": "LeaseHunter Home | LeaseHunter",
+                    "url": "https://www.leasehunter.com/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "domain": "wingandbuck.com",
+                    "title": "Wing and Buck",
+                    "url": "https://wingandbuck.com/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 9,
+                    "domain": "landtrust.com",
+                    "title": "Book access to private land in Indiana",
+                    "url": "https://landtrust.com/us/indiana"
+                  }
+                ],
+                "related_searches": [
+                  "Indiana hunting leases by owner",
+                  "Indiana hunting leases craigslist",
+                  "Hunting land for lease Indiana under $1000",
+                  "Wisconsin hunting leases",
+                  "National hunting lease",
+                  "Kansas hunting lease"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "hunting land for sale indiana",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "tasks": [
+          {
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "hunting land for sale indiana",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "datetime": "2026-04-28 17:06:52 +00:00",
+                "item_types": [
+                  "organic",
+                  "related_searches"
+                ],
+                "se_results_count": 7470000,
+                "pages_count": 2,
+                "items_count": 22,
+                "top_results": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "www.whitetailproperties.com",
+                    "title": "Land for Sale in Indiana",
+                    "url": "https://www.whitetailproperties.com/hunting-land/indiana"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "www.landwatch.com",
+                    "title": "Indiana Hunting Land for Sale",
+                    "url": "https://www.landwatch.com/indiana-land-for-sale/hunting-property"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "www.mossyoakproperties.com",
+                    "title": "Indiana Hunting Land For Sale 48 Listings",
+                    "url": "https://www.mossyoakproperties.com/land-for-sale/indiana/hunting/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "www.landhub.com",
+                    "title": "Indiana Hunting Land For Sale",
+                    "url": "https://www.landhub.com/property-for-sale/indiana-land-for-sale/hunting"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "www.land.com",
+                    "title": "Hunting Land for Sale in Indiana - 69 Properties",
+                    "url": "https://www.land.com/Indiana/hunting-land/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "domain": "indianalandandlifestyle.com",
+                    "title": "Indiana Hunting Land for Sale | IN",
+                    "url": "https://indianalandandlifestyle.com/land-for-sale/hunting-land/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "domain": "www.landsearch.com",
+                    "title": "Indiana Hunting Land for Sale - 230 Properties",
+                    "url": "https://www.landsearch.com/hunting/indiana"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "domain": "huntinglocator.com",
+                    "title": "Indiana Hunting Land for Sale - HuntingLocator.com",
+                    "url": "https://huntinglocator.com/land-for-sale/state/indiana"
+                  }
+                ],
+                "related_searches": [
+                  "Hunting land for sale indiana by owner",
+                  "Cheap hunting land for sale indiana",
+                  "Hunting land for lease Indiana",
+                  "Hunting Land for Sale Kentucky",
+                  "Ohio hunting Land for Sale"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

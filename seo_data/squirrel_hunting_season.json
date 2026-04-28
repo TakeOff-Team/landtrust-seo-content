@@ -1,0 +1,591 @@
+{
+  "id": "W19b",
+  "topic": "Squirrel Hunting Season",
+  "primary_keyword": "squirrel hunting season",
+  "slug": "squirrel_hunting_season",
+  "primary_keyword_data": {
+    "keyword": "squirrel hunting season",
+    "search_volume": 720,
+    "cpc": null,
+    "competition": 0.0,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 720
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 720
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "search_volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "search_volume": 880
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "search_volume": 390
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "search_volume": 480
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "search_volume": 390
+      }
+    ]
+  },
+  "keyword_suggestions": [
+    {
+      "keyword": "squirrel season",
+      "search_volume": 1900,
+      "cpc": 0.17,
+      "competition": 0
+    },
+    {
+      "keyword": "hunting season squirrel",
+      "search_volume": 720,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "squirrel hunting rules",
+      "search_volume": 720,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "best time to hunt squirrels",
+      "search_volume": 590,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "best time of day for squirrel hunting",
+      "search_volume": 260,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "best time of day to squirrel hunt",
+      "search_volume": 260,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "archery squirrel hunting",
+      "search_volume": 210,
+      "cpc": null,
+      "competition": 0.05
+    },
+    {
+      "keyword": "bow hunt squirrel",
+      "search_volume": 210,
+      "cpc": null,
+      "competition": 0.05
+    },
+    {
+      "keyword": "squirrel hunting bag",
+      "search_volume": 90,
+      "cpc": 1.2,
+      "competition": 1
+    },
+    {
+      "keyword": "best time to go squirrel hunting",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "fox squirrel hunting",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "squirrel hunting in the winter",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "squirrel hunting in winter",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "best time of year to hunt squirrels",
+      "search_volume": 50,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "late season squirrel hunting",
+      "search_volume": 40,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "mdc squirrel season",
+      "search_volume": 40,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "best times to squirrel hunt",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "twra squirrel season",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "best times to hunt squirrel",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "squirrel hunting game bag",
+      "search_volume": 20,
+      "cpc": 0.77,
+      "competition": 1
+    },
+    {
+      "keyword": "squirrel trapping season",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0.01
+    },
+    {
+      "keyword": "best squirrel hunting times",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "best time of the day to hunt squirrels",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "early season squirrel hunting",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "fall squirrel hunting",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "fwc squirrel season",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0
+    }
+  ],
+  "primary_serp": {
+    "keyword": "squirrel hunting season",
+    "items": [
+      {
+        "rank": 1,
+        "type": "organic",
+        "title": "Squirrel Hunting - Kentucky Department of Fish & Wildlife",
+        "url": "https://fw.ky.gov/Hunt/Pages/Squirrel-Hunting.aspx",
+        "domain": "fw.ky.gov",
+        "description": "In Kentucky, there are two seasons. A Spring Season that is mid-May through mid-June and a Fall Season that is mid-August through the end of February."
+      },
+      {
+        "rank": 2,
+        "type": "organic",
+        "title": "Small Game Seasons - NYSDEC",
+        "url": "https://dec.ny.gov/things-to-do/hunting/small-game/seasons",
+        "domain": "dec.ny.gov",
+        "description": "Open Season: June 15 through September 30."
+      },
+      {
+        "rank": 3,
+        "type": "organic",
+        "title": "Squirrel Season | Outdoor Alabama",
+        "url": "https://www.outdooralabama.com/seasons-and-bag-limits/squirrel-season",
+        "domain": "www.outdooralabama.com",
+        "description": "September 13 - March 1. 8 a day - 8 in possession."
+      },
+      {
+        "rank": 4,
+        "type": "organic",
+        "title": "Georgia Squirrel Hunting Season Begins Aug. 15",
+        "url": "https://georgiawildlife.com/georgia-squirrel-hunting-season-begins-aug-15-0",
+        "domain": "georgiawildlife.com",
+        "description": "Aug 7, 2025 - Squirrel season is Aug. 15, 2025 - Feb. 28, 2026, and hunters can pursue both gray and fox squirrels. The maximum daily bag limit is 12 per day."
+      },
+      {
+        "rank": 5,
+        "type": "organic",
+        "title": "Squirrel - Texas Parks & Wildlife Department",
+        "url": "https://tpwd.texas.gov/regulations/outdoor-annual/regs/animals/squirrel",
+        "domain": "tpwd.texas.gov",
+        "description": "Season Dates & County Regulations. General Season. East Texas: Oct. 1, 2025."
+      },
+      {
+        "rank": 6,
+        "type": "organic",
+        "title": "Small Game Hunting Regulations and Seasons",
+        "url": "https://dwr.virginia.gov/hunting/regulations/smallgame/",
+        "domain": "dwr.virginia.gov",
+        "description": "Season Dates. October 25 through February 14: west of I-95. Continuous closed season: east of I-95. Bag Limit. Three per day."
+      },
+      {
+        "rank": 7,
+        "type": "organic",
+        "title": "North Carolina Small Game & Other Seasons",
+        "url": "https://www.eregulations.com/northcarolina/hunting/small-game-other-seasons",
+        "domain": "www.eregulations.com",
+        "description": "Small Game & Other Seasons; Fox Squirrel (statewide): Oct. 13 - Jan. 31; Rabbit. Oct. 13 - Feb. 28."
+      },
+      {
+        "rank": 8,
+        "type": "organic",
+        "title": "Best Time of Year for Squirrel Hunting",
+        "url": "https://www.youtube.com/watch?v=Uo8E7K636Ro",
+        "domain": "www.youtube.com",
+        "description": "Best Time of Year for Squirrel Hunting - Mossy Oak."
+      },
+      {
+        "rank": 9,
+        "type": "organic",
+        "title": "Squirrel: Hunting | Missouri Department of Conservation",
+        "url": "https://mdc.mo.gov/hunting-trapping/seasons/squirrel-hunting",
+        "domain": "mdc.mo.gov",
+        "description": "With a small game hunting permit you may take groundhogs, squirrels, and rabbits with a cage-type trap during that species open hunting season."
+      },
+      {
+        "rank": 10,
+        "type": "organic",
+        "title": "Maryland Small Game Seasons Provide Abundant Fall Hunting Opportunities",
+        "url": "https://news.maryland.gov/dnr/2025/10/06/marylands-small-game-seasons-provide-abundant-fall-hunting-opportunities/",
+        "domain": "news.maryland.gov",
+        "description": "Oct 6, 2025 - Squirrel season opened September 6 with a bag limit of six per day."
+      },
+      {
+        "rank": 11,
+        "type": "organic",
+        "title": "Upland & Small Game - Hunt Illinois",
+        "url": "https://huntillinois.org/upland-and-small-game",
+        "domain": "huntillinois.org",
+        "description": "Season Dates & Limits; SPECIES. Squirrels (Fox and Gray). ZONE. Statewide. DATES. 1 Aug 2025 - 15 Feb 2026."
+      },
+      {
+        "rank": 12,
+        "type": "organic",
+        "title": "Small Game: A Guide for Hunters",
+        "url": "https://www.wildlifedepartment.com/outdoorok/ooj/small-game-guide-hunters",
+        "domain": "www.wildlifedepartment.com",
+        "description": "Jul 28, 2023 - Squirrel season is one of if not the longest of the Oklahoma hunting seasons. Beginning May 15, and running through Feb. 28."
+      },
+      {
+        "rank": 13,
+        "type": "organic",
+        "title": "Florida Gray Squirrel and Rabbit Hunting",
+        "url": "https://myfwc.com/hunting/small-game/",
+        "domain": "myfwc.com",
+        "description": "Many of these WMAs offer a small game hunting season where quota permits are not required."
+      },
+      {
+        "rank": 14,
+        "type": "organic",
+        "title": "Squirrel Season Dates and Bag Limits - Arkansas",
+        "url": "https://www.agfc.com/hunting/more-game/squirrel/season-dates-and-bag-limits/",
+        "domain": "www.agfc.com",
+        "description": "2025-26 Squirrel Season - Squirrels may not be hunted with rifles or handguns larger than .22 caliber rimfire."
+      },
+      {
+        "rank": 15,
+        "type": "organic",
+        "title": "Squirrel season - Missouri Dept. of Conservation",
+        "url": "https://www.facebook.com/moconservation/videos/squirrel-season-runs-may-24-through-feb-15-2026-find-more-info-on-permits-and-al/1114486087363187/",
+        "domain": "www.facebook.com",
+        "description": "Squirrel season runs May 24 through Feb. 15, 2026."
+      },
+      {
+        "rank": 16,
+        "type": "organic",
+        "title": "Small game hunting - Wisconsin DNR",
+        "url": "https://dnr.wisconsin.gov/topic/hunt/smgame",
+        "domain": "dnr.wisconsin.gov",
+        "description": "2025 Seasons; Squirrels (Gray and Fox), Sept. 13 - Feb. 28, 2026."
+      },
+      {
+        "rank": 17,
+        "type": "organic",
+        "title": "Small Game - Vermont Fish & Wildlife Department",
+        "url": "https://www.vtfishandwildlife.com/hunt/hunting-and-trapping-opportunities/small-game",
+        "domain": "www.vtfishandwildlife.com",
+        "description": "Small Game; Cottontail Rabbit/Snowshoe Hare, Last Saturday in September - Second Sunday in March."
+      },
+      {
+        "rank": 18,
+        "type": "organic",
+        "title": "Seasons and Bag Limits | Game Commission - Pennsylvania",
+        "url": "https://www.pa.gov/agencies/pgc/huntingandtrapping/regulations/seasons-and-bag-limits",
+        "domain": "www.pa.gov",
+        "description": "May be hunted any hour, day or night, from July 1-Nov. 27 and Dec. 14-June 30, 2027."
+      }
+    ],
+    "people_also_ask": [
+      "Can I shoot squirrels in my yard in Massachusetts?",
+      "What is the best month to hunt squirrels?",
+      "Can I shoot squirrels in Texas?",
+      "Do I need a license to hunt squirrels in PA?"
+    ],
+    "related_searches": [
+      "Squirrel hunting season missouri",
+      "Squirrel season ky 2026",
+      "When is Squirrel Season in ky",
+      "Squirrel hunting season NJ",
+      "Squirrel hunting license",
+      "Small Game Hunting season NY",
+      "When is squirrel season in Texas",
+      "Squirrel hunting season CT"
+    ],
+    "serp_features": [
+      "ai_overview",
+      "organic",
+      "people_also_ask",
+      "video",
+      "perspectives",
+      "related_searches"
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "squirrel season",
+      "serp": {
+        "keyword": "squirrel season",
+        "items": [
+          {
+            "rank": 1,
+            "type": "organic",
+            "title": "Squirrel Hunting - Kentucky Department of Fish & Wildlife",
+            "url": "https://fw.ky.gov/Hunt/Pages/Squirrel-Hunting.aspx",
+            "domain": "fw.ky.gov",
+            "description": "In Kentucky, there are two seasons. A Spring Season that is mid-May through mid-June and a Fall Season that is mid-August through the end of February, with a\u00a0... Read more"
+          },
+          {
+            "rank": 2,
+            "type": "organic",
+            "title": "Squirrel Season | Outdoor Alabama",
+            "url": "https://www.outdooralabama.com/seasons-and-bag-limits/squirrel-season",
+            "domain": "www.outdooralabama.com",
+            "description": "Squirrel Season 2025-2026 September 13 - March 1 ADDITIONAL LINKS License Information Purchase Your License Online Purchase Licenses Read more"
+          },
+          {
+            "rank": 3,
+            "type": "organic",
+            "title": "Squirrel Season Dates and Bag Limits",
+            "url": "https://www.agfc.com/hunting/more-game/squirrel/season-dates-and-bag-limits/",
+            "domain": "www.agfc.com",
+            "description": "2025-26 Squirrel Season Statewide: May 15, 2025-Feb. 28, 2026 and May 15, 2026-Feb. 28, 2027 Dogs allowed. Daily limit \u2013 Read more"
+          },
+          {
+            "rank": 4,
+            "type": "organic",
+            "title": "Small Game Seasons - NYSDEC",
+            "url": "https://dec.ny.gov/things-to-do/hunting/small-game/seasons",
+            "domain": "dec.ny.gov",
+            "description": "Maps showing the areas open for small game and furbearer hunting and season dates and bag limits for taking rabbits, grouse, turkey, squirrel, frogs,\u00a0..."
+          },
+          {
+            "rank": 5,
+            "type": "organic",
+            "title": "Small Game Hunting Regulations and Seasons",
+            "url": "https://dwr.virginia.gov/hunting/regulations/smallgame/",
+            "domain": "dwr.virginia.gov",
+            "description": "Fox squirrels may be harvested on all lands, unless otherwise posted, in all counties with an open fall fox squirrel season and on the following WMAs: Big\u00a0... Read more"
+          },
+          {
+            "rank": 6,
+            "type": "organic",
+            "title": "Species Season Dates and Bag Limits",
+            "url": "https://myfwc.com/hunting/season-dates/",
+            "domain": "myfwc.com",
+            "description": "Daily bag limits: 12 gray squirrels; 12 rabbits. No limits on other species. Possession limits: 24 gray squirrels; 24 rabbits. No limits on other species\u00a0... Read more"
+          },
+          {
+            "rank": 7,
+            "type": "organic",
+            "title": "Squirrel and Rabbit Hunting Seasons Open Oct. 4 in ...",
+            "url": "https://www.wlf.louisiana.gov/news/squirrel-and-rabbit-hunting-seasons-open-oct-4-in-louisiana-ldwf-announces",
+            "domain": "www.wlf.louisiana.gov",
+            "description": "Baton Rouge, Sep 30, 2025 - The Louisiana squirrel and rabbit hunting seasons begin Saturday (Oct. 4) in all parts of Louisiana and run through Feb. Read more"
+          },
+          {
+            "rank": 8,
+            "type": "organic",
+            "title": "Squirrel season runs May 24 through Feb. 15, 2026. Find ...",
+            "url": "https://www.facebook.com/moconservation/posts/squirrel-season-runs-may-24-through-feb-15-2026-find-more-info-on-permits-and-al/1080501240783098/",
+            "domain": "www.facebook.com",
+            "description": "Squirrel season runs May 24 through Feb. 15, 2026. Find more info on permits and allowed hunting methods by checking out the Missouri\u00a0..."
+          },
+          {
+            "rank": 9,
+            "type": "organic",
+            "title": "Georgia Squirrel Hunting Season Begins Aug. 15",
+            "url": "https://georgiawildlife.com/georgia-squirrel-hunting-season-begins-aug-15-0",
+            "domain": "georgiawildlife.com",
+            "description": "Aug 7, 2025 \u2014 Squirrel season is Aug. 15, 2025 \u2013 Feb. 28, 2026, and hunters can pursue both gray and fox squirrels. The maximum daily bag limit is 12 per\u00a0... Read more"
+          },
+          {
+            "rank": 10,
+            "type": "organic",
+            "title": "Fish and Wildlife: Squirrel Hunting",
+            "url": "https://www.in.gov/dnr/fish-and-wildlife/hunting-and-trapping/squirrel-hunting/",
+            "domain": "www.in.gov",
+            "description": "Fox and gray squirrels are regulated species in Indiana and can be hunted from Aug. 15, 2025 \u2013 Jan. 31, 2026. The daily bag limit is five. The possession limit\u00a0... Read more"
+          },
+          {
+            "rank": 11,
+            "type": "organic",
+            "title": "Small Game: A Guide for Hunters",
+            "url": "https://www.wildlifedepartment.com/outdoorok/ooj/small-game-guide-hunters",
+            "domain": "www.wildlifedepartment.com",
+            "description": "Jul 28, 2023 \u2014 Generous harvest limits and a lengthy season afford you the opportunity to hunt squirrels in fruit trees in the spring and summer, and in the\u00a0... Read more"
+          },
+          {
+            "rank": 12,
+            "type": "organic",
+            "title": "Florida Gray Squirrel and Rabbit Hunting",
+            "url": "https://myfwc.com/hunting/small-game/",
+            "domain": "myfwc.com",
+            "description": "Gray squirrel and rabbit hunting usually requires little planning and gear other than a place to go and a shotgun, .22-caliber rifle or airgun. Read more"
+          },
+          {
+            "rank": 13,
+            "type": "organic",
+            "title": "Squirrel season | Missouri Dept. of Conservation",
+            "url": "https://www.facebook.com/moconservation/videos/squirrel-season-runs-may-24-through-feb-15-2026-find-more-info-on-permits-and-al/1114486087363187/",
+            "domain": "www.facebook.com",
+            "description": "Squirrel season runs May 24 through Feb. 15, 2026. Find more info on permits and allowed hunting methods by checking out the Missouri Hunting and Trapping\u00a0..."
+          },
+          {
+            "rank": 14,
+            "type": "organic",
+            "title": "Upland & Small Game",
+            "url": "https://huntillinois.org/upland-and-small-game",
+            "domain": "huntillinois.org",
+            "description": "Season Dates & Limits ; SPECIES. Squirrels (Fox and Gray). ZONE. Statewide. DATES (inclusive). 1 Aug 2025 - 15 Feb 2026; Closed 21-23 Nov and 4-7 Dec 2025 in\u00a0... Read more"
+          },
+          {
+            "rank": 15,
+            "type": "organic",
+            "title": "Small Game Seasons - NYSDEC",
+            "url": "https://dec.ny.gov/things-to-do/hunting/small-game/seasons",
+            "domain": "dec.ny.gov",
+            "description": "Maps showing the areas open for small game and furbearer hunting and season dates and bag limits for taking rabbits, grouse, turkey, squirrel, frogs,\u00a0..."
+          },
+          {
+            "rank": 16,
+            "type": "organic",
+            "title": "Squirrel \u2014 Texas Parks & Wildlife Department",
+            "url": "https://tpwd.texas.gov/regulations/outdoor-annual/regs/animals/squirrel",
+            "domain": "tpwd.texas.gov",
+            "description": "Season Dates & County Regulations. General Season. East Texas: Oct. 1, 2025 - Feb. 22, 2026. May 1 - 31\u00a0... Read more"
+          },
+          {
+            "rank": 17,
+            "type": "organic",
+            "title": "Squirrel Season in the Hoosier State",
+            "url": "https://midwestoutdoors.com/hunting/squirrel-season-in-the-hoosier-state/",
+            "domain": "midwestoutdoors.com",
+            "description": "Squirrel hunting season dates are August 15, 2020 through January 31, 2021. Keep in mind that if you are hunting squirrels during the deer firearm season. Read more"
+          },
+          {
+            "rank": 18,
+            "type": "organic",
+            "title": "Seasons and Bag Limits | Game Commission",
+            "url": "https://www.pa.gov/agencies/pgc/huntingandtrapping/regulations/seasons-and-bag-limits",
+            "domain": "www.pa.gov",
+            "description": "SQUIRRELS, Red, Gray, Black and Fox (Combined). Sept. 12-Dec. 24 and Dec. 26 ... No closed season, except during the firearms deer season. No limit\u00a0... Read more"
+          }
+        ],
+        "people_also_ask": [
+          "When can you hunt squirrels in Louisiana?",
+          "Are squirrels active in October?",
+          "What is a squirrel's biggest enemy?",
+          "Are there any benefits to having squirrels in your yard?"
+        ],
+        "related_searches": [
+          "squirrel season near california",
+          "Squirrel season ky 2026",
+          "When is Squirrel Season in ky",
+          "Squirrel season NY",
+          "Texas squirrel season",
+          "When is squirrel season in Alabama",
+          "Squirrel season in wv",
+          "Squirrel season Mississippi",
+          "squirrel season near california",
+          "squirrel season near texas",
+          "Squirrel season ky 2026",
+          "When is Squirrel Season in ky",
+          "Squirrel season VA 2026",
+          "Squirrel season NY",
+          "Squirrel season in wv",
+          "When is squirrel season in Virginia"
+        ],
+        "serp_features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "images",
+          "perspectives",
+          "related_searches"
+        ]
+      }
+    }
+  ]
+}

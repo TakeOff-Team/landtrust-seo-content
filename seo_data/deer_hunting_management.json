@@ -1,0 +1,307 @@
+{
+  "id": "W22a",
+  "topic": "Deer Hunting and Management: From Habitat to Harvest",
+  "primary_keyword": "deer hunting and management",
+  "slug": "deer_hunting_management",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "3.5992 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282002-1118-0093-0000-c1c9ee70d5fd",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.5338 sec.",
+        "cost": 0.075,
+        "result_count": 1,
+        "path": ["v3","keywords_data","google","search_volume","live"],
+        "data": {
+          "api": "keywords_data",
+          "function": "search_volume",
+          "se": "google",
+          "keywords": ["deer hunting and management"],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {
+            "keyword": "deer hunting and management",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": null,
+            "categories": null,
+            "monthly_searches": null
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.3768 sec.",
+    "cost": 0.075,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282002-1118-0090-0000-0032a5c3fb8a",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "4.3625 sec.",
+        "cost": 0.075,
+        "result_count": 34,
+        "path": ["v3","keywords_data","google","keywords_for_keywords","live"],
+        "data": {
+          "api": "keywords_data",
+          "function": "keywords_for_keywords",
+          "se": "google",
+          "keywords": ["deer hunting and management"],
+          "location_code": 2840,
+          "language_code": "en"
+        },
+        "result": [
+          {"keyword": "deer hunting and management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": null, "categories": null, "monthly_searches": null},
+          {"keyword": "deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.01, "cpc": null, "search_volume": 880, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 390},{"year": 2026, "month": 2, "search_volume": 390},{"year": 2026, "month": 1, "search_volume": 480},{"year": 2025, "month": 12, "search_volume": 590},{"year": 2025, "month": 11, "search_volume": 880},{"year": 2025, "month": 10, "search_volume": 590},{"year": 2025, "month": 9, "search_volume": 5400},{"year": 2025, "month": 8, "search_volume": 480},{"year": 2025, "month": 7, "search_volume": 390},{"year": 2025, "month": 6, "search_volume": 320},{"year": 2025, "month": 5, "search_volume": 320},{"year": 2025, "month": 4, "search_volume": 480}]},
+          {"keyword": "anglo deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 0, "categories": null, "monthly_searches": null},
+          {"keyword": "deer food plot management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 50, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 40},{"year": 2026, "month": 2, "search_volume": 20},{"year": 2026, "month": 1, "search_volume": 30},{"year": 2025, "month": 12, "search_volume": 50},{"year": 2025, "month": 11, "search_volume": 90},{"year": 2025, "month": 10, "search_volume": 90},{"year": 2025, "month": 9, "search_volume": 50},{"year": 2025, "month": 8, "search_volume": 40},{"year": 2025, "month": 7, "search_volume": 30},{"year": 2025, "month": 6, "search_volume": 90},{"year": 2025, "month": 5, "search_volume": 20},{"year": 2025, "month": 4, "search_volume": 10}]},
+          {"keyword": "deer hunting land management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.03, "cpc": 4.56, "search_volume": 20, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 30},{"year": 2026, "month": 2, "search_volume": 10},{"year": 2026, "month": 1, "search_volume": 30},{"year": 2025, "month": 12, "search_volume": 50},{"year": 2025, "month": 11, "search_volume": 40},{"year": 2025, "month": 10, "search_volume": 20},{"year": 2025, "month": 9, "search_volume": 20},{"year": 2025, "month": 8, "search_volume": 10},{"year": 2025, "month": 7, "search_volume": 10},{"year": 2025, "month": 6, "search_volume": 10},{"year": 2025, "month": 5, "search_volume": 10},{"year": 2025, "month": 4, "search_volume": 10}]},
+          {"keyword": "deer hunting management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 20, "categories": null, "monthly_searches": null},
+          {"keyword": "deer land management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.02, "cpc": 5.28, "search_volume": 50, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 30},{"year": 2026, "month": 2, "search_volume": 40},{"year": 2026, "month": 1, "search_volume": 50},{"year": 2025, "month": 12, "search_volume": 70},{"year": 2025, "month": 11, "search_volume": 110},{"year": 2025, "month": 10, "search_volume": 40},{"year": 2025, "month": 9, "search_volume": 30},{"year": 2025, "month": 8, "search_volume": 40},{"year": 2025, "month": 7, "search_volume": 30},{"year": 2025, "month": 6, "search_volume": 30},{"year": 2025, "month": 5, "search_volume": 20},{"year": 2025, "month": 4, "search_volume": 50}]},
+          {"keyword": "deer management on 100 acres", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "deer management on small acreage", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "deer management way of the hunter", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "defence deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "food plot management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.52, "cpc": null, "search_volume": 20, "categories": null, "monthly_searches": null},
+          {"keyword": "high fence deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "improving deer hunting property", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "lowland and borders deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "management buck", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 70, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 20},{"year": 2026, "month": 2, "search_volume": 30},{"year": 2026, "month": 1, "search_volume": 110},{"year": 2025, "month": 12, "search_volume": 140},{"year": 2025, "month": 11, "search_volume": 210},{"year": 2025, "month": 10, "search_volume": 110},{"year": 2025, "month": 9, "search_volume": 50},{"year": 2025, "month": 8, "search_volume": 40},{"year": 2025, "month": 7, "search_volume": 30},{"year": 2025, "month": 6, "search_volume": 20},{"year": 2025, "month": 5, "search_volume": 30},{"year": 2025, "month": 4, "search_volume": 20}]},
+          {"keyword": "management deer hunt", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 20, "categories": null, "monthly_searches": null},
+          {"keyword": "mdc mo gov managedhunt", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 30, "categories": null, "monthly_searches": null},
+          {"keyword": "mule deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.05, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "paunsaugunt management deer hunt", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.01, "cpc": null, "search_volume": 30, "categories": null, "monthly_searches": null},
+          {"keyword": "quality deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.01, "cpc": null, "search_volume": 90, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 70},{"year": 2026, "month": 2, "search_volume": 70},{"year": 2026, "month": 1, "search_volume": 90},{"year": 2025, "month": 12, "search_volume": 110},{"year": 2025, "month": 11, "search_volume": 210},{"year": 2025, "month": 10, "search_volume": 210},{"year": 2025, "month": 9, "search_volume": 110},{"year": 2025, "month": 8, "search_volume": 70},{"year": 2025, "month": 7, "search_volume": 50},{"year": 2025, "month": 6, "search_volume": 50},{"year": 2025, "month": 5, "search_volume": 50},{"year": 2025, "month": 4, "search_volume": 70}]},
+          {"keyword": "quality whitetails", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "small parcel deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "small property deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": null, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "suburban whitetail management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 30, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 50},{"year": 2026, "month": 2, "search_volume": 20},{"year": 2026, "month": 1, "search_volume": 30},{"year": 2025, "month": 12, "search_volume": 40},{"year": 2025, "month": 11, "search_volume": 30},{"year": 2025, "month": 10, "search_volume": 50},{"year": 2025, "month": 9, "search_volume": 50},{"year": 2025, "month": 8, "search_volume": 30},{"year": 2025, "month": 7, "search_volume": 20},{"year": 2025, "month": 6, "search_volume": 20},{"year": 2025, "month": 5, "search_volume": 30},{"year": 2025, "month": 4, "search_volume": 30}]},
+          {"keyword": "trophy deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 10, "categories": null, "monthly_searches": null},
+          {"keyword": "tsi deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.01, "cpc": null, "search_volume": 40, "categories": null, "monthly_searches": null},
+          {"keyword": "urban deer", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 90, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 70},{"year": 2026, "month": 2, "search_volume": 70},{"year": 2026, "month": 1, "search_volume": 90},{"year": 2025, "month": 12, "search_volume": 70},{"year": 2025, "month": 11, "search_volume": 110},{"year": 2025, "month": 10, "search_volume": 110},{"year": 2025, "month": 9, "search_volume": 90},{"year": 2025, "month": 8, "search_volume": 90},{"year": 2025, "month": 7, "search_volume": 70},{"year": 2025, "month": 6, "search_volume": 70},{"year": 2025, "month": 5, "search_volume": 70},{"year": 2025, "month": 4, "search_volume": 70}]},
+          {"keyword": "urban deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.01, "cpc": null, "search_volume": 90, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 90},{"year": 2026, "month": 2, "search_volume": 40},{"year": 2026, "month": 1, "search_volume": 40},{"year": 2025, "month": 12, "search_volume": 70},{"year": 2025, "month": 11, "search_volume": 90},{"year": 2025, "month": 10, "search_volume": 110},{"year": 2025, "month": 9, "search_volume": 260},{"year": 2025, "month": 8, "search_volume": 140},{"year": 2025, "month": 7, "search_volume": 70},{"year": 2025, "month": 6, "search_volume": 40},{"year": 2025, "month": 5, "search_volume": 20},{"year": 2025, "month": 4, "search_volume": 20}]},
+          {"keyword": "way of the hunter deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 20, "categories": null, "monthly_searches": null},
+          {"keyword": "white tail deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.03, "cpc": 3.81, "search_volume": 90, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 70},{"year": 2026, "month": 2, "search_volume": 40},{"year": 2026, "month": 1, "search_volume": 70},{"year": 2025, "month": 12, "search_volume": 140},{"year": 2025, "month": 11, "search_volume": 140},{"year": 2025, "month": 10, "search_volume": 90},{"year": 2025, "month": 9, "search_volume": 90},{"year": 2025, "month": 8, "search_volume": 70},{"year": 2025, "month": 7, "search_volume": 50},{"year": 2025, "month": 6, "search_volume": 40},{"year": 2025, "month": 5, "search_volume": 90},{"year": 2025, "month": 4, "search_volume": 90}]},
+          {"keyword": "whitetail deer management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.03, "cpc": 3.81, "search_volume": 90, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 70},{"year": 2026, "month": 2, "search_volume": 40},{"year": 2026, "month": 1, "search_volume": 70},{"year": 2025, "month": 12, "search_volume": 140},{"year": 2025, "month": 11, "search_volume": 140},{"year": 2025, "month": 10, "search_volume": 90},{"year": 2025, "month": 9, "search_volume": 90},{"year": 2025, "month": 8, "search_volume": 70},{"year": 2025, "month": 7, "search_volume": 50},{"year": 2025, "month": 6, "search_volume": 40},{"year": 2025, "month": 5, "search_volume": 90},{"year": 2025, "month": 4, "search_volume": 90}]},
+          {"keyword": "whitetail herd management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0, "cpc": null, "search_volume": 50, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 40},{"year": 2026, "month": 2, "search_volume": 90},{"year": 2026, "month": 1, "search_volume": 140},{"year": 2025, "month": 12, "search_volume": 90},{"year": 2025, "month": 11, "search_volume": 110},{"year": 2025, "month": 10, "search_volume": 70},{"year": 2025, "month": 9, "search_volume": 50},{"year": 2025, "month": 8, "search_volume": 30},{"year": 2025, "month": 7, "search_volume": 20},{"year": 2025, "month": 6, "search_volume": 10},{"year": 2025, "month": 5, "search_volume": 10},{"year": 2025, "month": 4, "search_volume": 20}]},
+          {"keyword": "whitetail management", "location_code": 2840, "language_code": "en", "search_partners": false, "competition": 0.03, "cpc": 3.81, "search_volume": 90, "categories": null, "monthly_searches": [{"year": 2026, "month": 3, "search_volume": 70},{"year": 2026, "month": 2, "search_volume": 40},{"year": 2026, "month": 1, "search_volume": 70},{"year": 2025, "month": 12, "search_volume": 140},{"year": 2025, "month": 11, "search_volume": 140},{"year": 2025, "month": 10, "search_volume": 90},{"year": 2025, "month": 9, "search_volume": 90},{"year": 2025, "month": 8, "search_volume": 70},{"year": 2025, "month": 7, "search_volume": 50},{"year": 2025, "month": 6, "search_volume": 40},{"year": 2025, "month": 5, "search_volume": 90},{"year": 2025, "month": 4, "search_volume": 90}]}
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.0731 sec.",
+    "cost": 0.0055,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+      {
+        "id": "04282003-1118-0139-0000-eb60400b4caa",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.9717 sec.",
+        "cost": 0.0055,
+        "result_count": 1,
+        "path": ["v3","serp","google","organic","live","advanced"],
+        "data": {
+          "api": "serp",
+          "function": "live",
+          "se": "google",
+          "se_type": "organic",
+          "keyword": "deer hunting and management",
+          "location_code": 2840,
+          "language_code": "en",
+          "device": "desktop",
+          "depth": 20
+        },
+        "result": [
+          {
+            "keyword": "deer hunting and management",
+            "type": "organic",
+            "se_domain": "google.com",
+            "location_code": 2840,
+            "language_code": "en",
+            "check_url": "https://www.google.com/search?q=deer%20hunting%20and%20management&hl=en&gl=US",
+            "datetime": "2026-04-28 17:03:30 +00:00",
+            "item_types": ["ai_overview","organic","people_also_ask","video","perspectives","discussions_and_forums","related_searches"],
+            "se_results_count": 43000000,
+            "pages_count": 2,
+            "items_count": 24,
+            "items": [
+              {"type": "ai_overview", "rank_group": 1, "rank_absolute": 1, "page": 1, "asynchronous_ai_overview": true},
+              {"type": "organic", "rank_group": 1, "rank_absolute": 2, "page": 1, "domain": "dnr.maryland.gov", "title": "Deer Hunting: An Effective Management Tool", "url": "https://dnr.maryland.gov/wildlife/pages/hunt_trap/deerhuntastool.aspx", "description": "Regulated hunting remains the most effective tool for maintaining deer populations at appropriate levels."},
+              {"type": "organic", "rank_group": 2, "rank_absolute": 3, "page": 1, "domain": "www.northamericanwhitetail.com", "title": "How To Manage a Small Property for Whitetails", "url": "https://www.northamericanwhitetail.com/editorial/how-to-manage-a-small-property-for-whitetails/360569", "description": "You don't need the help of a single neighbor to manage a small property for better hunting."},
+              {"type": "organic", "rank_group": 3, "rank_absolute": 4, "page": 1, "domain": "deerassociation.com", "title": "National Deer Association: Homepage", "url": "https://deerassociation.com/", "description": "The NDA regularly engages on important conservation issues impacting wild deer and deer hunting at the local, state and federal levels."},
+              {"type": "people_also_ask", "rank_group": 1, "rank_absolute": 5, "page": 1, "items": [{"title": "What is the 7 day rule for deer?"},{"title": "Can Muslims eat venison?"},{"title": "What is the 70 rule in deer hunting?"},{"title": "Can deer hear human voices?"}]},
+              {"type": "organic", "rank_group": 4, "rank_absolute": 6, "page": 1, "domain": "www.mossyoak.com", "title": "Managing Your Deer Herd Basics", "url": "https://www.mossyoak.com/our-obsession/blogs/deer/managing-your-deer-herd-basics", "description": "The goal of most wildlife manager-hunters is simple: we want to see and kill more and better deer."},
+              {"type": "organic", "rank_group": 5, "rank_absolute": 7, "page": 1, "domain": "www.deeranddeerhunting.com", "title": "Back to Basics: Wildlife Management 101", "url": "https://www.deeranddeerhunting.com/content/blogs/back-to-basics-wildlife-management-101"},
+              {"type": "organic", "rank_group": 6, "rank_absolute": 8, "page": 1, "domain": "www.fws.gov", "title": "Hunting as a Tool for Wildlife Management", "url": "https://www.fws.gov/story/hunting-tool-wildlife-management", "description": "This blog provides an overview of hunting as a conservation tool both at the refuge and at public lands across the country."},
+              {"type": "video", "rank_group": 1, "rank_absolute": 9, "page": 1, "items": [{"type": "video_element", "source": "YouTube · Keith Warren Hunting", "title": "Deer Management: How to Choose a Good Buck & Why It ...", "url": "https://www.youtube.com/shorts/Ee0CTCYmlEw"},{"type": "video_element", "source": "YouTube · Bass Pro Shops", "title": "Effective Deer Population Management | Bass Pro Shops ...", "url": "https://www.youtube.com/watch?v=Ws3G_6iKKMY"},{"type": "video_element", "source": "YouTube · GrowingDeer.tv", "title": "Deer Herd Management: Doe Harvest Objectives & Browse ...", "url": "https://www.youtube.com/watch?v=IDXw97xWAXU"}]},
+              {"type": "perspectives", "rank_group": 1, "rank_absolute": 10, "page": 1, "title": "What people are saying", "items": [{"title": "Hmm... I thought the insurance companies were in 'bed' with NRC", "source": "Michigan Rut Report", "date": "3 days ago"},{"title": "HUNT 'Pinch Points' on YOUR FARM!!", "source": "Whitetail Properties", "date": "2 weeks ago"},{"title": "That's land management 🦌 #whitetail #deerhunting", "source": "thegivenright", "date": "6 days ago"}]},
+              {"type": "discussions_and_forums", "rank_group": 1, "rank_absolute": 11, "page": 1, "title": "Discussions and forums", "items": [{"title": "Explain the fundamentals of herd management", "url": "https://www.reddit.com/r/Hunting/comments/1fygzl9/explain_the_fundamentals_of_herd_management/", "source": "Reddit"},{"title": "I've secured land, need some guidance in approach to starting deer ...", "url": "https://www.reddit.com/r/bowhunting/comments/wf2qhb/ive_secured_land_need_some_guidance_in_approach/", "source": "Reddit"}]},
+              {"type": "organic", "rank_group": 7, "rank_absolute": 12, "page": 1, "domain": "congressionalsportsmen.org", "title": "Hunting as a Preferred Management Tool", "url": "https://congressionalsportsmen.org/policy/white-tailed-deer-management-hunting-as-a-preferred-management-tool/", "description": "Hunting is still the most effective method to regulate deer populations."},
+              {"type": "related_searches", "rank_group": 1, "rank_absolute": 13, "page": 1, "items": ["Deer hunting and management programs","Deer land management consultant","Quality deer management Association Website","Deer Association","QDMA deer management","Hunting land management jobs","National Deer Association","National Deer Association banquet"]},
+              {"type": "organic", "rank_group": 8, "rank_absolute": 14, "page": 2, "domain": "www.reddit.com", "title": "Explain the fundamentals of herd management : r/Hunting", "url": "https://www.reddit.com/r/Hunting/comments/1fygzl9/explain_the_fundamentals_of_herd_management/"},
+              {"type": "organic", "rank_group": 9, "rank_absolute": 15, "page": 2, "domain": "www.themeateater.com", "title": "The Easiest Way to Improve Any Deer Property", "url": "https://www.themeateater.com/wired-to-hunt/whitetail-management/the-easiest-way-to-improve-any-deer-property"},
+              {"type": "organic", "rank_group": 10, "rank_absolute": 16, "page": 2, "domain": "en.wikipedia.org", "title": "Deer management", "url": "https://en.wikipedia.org/wiki/Deer_management", "description": "Deer management is the practice and philosophy of wildlife management employed to regulate the population of deer in an area."},
+              {"type": "organic", "rank_group": 11, "rank_absolute": 17, "page": 2, "domain": "www.wildlifedepartment.com", "title": "Strategies for Deer Management on Private Lands", "url": "https://www.wildlifedepartment.com/outdoorok/ooj/strategies-deer-management-private-lands"},
+              {"type": "organic", "rank_group": 12, "rank_absolute": 18, "page": 2, "domain": "www.jackbrittingham.com", "title": "Deer Management on the Open Range", "url": "https://www.jackbrittingham.com/articles/deer-management-on-the-open-range/"},
+              {"type": "organic", "rank_group": 13, "rank_absolute": 19, "page": 2, "domain": "fpdcc.com", "title": "Deer Management", "url": "https://fpdcc.com/nature/coexisting-nature/deer-management/"},
+              {"type": "organic", "rank_group": 14, "rank_absolute": 20, "page": 2, "domain": "westernhunter.net", "title": "Mule Deer Hunting and Management in a Changing World", "url": "https://westernhunter.net/information/mule-deer-hunting-and-management-in-a-changing-world/"},
+              {"type": "organic", "rank_group": 15, "rank_absolute": 21, "page": 2, "domain": "cornellbotanicgardens.org", "title": "Why We Manage Deer", "url": "https://cornellbotanicgardens.org/conserve/deer/why-we-manage-deer"},
+              {"type": "organic", "rank_group": 16, "rank_absolute": 22, "page": 2, "domain": "dep.nj.gov", "title": "Fish & Wildlife | Community-Based Deer Management - NJDEP", "url": "https://dep.nj.gov/njfw/wildlife/community-based-deer-management/"},
+              {"type": "organic", "rank_group": 17, "rank_absolute": 23, "page": 2, "domain": "myfwc.com", "title": "Deer Management Units (DMUs)", "url": "https://myfwc.com/hunting/deer/dmu/"},
+              {"type": "related_searches", "rank_group": 2, "rank_absolute": 24, "page": 2, "items": ["Deer hunting and management programs","Quality deer management Association Website","Deer land management consultant","Deer Association","QDMA deer management","Hunting land management jobs","National Deer Association","National Deer Association banquet"]}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "deer management",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "5.7906 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282004-1118-0139-0000-1937faf20d35",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "5.6897 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": ["v3","serp","google","organic","live","advanced"],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "deer management",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20
+            },
+            "result": [
+              {
+                "keyword": "deer management",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=deer%20management&hl=en&gl=US",
+                "datetime": "2026-04-28 17:04:36 +00:00",
+                "item_types": ["organic","people_also_ask","video","perspectives","related_searches"],
+                "se_results_count": null,
+                "note": "Full SERP data available - persisted to tool-results/toolu_01WkvkkgrQQoPf1pvVnBiNoY.json. Top organic results include: Buck Manager, National Deer Association, Quality Deer Management Association, Texas Parks and Wildlife (White-tailed deer management), NDA homepage, Mossy Oak (Managing Your Deer Herd), MeatEater (Easiest Way to Improve Any Deer Property), Wikipedia (Deer management), White Buffalo Inc. (Deer Management), Boone and Crockett Club (Managing Whitetail Deer). Key related searches: deer management near me, deer management regulations, whitetail deer management texas."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "whitetail deer management",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "4.0841 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282004-1118-0139-0000-4d953c09a7f7",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "3.9852 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": ["v3","serp","google","organic","live","advanced"],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "whitetail deer management",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20
+            },
+            "result": [
+              {
+                "keyword": "whitetail deer management",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=whitetail%20deer%20management&hl=en&gl=US",
+                "datetime": "2026-04-28 17:04:41 +00:00",
+                "item_types": ["organic","video","people_also_ask","perspectives","related_searches"],
+                "se_results_count": 4990000,
+                "pages_count": 2,
+                "items_count": 23,
+                "items": [
+                  {"type": "organic", "rank_group": 1, "rank_absolute": 1, "page": 1, "domain": "www.northamericanwhitetail.com", "title": "Balancing The Deer Herd", "url": "https://www.northamericanwhitetail.com/editorial/balancing-deer-herd/380206", "description": "To make sound harvest decisions, study your deer on a year-round basis."},
+                  {"type": "organic", "rank_group": 2, "rank_absolute": 2, "page": 1, "domain": "tpwd.texas.gov", "title": "White-tailed Deer Management - Texas Parks and Wildlife", "url": "https://tpwd.texas.gov/huntwild/wild/game_management/deer/", "description": "Texas Parks and Wildlife Department is responsible for the regulation, conservation, and management of deer populations."},
+                  {"type": "organic", "rank_group": 3, "rank_absolute": 3, "page": 1, "domain": "www.drdeer.com", "title": "Dr Deer | Wildlife, White-Tailed Deer Management Consultants", "url": "https://www.drdeer.com/", "description": "With four plus decades of professional experience, Dr. Deer is the recognized world authority on Whitetails."},
+                  {"type": "organic", "rank_group": 4, "rank_absolute": 4, "page": 1, "domain": "animalrangeextension.montana.edu", "title": "White-tailed Deer Management for Montana Landowners", "url": "https://animalrangeextension.montana.edu/wildlife/private_land_wildlife_mgmt/whitetail-mgmt.html"},
+                  {"type": "video", "rank_group": 1, "rank_absolute": 5, "page": 1, "items": [{"type": "video_element", "source": "YouTube · Whitetail Habitat Solutions", "title": "Bad Deer Management Example #1", "url": "https://www.youtube.com/watch?v=RQjBSfALGlk"},{"type": "video_element", "source": "YouTube · Mossy Oak Gamekeepers", "title": "EP:253 | Managing Whitetails and Dealing with Deer ...", "url": "https://www.youtube.com/watch?v=0epHyZe6a6Q"},{"type": "video_element", "source": "YouTube · Gunnar Hanson", "title": "Whitetail Strategy // How to Attract More Bucks To Your Land ...", "url": "https://www.youtube.com/watch?v=s3uG9iMc06M"}]},
+                  {"type": "organic", "rank_group": 5, "rank_absolute": 6, "page": 1, "domain": "www.whitetailhabitatsolutions.com", "title": "Whitetail Habitat Management - Top 10 Myths", "url": "https://www.whitetailhabitatsolutions.com/blog/whitetail-habitat-management-top-10-myths"},
+                  {"type": "people_also_ask", "rank_group": 1, "rank_absolute": 7, "page": 1, "items": [{"title": "What is the 7 day rule for deer?"},{"title": "Can deer hear human voices?"},{"title": "Why do bucks disappear in October?"},{"title": "What does it mean when a deer stomps and stares at you?"}]},
+                  {"type": "organic", "rank_group": 6, "rank_absolute": 8, "page": 1, "domain": "dec.ny.gov", "title": "White-tailed Deer Management and Conflict Avoidance", "url": "https://dec.ny.gov/nature/animals-fish-plants/white-tailed-deer/deer-management-conflict-avoidance"},
+                  {"type": "organic", "rank_group": 7, "rank_absolute": 9, "page": 1, "domain": "congressionalsportsmen.org", "title": "Oh Deer! The Role of Hunters in Managing White-Tailed ...", "url": "https://congressionalsportsmen.org/news/oh-deer-the-role-of-hunters-in-managing-white-tailed-deer-populations/"},
+                  {"type": "organic", "rank_group": 8, "rank_absolute": 10, "page": 1, "domain": "www.nps.gov", "title": "White-Tailed Deer Management - Rock Creek", "url": "https://www.nps.gov/rocr/learn/management/white-tailed-deer-management.htm"},
+                  {"type": "perspectives", "rank_group": 1, "rank_absolute": 11, "page": 1, "title": "What people are saying", "items": [{"title": "Maximize You Property For Whitetail Deer!", "source": "Whitetail Properties"},{"title": "That's land management 🦌 #whitetail #deerhunting", "source": "thegivenright"},{"title": "How To Attract More Big Bucks With Habitat Improvements", "source": "Jace Bauserman"}]},
+                  {"type": "related_searches", "rank_group": 1, "rank_absolute": 12, "page": 1, "items": ["Whitetail deer management map","Whitetail deer management near me","Whitetail deer management regulations","Whitetail deer herd management COTW","Whitetail deer management texas","Texas deer types","White-tailed deer","Deer management tags"]},
+                  {"type": "organic", "rank_group": 9, "rank_absolute": 13, "page": 2, "domain": "www.whitebuffaloinc.org", "title": "Deer Management", "url": "https://www.whitebuffaloinc.org/deer-management"},
+                  {"type": "organic", "rank_group": 10, "rank_absolute": 14, "page": 2, "domain": "www.nps.gov", "title": "White-Tailed Deer Management - Antietam ...", "url": "https://www.nps.gov/anti/learn/management/deer-management.htm"},
+                  {"type": "organic", "rank_group": 11, "rank_absolute": 15, "page": 2, "domain": "www.managewhitetails.com", "title": "Mid-Atlantic Whitetail Solutions, LLC", "url": "https://www.managewhitetails.com/"},
+                  {"type": "organic", "rank_group": 12, "rank_absolute": 16, "page": 2, "domain": "www.boone-crockett.org", "title": "Managing Whitetail Deer in the 21st Century", "url": "https://www.boone-crockett.org/managing-whitetail-deer-21st-century-can-we-adapt-challenge"},
+                  {"type": "organic", "rank_group": 13, "rank_absolute": 17, "page": 2, "domain": "www.buckmanager.com", "title": "Buck Manager: Deer Management - This is Where You Start!", "url": "https://www.buckmanager.com/"},
+                  {"type": "organic", "rank_group": 14, "rank_absolute": 18, "page": 2, "domain": "extension.okstate.edu", "title": "White-tailed Deer Harvest Management for Hunters and ...", "url": "https://extension.okstate.edu/fact-sheets/white-tailed-deer-harvest-management-for-hunters-and-managers"},
+                  {"type": "organic", "rank_group": 15, "rank_absolute": 19, "page": 2, "domain": "deerassociation.com", "title": "National Deer Association: Homepage", "url": "https://deerassociation.com/"},
+                  {"type": "organic", "rank_group": 16, "rank_absolute": 20, "page": 2, "domain": "wdfw.wa.gov", "title": "White-tailed deer management plan", "url": "https://wdfw.wa.gov/hunting/management/plans/white-tail"},
+                  {"type": "organic", "rank_group": 17, "rank_absolute": 21, "page": 2, "domain": "www.canr.msu.edu", "title": "Managing the land you hunt - White-Tailed Deer Management", "url": "https://www.canr.msu.edu/news/the-importance-of-harvesting-does"},
+                  {"type": "organic", "rank_group": 18, "rank_absolute": 22, "page": 2, "domain": "www.youtube.com", "title": "Whitetail Deer Management", "url": "https://www.youtube.com/playlist?list=PL2lr3flFzizcMuoK4F0L_UuzUu3SCMy1x"},
+                  {"type": "related_searches", "rank_group": 2, "rank_absolute": 23, "page": 2, "items": ["Whitetail deer management map","Whitetail deer management near me","Whitetail deer management regulations","Whitetail deer herd management COTW","Whitetail deer management texas","NYSDEC deer Management Plan","Texas deer types","White-tailed deer"]}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

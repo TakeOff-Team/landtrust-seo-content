@@ -1,0 +1,201 @@
+{
+  "id": "W20b",
+  "topic": "How to Set Rules, Pricing, and Guest Expectations on Your Land",
+  "primary_keyword": "hunting lease pricing",
+  "slug": "hunting_lease_rules_pricing",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "hunting lease pricing",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": null,
+            "monthly_searches": null,
+            "note": "No search volume data returned for exact phrase 'hunting lease pricing'. Related keyword 'hunting lease cost' has 70 monthly searches. The broader topic has strong SERP presence."
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result_count": 10,
+        "result": [
+          {"keyword": "hunting lease pricing", "search_volume": null, "competition": null, "cpc": null},
+          {"keyword": "hunting lease cost", "search_volume": 70, "competition": 0.04, "cpc": 0.7},
+          {"keyword": "hunting lease cost per acre", "search_volume": 50, "competition": 0.01, "cpc": null},
+          {"keyword": "average cost of hunting lease", "search_volume": 10, "competition": 0, "cpc": null},
+          {"keyword": "average cost per acre to lease hunting land", "search_volume": 10, "competition": 0, "cpc": null},
+          {"keyword": "average cost to lease hunting land", "search_volume": 10, "competition": null, "cpc": null},
+          {"keyword": "average hunting lease cost", "search_volume": 10, "competition": null, "cpc": null},
+          {"keyword": "cost to lease hunting land", "search_volume": 10, "competition": 0.04, "cpc": null},
+          {"keyword": "deer lease cost", "search_volume": 10, "competition": 0, "cpc": null},
+          {"keyword": "hunting lease per acre", "search_volume": 10, "competition": 0.05, "cpc": null}
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "hunting lease pricing",
+            "se_results_count": 32100000,
+            "pages_count": 2,
+            "items_count": 24,
+            "item_types": ["ai_overview", "organic", "people_also_ask", "discussions_and_forums", "perspectives", "related_searches"],
+            "items": [
+              {"type": "ai_overview", "rank_group": 1, "asynchronous_ai_overview": true},
+              {"type": "organic", "rank_group": 1, "domain": "www.basecampleasing.com", "title": "Our Newest Hunting Properties Available for Lease", "url": "https://www.basecampleasing.com/land/hunting-land-for-lease.htm"},
+              {"type": "organic", "rank_group": 2, "domain": "huntinglocator.com", "title": "Lease Value Calculator - HuntingLocator.com", "url": "https://huntinglocator.com/lease-value-calculator"},
+              {"type": "organic", "rank_group": 3, "domain": "deerpros.com", "title": "Hunting Lease Price Guide", "url": "https://deerpros.com/hunting-lease/hunting-lease-price-guide/"},
+              {"type": "people_also_ask", "rank_group": 1, "questions": [
+                "How much can I charge for a hunting lease?",
+                "How profitable are hunting leases?",
+                "Why are hunting leases so expensive?",
+                "What is the 7 day rule for deer?"
+              ], "answers": [
+                {"question": "How much can I charge for a hunting lease?", "source": "landtrust.com", "description": "Seasonal leases typically range from $10-$50 per acre, depending on region and property quality."},
+                {"question": "How profitable are hunting leases?", "source": "modernfarmer.com", "description": "Farmers, ranchers and other landowners can make an average of $4,000 a season, just for allowing hunters access to their land. Some can even double their money with compartmentalized leases."}
+              ]},
+              {"type": "organic", "rank_group": 4, "domain": "www.leasehunter.com", "title": "LeaseHunter Home | LeaseHunter", "url": "https://www.leasehunter.com/"},
+              {"type": "organic", "rank_group": 5, "domain": "www.reddit.com", "title": "Rates for hunting leases : r/Hunting", "url": "https://www.reddit.com/r/Hunting/comments/1rdqzon/rates_for_hunting_leases/", "description": "Here in Texas rates will vary between $10 and $40 per acre"},
+              {"type": "organic", "rank_group": 6, "domain": "cap.unl.edu", "title": "Hunting Lease Comparisons for Wild Game Across Nebraska 2025", "description": "Most leases earn under $2,500 per year; only 1% exceed $10,000"},
+              {"type": "discussions_and_forums", "rank_group": 1, "items": [
+                {"title": "How much to charge for hunting ground lease?", "source": "Reddit", "posts_count": 20},
+                {"title": "What is a fair average price per acre for a hunting lease in Missouri?", "source": "Facebook"},
+                {"title": "Missouri Hunting Lease Prices and Experiences", "source": "Facebook"}
+              ]},
+              {"type": "organic", "rank_group": 7, "domain": "www.huntingleasenetwork.com", "title": "Hunting Lease Network: Hunting Leases"},
+              {"type": "organic", "rank_group": 8, "domain": "www.onxmaps.com", "title": "How Do Hunting Leases Work?", "url": "https://www.onxmaps.com/hunt/blog/how-do-hunting-leases-work", "description": "Hunters can expect to pay between $20-$50 per acre for a hunting lease in the Northeast to $10 per acre in the South, and $35 in the Midwest"},
+              {"type": "perspectives", "rank_group": 1, "items": [
+                {"title": "Rates for hunting leases", "source": "r/Hunting", "date": "Feb 24, 2026"},
+                {"title": "Why Hunting Lease Prices Keep Going Up", "source": "YouTube - Edward Rogers", "date": "Feb 13, 2026"}
+              ]},
+              {"type": "related_searches", "items": ["Hunting lease pricing calculator", "Hunting lease pricing 2022", "Deer hunting lease pricing 2022", "Are hunting leases paid monthly", "Best hunting lease website", "Hunting land for lease by Owner", "Hunting lease Network", "Timber company hunting leases"]},
+              {"type": "organic", "rank_group": 9, "page": 2, "domain": "www.hlrbo.com", "title": "HLRBO - The premier online hunting lease platform"},
+              {"type": "organic", "rank_group": 10, "page": 2, "domain": "tpwd.texas.gov"},
+              {"type": "organic", "rank_group": 11, "page": 2, "domain": "www.facebook.com"},
+              {"type": "organic", "rank_group": 12, "page": 2, "domain": "www.hunter-ed.com", "title": "Exploring the Different Types of Hunting Leases", "description": "Prices for a daily hunting lease can range from $40 to $4,500 per hunter"},
+              {"type": "organic", "rank_group": 13, "page": 2, "domain": "frc.us.com", "title": "Hunting Lease Basics for Landowners", "description": "The average Georgia hunting lease rate is around $15 per acre"},
+              {"type": "organic", "rank_group": 14, "page": 2, "domain": "www.huntingleaseapp.com", "title": "2024 Hunting Lease Market Report", "description": "The average lease price is approximately $7,217.15 per hunter"},
+              {"type": "organic", "rank_group": 15, "page": 2, "domain": "extension.missouri.edu"}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "hunting lease agreement",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "tasks": [
+          {
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "hunting lease agreement",
+                "se_results_count": 6740000,
+                "pages_count": 2,
+                "items_count": 22,
+                "item_types": ["organic", "images", "related_searches"],
+                "items": [
+                  {"type": "organic", "rank_group": 1, "domain": "warrenswcd.org", "title": "Sample Hunting Lease Agreement", "url": "https://warrenswcd.org/wp-content/uploads/2022/06/Sample-Hunting-Lease-Agreement.pdf"},
+                  {"type": "organic", "rank_group": 2, "domain": "eforms.com", "title": "Free Hunting Lease Agreement - PDF | Word - eForms", "url": "https://eforms.com/rental/hunting-lease-agreement/", "rating": {"value": 4.7, "votes_count": 735}},
+                  {"type": "organic", "rank_group": 3, "domain": "www.michfb.com", "title": "Hunting Lease Agreement | Michigan Farm Bureau"},
+                  {"type": "organic", "rank_group": 4, "domain": "reynwoodforest.com", "title": "SAMPLE ANNUAL HUNTING LEASE"},
+                  {"type": "organic", "rank_group": 5, "domain": "esign.com", "title": "Free Hunting Lease Agreement | PDF | Word"},
+                  {"type": "organic", "rank_group": 6, "domain": "trerc.tamu.edu", "title": "The Texas Deer Lease"},
+                  {"type": "organic", "rank_group": 7, "domain": "fieldreport.caes.uga.edu", "title": "Tips for Creating a Hunting Lease Agreement"},
+                  {"type": "organic", "rank_group": 8, "domain": "ahuntinglease.org", "title": "What is a Hunting Lease?", "description": "A hunting lease is simply an agreement under which a hunter pays a landowner for the right to hunt on his or her land"},
+                  {"type": "organic", "rank_group": 9, "domain": "nationalaglawcenter.org", "title": "Sample General Hunting Lease Compilation"},
+                  {"type": "related_searches", "items": ["Hunting lease agreement template", "Hunting lease agreement pdf", "Free printable hunting lease agreement", "Simple hunting lease agreement Template", "Ohio hunting Lease agreement", "Hunting lease agreement Texas", "Hunting lease agreement georgia"]},
+                  {"type": "organic", "rank_group": 10, "page": 2, "domain": "www.onxmaps.com"},
+                  {"type": "organic", "rank_group": 11, "page": 2, "domain": "extension.missouri.edu"},
+                  {"type": "organic", "rank_group": 12, "page": 2, "domain": "dc.statelibrary.sc.gov"},
+                  {"type": "organic", "rank_group": 13, "page": 2, "domain": "www.youtube.com", "title": "How to Write a Hunting Lease Agreement"},
+                  {"type": "organic", "rank_group": 14, "page": 2, "domain": "www.michfb.com"},
+                  {"type": "organic", "rank_group": 15, "page": 2, "domain": "www.forestry.alabama.gov"},
+                  {"type": "organic", "rank_group": 16, "page": 2, "domain": "www.hlrbo.com"},
+                  {"type": "organic", "rank_group": 17, "page": 2, "domain": "www.whitetailproperties.com", "title": "How Hunting Land Leases Work"},
+                  {"type": "organic", "rank_group": 18, "page": 2, "domain": "www.findfarmcredit.com", "title": "How to Structure a Hunting Lease Agreement"},
+                  {"type": "organic", "rank_group": 19, "page": 2, "domain": "www.afoa.org"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "hunting lease cost",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "tasks": [
+          {
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "hunting lease cost",
+                "se_results_count": 19300000,
+                "pages_count": 2,
+                "items_count": 24,
+                "item_types": ["ai_overview", "organic", "people_also_ask", "video", "related_searches"],
+                "items": [
+                  {"type": "ai_overview", "rank_group": 1, "asynchronous_ai_overview": true},
+                  {"type": "organic", "rank_group": 1, "domain": "huntinglocator.com", "title": "Lease Value Calculator - HuntingLocator.com"},
+                  {"type": "people_also_ask", "rank_group": 1, "questions": ["How much to lease 20 acres for hunting?", "Are hunting leases expensive?", "What is the 7 day rule for deer?", "How much does hunting lease insurance cost?"]},
+                  {"type": "organic", "rank_group": 2, "domain": "www.reddit.com", "description": "Here in Illinois, the 450 acres next to our farm leases for $28/acre"},
+                  {"type": "organic", "rank_group": 3, "domain": "deerpros.com", "title": "Hunting Lease Price Guide"},
+                  {"type": "organic", "rank_group": 4, "domain": "www.facebook.com", "description": "$600 for 400 acres with year round access"},
+                  {"type": "organic", "rank_group": 5, "domain": "www.onxmaps.com", "description": "Hunters can expect to pay between $20-$50 per acre in the Northeast to $10 per acre in the South"},
+                  {"type": "organic", "rank_group": 6, "domain": "cap.unl.edu"},
+                  {"type": "organic", "rank_group": 7, "domain": "www.hunter-ed.com"},
+                  {"type": "organic", "rank_group": 8, "domain": "www.basecampleasing.com"},
+                  {"type": "organic", "rank_group": 9, "domain": "www.leasehunter.com"},
+                  {"type": "video", "rank_group": 1, "items": [
+                    {"source": "YouTube · The Southern Outdoorsmen", "title": "Hunting Lease Prices Could Rise...Here Is Why"},
+                    {"source": "YouTube · The American Hunting Lease Association", "title": "How much per acre does a hunting lease cost?"},
+                    {"source": "YouTube · Whitetail Habitat Solutions", "title": "The Strategy For Leasing Deer Hunting Land"}
+                  ]},
+                  {"type": "related_searches", "items": ["How much is a hunting lease per acre", "Deer hunting lease cost calculator", "Hunting lease cost calculator", "Hunting land for lease by Owner", "Hunting lease Locator", "Best hunting lease website", "Timber company hunting leases"]},
+                  {"type": "organic", "rank_group": 10, "page": 2, "domain": "www.michigan-sportsman.com"},
+                  {"type": "organic", "rank_group": 11, "page": 2, "domain": "huntinglocator.com", "description": "Smaller tracts 50 to 500-acre parcels have leases costing between $500 to $3,000 annually per hunter"},
+                  {"type": "organic", "rank_group": 12, "page": 2, "domain": "www.basecampleasing.com"},
+                  {"type": "organic", "rank_group": 13, "page": 2, "domain": "deerpros.com"},
+                  {"type": "organic", "rank_group": 14, "page": 2, "domain": "hunt-indiana.com", "description": "around $25 per acre"},
+                  {"type": "organic", "rank_group": 15, "page": 2, "domain": "www.hlrbo.com"},
+                  {"type": "organic", "rank_group": 16, "page": 2, "domain": "www.huntingpa.com", "description": "$20 per ac is about the going rate"},
+                  {"type": "organic", "rank_group": 17, "page": 2, "domain": "huntlease.co", "description": "Pennsylvania hunting leases average $10-30 per acre annually, with premium properties commanding $30-50+ per acre"},
+                  {"type": "organic", "rank_group": 18, "page": 2, "domain": "ushunts.com"},
+                  {"type": "organic", "rank_group": 19, "page": 2, "domain": "www.in-depthoutdoors.com"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

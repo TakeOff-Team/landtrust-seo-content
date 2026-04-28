@@ -1,0 +1,404 @@
+{
+  "id": "W29a",
+  "topic": "Georgia Dove Hunting Season: Dates, Limits, and Where to Go",
+  "primary_keyword": "georgia dove hunting season",
+  "slug": "georgia_dove_hunting_season",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282013-1118-0093-0000-9845228d4fd5",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "georgia dove hunting season",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": 1.94,
+            "search_volume": 1900,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 320
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 590
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 2900
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 2400
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 1900
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 5400
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 4400
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 1000
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 320
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282013-1118-0090-0000-273f6c6e44db",
+        "status_code": 20000,
+        "result_count": 13,
+        "result": [
+          {
+            "keyword": "georgia dove hunting season",
+            "search_volume": 1900,
+            "competition": 0,
+            "cpc": 1.94
+          },
+          {
+            "keyword": "dove season georgia",
+            "search_volume": 1900,
+            "competition": 0,
+            "cpc": 1.94
+          },
+          {
+            "keyword": "dove hunts in georgia",
+            "search_volume": 390,
+            "competition": 0.11,
+            "cpc": 1.17
+          },
+          {
+            "keyword": "dove hunting regulations georgia",
+            "search_volume": 30
+          },
+          {
+            "keyword": "dove hunting north georgia",
+            "search_volume": 10,
+            "competition": 0.5,
+            "cpc": 0.41
+          },
+          {
+            "keyword": "late season dove hunting georgia",
+            "search_volume": 10
+          },
+          {
+            "keyword": "dove shoot in georgia",
+            "search_volume": 10
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282013-1118-0139-0000-b24dcaeffce6",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "georgia dove hunting season",
+            "se_results_count": 3200000,
+            "item_types": [
+              "featured_snippet",
+              "organic",
+              "people_also_ask",
+              "related_searches"
+            ],
+            "items": [
+              {
+                "type": "featured_snippet",
+                "domain": "www.eregulations.com",
+                "title": "Migratory Birds Seasons - Georgia Hunting - eRegulations",
+                "url": "https://www.eregulations.com/georgia/hunting/migratory-birds-seasons"
+              },
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "georgiawildlife.com",
+                "title": "2025-26 Georgia Dove Hunting Season Opens Sat. Sept. 6",
+                "url": "https://georgiawildlife.com/2025-26-georgia-dove-hunting-season-opens-sat-sept-6"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "www.facebook.com",
+                "title": "Dove Season is underway! The official 2025-2026...",
+                "url": "https://www.facebook.com/gadnrle/posts/dove-season-is-underway-the-official-2025-2026-dove-season-hunting-dates-are-sep/1098376205813739/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "gon.com",
+                "title": "Dove Hunting",
+                "url": "https://gon.com/hunting/georgia-dove-hunting"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "georgiawildlife.com",
+                "title": "Dove Field Forecast & Hunting Locations",
+                "url": "https://georgiawildlife.com/hunting/dove"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "huntwise.com",
+                "title": "Your Guide to the 2025 Dove Season Georgia",
+                "url": "https://huntwise.com/field-guide/small-game/your-guide-to-the-2024-dove-season-georgia"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "gwf.org",
+                "title": "Dove Hunt",
+                "url": "https://gwf.org/dovehunt/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "www.battlbox.com",
+                "title": "Where to Dove Hunt in Georgia: A Comprehensive Guide",
+                "url": "https://www.battlbox.com/blogs/hunting/where-to-dove-hunt-in-georgia-a-comprehensive-guide-for-enthusiasts"
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "domain": "gadnrle.org",
+                "title": "Dove Hunting Season: Hunters Ready for Saturday, Sept. 4",
+                "url": "https://gadnrle.org/dove-hunting-season-hunters-ready-saturday-sept-4"
+              },
+              {
+                "type": "related_searches",
+                "items": [
+                  "Dove season ga 2026",
+                  "Dove season 2026 2027 ga",
+                  "When does dove season end in Georgia",
+                  "Pay dove shoots in Georgia",
+                  "Dove season Georgia 2025",
+                  "GA hunting season",
+                  "Ga dove season 26 27",
+                  "Perry Dove Field"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "dove hunts in georgia",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "tasks": [
+          {
+            "id": "04282021-1118-0139-0000-726192dae4fe",
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "dove hunts in georgia",
+                "se_results_count": 409000,
+                "item_types": [
+                  "local_pack",
+                  "organic",
+                  "people_also_ask",
+                  "discussions_and_forums",
+                  "related_searches"
+                ],
+                "items": [
+                  {
+                    "type": "local_pack",
+                    "rank_group": 1,
+                    "title": "South Fork Hunting Preserve, LLC",
+                    "description": "Royston, GA"
+                  },
+                  {
+                    "type": "local_pack",
+                    "rank_group": 2,
+                    "title": "DNR Dove Field",
+                    "description": "Dawsonville, GA"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "georgiawildlife.com",
+                    "title": "Dove Field Forecast & Hunting Locations",
+                    "url": "https://georgiawildlife.com/hunting/dove"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "huntsouthwind.com",
+                    "title": "Dove Hunting",
+                    "url": "https://huntsouthwind.com/dove-hunting/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "gon.com",
+                    "title": "Dove Hunting",
+                    "url": "https://gon.com/hunting/georgia-dove-hunting"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "hollywoodfarmsga.com",
+                    "title": "Dove Hunts at Hollywood Farms",
+                    "url": "https://hollywoodfarmsga.com/dove-hunts-hollywood-farms/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "hogfatheroutdoors.com",
+                    "title": "South Georgia Dove Hunts",
+                    "url": "https://hogfatheroutdoors.com/south-georgia-dove-hunts/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "domain": "www.eregulations.com",
+                    "title": "Dove & Specialty Hunts - Georgia",
+                    "url": "https://www.eregulations.com/georgia/hunting/dove-specialty-hunts"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "Dove hunts in georgia under $1000",
+                      "Free dove hunts in georgia",
+                      "Cheap dove hunts in georgia",
+                      "Guided dove hunts in georgia",
+                      "Best dove hunts in georgia",
+                      "Paid dove hunts near me",
+                      "Public dove fields in Georgia",
+                      "Dove season Georgia"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "dove hunting season dates by state",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "tasks": [
+          {
+            "id": "04282013-1118-0139-0000-994100a50609",
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "dove hunting season dates by state",
+                "se_results_count": 146000000,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "huntwise.com",
+                    "title": "When Does Dove Hunting Season Start?",
+                    "url": "https://huntwise.com/field-guide/small-game/when-does-dove-hunting-season-start"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "georgiawildlife.com",
+                    "title": "2025-26 Georgia Dove Hunting Season Opens Sat. Sept. 6",
+                    "url": "https://georgiawildlife.com/2025-26-georgia-dove-hunting-season-opens-sat-sept-6"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "tpwd.texas.gov",
+                    "title": "Dove - Texas Parks & Wildlife Department",
+                    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/regs/animals/dove"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "www.battlbox.com",
+                    "title": "When is Dove Hunting: A Comprehensive Guide to Dates",
+                    "url": "https://www.battlbox.com/blogs/hunting/when-is-dove-hunting-a-comprehensive-guide-to-dates-regulations-and-tips"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "www.outdooralabama.com",
+                    "title": "Mourning and White-Winged Dove Season",
+                    "url": "https://www.outdooralabama.com/seasons-and-bag-limits/mourning-and-white-winged-dove-season"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "Dove hunting season dates by state california",
+                      "Dove hunting license",
+                      "When is dove season in Texas",
+                      "When does dove season end",
+                      "Dove hunting Texas",
+                      "Dove season ga 2026",
+                      "When is dove hunting season in Arizona",
+                      "Dove season 2026 2027 ga"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

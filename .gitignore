@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Local Claude config (may contain MCP credentials, paths, machine-local state)
+.claude/settings.local.json
+.claude/plans/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS / temp
+Thumbs.db
+*~
+*.tmp
+*.bak
+
+# Logs / cache
+*.log
+.cache/
+node_modules/
+
+# Sensitive — uncomment specific files if any contain PII or credentials
+# Sample brief uploads, raw PDFs etc are fine to commit since they're public report PDFs

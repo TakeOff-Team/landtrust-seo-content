@@ -1,0 +1,1774 @@
+{
+  "id": "W33a",
+  "topic": "South Carolina Waterfowl Hunting Clubs and Where to Find Access",
+  "primary_keyword": "south carolina waterfowl hunting",
+  "slug": "south_carolina_waterfowl_hunting",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "south carolina waterfowl hunting",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.04,
+            "cpc": 2.05,
+            "search_volume": 590,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 210
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 320
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 880
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 1300
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 1300
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 720
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 480
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 210
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result_count": 10,
+        "result": [
+          {
+            "keyword": "south carolina waterfowl hunting",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.04,
+            "cpc": 2.05,
+            "search_volume": 590
+          },
+          {
+            "keyword": "duck hunting sc",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.04,
+            "cpc": 2.05,
+            "search_volume": 590
+          },
+          {
+            "keyword": "waterfowl hunting in south carolina",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.04,
+            "cpc": 2.05,
+            "search_volume": 590
+          },
+          {
+            "keyword": "south carolina waterfowl",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 480
+          },
+          {
+            "keyword": "guided duck hunts in south carolina",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.06,
+            "cpc": 1.36,
+            "search_volume": 210
+          },
+          {
+            "keyword": "sc duck stamp",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.26,
+            "cpc": 0.38,
+            "search_volume": 90
+          },
+          {
+            "keyword": "public duck hunting in south carolina",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 30
+          },
+          {
+            "keyword": "ace basin sc duck hunting",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": 10
+          },
+          {
+            "keyword": "duck hunting lake hartwell",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.09,
+            "cpc": null,
+            "search_volume": 40
+          },
+          {
+            "keyword": "wma duck hunting south carolina",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0,
+            "cpc": null,
+            "search_volume": 10
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "south carolina waterfowl hunting",
+            "type": "organic",
+            "se_domain": "google.com",
+            "location_code": 2840,
+            "language_code": "en",
+            "datetime": "2026-04-28 17:04:33 +00:00",
+            "item_types": [
+              "organic",
+              "people_also_ask",
+              "video",
+              "discussions_and_forums",
+              "local_pack",
+              "related_searches"
+            ],
+            "se_results_count": 1940000,
+            "pages_count": 2,
+            "items_count": 26,
+            "top_results": [
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "www.dnr.sc.gov",
+                "title": "SCDNR - Hunting - Waterfowl",
+                "url": "https://www.dnr.sc.gov/hunting/waterfowl.html"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "www.dnr.sc.gov",
+                "title": "Wildlife - Waterfowl Hunting and Baiting",
+                "url": "https://www.dnr.sc.gov/wildlife/waterfowl/baiting/overview.html"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "scwa.org",
+                "title": "South Carolina Waterfowl Association: scwa.org",
+                "url": "https://scwa.org/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "www.ducks.org",
+                "title": "Public Hunting on DU Projects in South Carolina",
+                "url": "https://www.ducks.org/hunting/waterfowl-hunting-destinations/public-hunting-on-du-projects-in-south-carolina"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "www.eregulations.com",
+                "title": "General Migratory Bird Seasons, Shooting Hours, & Bag...",
+                "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "realtree.com",
+                "title": "Duck Hunting in South Carolina",
+                "url": "https://realtree.com/waterfowl-hunting/duck-hunting-nation/2018/south-carolina-duck-hunting"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "bellsmarina.com",
+                "title": "South Carolina Duck Hunting",
+                "url": "https://bellsmarina.com/hunting-in-bells-marina/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "domain": "www.divebombindustries.com",
+                "title": "Palmetto State Ducks Hunting Opportunities in South...",
+                "url": "https://www.divebombindustries.com/blogs/news/palmetto-state-ducks-hunting-opportunities-in-south-carolina"
+              },
+              {
+                "type": "organic",
+                "rank_group": 9,
+                "domain": "www.eregulations.com",
+                "title": "Waterfowl Hunting & Baiting - South Carolina",
+                "url": "https://www.eregulations.com/southcarolina/hunting/waterfowl-hunting-baiting"
+              },
+              {
+                "type": "organic",
+                "rank_group": 10,
+                "domain": "www.toneycreekplantation.com",
+                "title": "Toney Creek Hunting Plantation Belton, SC 29627",
+                "url": "https://www.toneycreekplantation.com/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 11,
+                "domain": "www.carolinasportsman.com",
+                "title": "South Carolina duck particulars",
+                "url": "https://www.carolinasportsman.com/hunting/waterfowl-duck-hunting/ducks/south-carolina-duck-particulars/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 12,
+                "domain": "www.easterntailzoutfitters.com",
+                "title": "South Carolina Duck Hunting Guides",
+                "url": "https://www.easterntailzoutfitters.com/hunting/guided-duck-hunts/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 13,
+                "domain": "www.ultimatewaterfowlhunting.com",
+                "title": "Directory of South Carolina Waterfowl Hunting Lodges...",
+                "url": "https://www.ultimatewaterfowlhunting.com/usa/south-carolina/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 14,
+                "domain": "almostheavenplantation.com",
+                "title": "Duck Hunting",
+                "url": "https://almostheavenplantation.com/duck-hunting/"
+              }
+            ],
+            "local_pack": [
+              {
+                "title": "South Carolina Waterfowl Association",
+                "description": "Pinewood, SC",
+                "phone": "(803) 452-6001",
+                "rating": {
+                  "value": 5,
+                  "votes_count": 4
+                }
+              },
+              {
+                "title": "Toney Creek Plantation",
+                "description": "Belton, SC",
+                "phone": "(864) 304-7400",
+                "rating": {
+                  "value": 4.7,
+                  "votes_count": 50
+                }
+              },
+              {
+                "title": "Duck Bottom Plantation",
+                "description": "Horatio, SC",
+                "phone": "(803) 499-2332",
+                "rating": {
+                  "value": 4.9,
+                  "votes_count": 9
+                }
+              }
+            ],
+            "related_searches": [
+              "South carolina waterfowl hunting regulations",
+              "South carolina waterfowl hunting public land",
+              "SC Duck hunting season",
+              "SC duck season 25 26",
+              "Best places to duck hunt in South Carolina",
+              "Scdnr duck hunting",
+              "SC WMA duck hunting",
+              "SC WMA Waterfowl Harvest Report"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "duck hunting sc",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "2.8789 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282006-1118-0139-0000-7f9befe1cf74",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "2.8070 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": [
+              "v3",
+              "serp",
+              "google",
+              "organic",
+              "live",
+              "advanced"
+            ],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "duck hunting sc",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20,
+              "calculate_rectangles": true,
+              "os": "windows"
+            },
+            "result": [
+              {
+                "keyword": "duck hunting sc",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=duck%20hunting%20sc&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "datetime": "2026-04-28 17:06:15 +00:00",
+                "spell": null,
+                "refinement_chips": {
+                  "type": "refinement_chips",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "refinement_chips_element",
+                      "title": "Open now",
+                      "url": "https://www.google.com/search?sca_esv=b5576d60e09f6916&hl=en&gl=US&q=duck+hunting+sc+open+now&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-0k61jZqridJJlmzRtCr-CP-0j2nxb-MdZp0N9GO60q64-PvhLTQPkwyzLkTiXVz01q6j5VKsF7deqsomWQjATq3p3vMXN3h9Xm4iirlaiqbDfA0K530CsXoIcEcavaGew3rmBxi1_zLAYlLEvQyLfqv8cdqavNk7Nr8RFrjLXluPD5j6&sa=X&ved=2ahUKEwjAtt78g5GUAxW9TaQEHa7jGhkQxKsJKAB6BAgVEAE&ictx=0",
+                      "domain": "www.google.com",
+                      "options": null
+                    },
+                    {
+                      "type": "refinement_chips_element",
+                      "title": "Top rated",
+                      "url": "https://www.google.com/search?sca_esv=b5576d60e09f6916&hl=en&gl=US&q=top+rated+duck+hunting+sc&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6FPN9BcYX2bVwW_AIEcPd0TYFYaZsKxo67-dnTg8Oe2WCxVWKSAMeoRPeSonLT4NjLPtGOiRKT1nIysQy97MkfqhFz8jq1oT2F3gBLSmbP-UlCruOgRDakmnbfQJUksMrTTVpcUbBiCoC9zO6kZM7sxgsB3FbkbhwgJt_rNU58Pkw6SU&sa=X&ved=2ahUKEwjAtt78g5GUAxW9TaQEHa7jGhkQxKsJKAF6BAgUEAE&ictx=0",
+                      "domain": "www.google.com",
+                      "options": null
+                    }
+                  ]
+                },
+                "item_types": [
+                  "local_pack",
+                  "organic",
+                  "people_also_ask",
+                  "related_searches"
+                ],
+                "se_results_count": 4290000,
+                "pages_count": 2,
+                "items_count": 25,
+                "items": [
+                  {
+                    "type": "local_pack",
+                    "rank_group": 1,
+                    "rank_absolute": 1,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "title": "Toney Creek Plantation",
+                    "description": "Belton, SC \u00b7 (864) 304-7400 \nOpen \u00b7 Closes 10\u202fPM \n\"I had my second hunt with Becca yesterday, she is an amazing guide.\" \n",
+                    "domain": "www.toneycreekplantation.com",
+                    "phone": "(864) 304-7400",
+                    "booking_url": null,
+                    "url": "http://www.toneycreekplantation.com/",
+                    "is_paid": false,
+                    "rating": {
+                      "rating_type": "Max5",
+                      "value": 4.7,
+                      "votes_count": 50,
+                      "rating_max": 5
+                    },
+                    "cid": "11052766070196066999",
+                    "rectangle": {
+                      "x": 229.78,
+                      "y": 327,
+                      "width": 550.22,
+                      "height": 149
+                    }
+                  },
+                  {
+                    "type": "local_pack",
+                    "rank_group": 2,
+                    "rank_absolute": 2,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                    "title": "Duck Bottom Plantation",
+                    "description": "Horatio, SC \u00b7 (803) 499-2332 \n",
+                    "domain": "duckbottomplantation.com",
+                    "phone": "(803) 499-2332",
+                    "booking_url": null,
+                    "url": "http://duckbottomplantation.com/",
+                    "is_paid": false,
+                    "rating": {
+                      "rating_type": "Max5",
+                      "value": 4.9,
+                      "votes_count": 9,
+                      "rating_max": 5
+                    },
+                    "cid": "7476614614319102583",
+                    "rectangle": {
+                      "x": 229.78,
+                      "y": 476,
+                      "width": 550.22,
+                      "height": 130
+                    }
+                  },
+                  {
+                    "type": "local_pack",
+                    "rank_group": 3,
+                    "rank_absolute": 3,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                    "title": "Lynches River Outfitters",
+                    "description": "Scranton, SC \u00b7 (843) 206-5171 \nOpen \u00b7 Closes 9:55\u202fPM \n\"Would HIGHLY recommend for anyone looking to hunt in South Carolina!\" \n",
+                    "domain": "www.lynchesriveroutfitters.com",
+                    "phone": "(843) 206-5171",
+                    "booking_url": null,
+                    "url": "http://www.lynchesriveroutfitters.com/",
+                    "is_paid": false,
+                    "rating": {
+                      "rating_type": "Max5",
+                      "value": 5,
+                      "votes_count": 12,
+                      "rating_max": 5
+                    },
+                    "cid": "6271761214166128510",
+                    "rectangle": {
+                      "x": 229.78,
+                      "y": 606,
+                      "width": 550.22,
+                      "height": 149
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "rank_absolute": 4,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "www.dnr.sc.gov",
+                    "title": "Wildlife - Waterfowl Hunting and Baiting",
+                    "url": "https://www.dnr.sc.gov/wildlife/waterfowl/baiting/overview.html",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.dnr.sc.gov \u203a waterfowl \u203a baiting \u203a overview",
+                    "website_name": "South Carolina Department of Natural Resources (.gov)",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "You can take only one daily bag limit in any one day. This limit determines the number of waterfowl you may legally have in your possession while in the field. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "You can take only one daily bag limit in any one day"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 865,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "rank_absolute": 5,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "moreespreserve.com",
+                    "title": "Moree's Sportsman's Preserve",
+                    "url": "https://moreespreserve.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://moreespreserve.com",
+                    "website_name": "moreespreserve.com",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Moree's Sportsman's Preserve is an upland game preserve and is the favorite of many who love quail hunting, duck hunting, pheasant hunting, Sporting Clays and\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Moree's Sportsman's Preserve"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1011.53,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "rank_absolute": 6,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "www.dnr.sc.gov",
+                    "title": "SCDNR - Hunting - Waterfowl",
+                    "url": "https://www.dnr.sc.gov/hunting/waterfowl.html",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.dnr.sc.gov \u203a hunting \u203a waterfowl",
+                    "website_name": "South Carolina Department of Natural Resources (.gov)",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Hunting Information. Waterfowl Hunting and Baiting Regulations \u00b7 Buy your license and appropriate stamps. Common Waterfowl Species in SC. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.dnr.sc.gov",
+                        "url": "https://www.dnr.sc.gov/hunting/waterfowl.html",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:0"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Waterfowl Hunting and Baiting Regulations"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1158.06,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "people_also_ask",
+                    "rank_group": 1,
+                    "rank_absolute": 7,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]",
+                    "items": [
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "When can you hunt ducks in SC?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": "General Migratory Bird Seasons, Shooting Hours, & Bag Limits",
+                            "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits",
+                            "domain": "www.eregulations.com",
+                            "title": "General Migratory Bird Seasons, Shooting Hours, & Bag Limits",
+                            "description": null,
+                            "images": null,
+                            "timestamp": null,
+                            "table": {
+                              "table_header": [
+                                "Species",
+                                "Dates"
+                              ],
+                              "table_content": [
+                                [
+                                  "Ducks (Including Sea Ducks), American Coots (There is no Open Season on Harlequin Ducks)",
+                                  "November 22, 2025 - November 29, 2025 December 12, 2025 - January 31, 2026"
+                                ]
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Is duck hunting any good in South Carolina?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.gameandfishmag.com/editorial/best-duck-hunting-south/540862",
+                            "domain": "www.gameandfishmag.com",
+                            "title": "Duck Hunting: Best Places to Duck Hunt in the South - Game & Fish",
+                            "description": "South Carolina isn't one of the best states for hunting\u2014anything. However, its duck hunting isn't terrible. Hunters can catch some of the action flowing down through the Atlantic Flyway. While not a top-tier state, it does have a few pockets of good action, though.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What kind of ducks can you hunt in SC?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.hunt41.com/southcarolina",
+                            "domain": "www.hunt41.com",
+                            "title": "South Carolina - Hunt 41",
+                            "description": "One unique thing about our state is the fact you can shoot a black duck and mallard in the flooded timber of the Pee Dee region and drive to the coast the next day and shoot a mottled duck. Hunters have opportunities at a wide range of species of puddle, diver and sea ducks.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What is the duck capital of South Carolina?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.landandplantations.com/listings/taw-caw-waterfowl",
+                            "domain": "www.landandplantations.com",
+                            "title": "Taw Caw Waterfowl - Brown Land + Plantation Advisors",
+                            "description": "Summerton is known as the Duck Capital of South Carolina, and this game-rich property boasts excellent potential for developing waterfowl impoundments.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1304.59,
+                      "width": 652,
+                      "height": 247
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "rank_absolute": 8,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "realtree.com",
+                    "title": "Duck Hunting in South Carolina",
+                    "url": "https://realtree.com/waterfowl-hunting/duck-hunting-nation/2018/south-carolina-duck-hunting?srsltid=AfmBOooXz-yTNPWHzKRNR2NGWGkaMw14DNcCoq64QzY6Yxy1SFHL9DvI",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://realtree.com \u203a waterfowl-hunting \u203a south-carolin...",
+                    "website_name": "Realtree",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "South Carolina puts up good waterfowl harvest numbers and offers some quality public gunning. As you might expect, wood ducks dominate the harvest. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from realtree.com",
+                        "url": "https://realtree.com/waterfowl-hunting/duck-hunting-nation/2018/south-carolina-duck-hunting?srsltid=AfmBOooXz-yTNPWHzKRNR2NGWGkaMw14DNcCoq64QzY6Yxy1SFHL9DvI",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:1"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "South Carolina puts up good waterfowl harvest numbers"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1595.59,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "rank_absolute": 9,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+                    "domain": "riversedgehuntclub.com",
+                    "title": "Rivers Edge Hunting | Lynchburg SC | Duck Turkey Deer ...",
+                    "url": "https://riversedgehuntclub.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://riversedgehuntclub.com",
+                    "website_name": "Rivers Edge Hunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Rivers Edge Hunting, located in Lynchburg, SC, is the premier location for hunters and wildlife aficionados. Come enjoy hunting, clay shooting, fishing and\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Rivers Edge Hunting, located in Lynchburg, SC"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Hunt",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/hunt-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Activities",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/activities-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Lodging",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/lodging-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Wildlife",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/wildlife-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1742.13,
+                      "width": 652,
+                      "height": 152.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "rank_absolute": 10,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+                    "domain": "www.ducks.org",
+                    "title": "Public Hunting on DU Projects in South Carolina",
+                    "url": "https://www.ducks.org/hunting/waterfowl-hunting-destinations/public-hunting-on-du-projects-in-south-carolina",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.ducks.org \u203a waterfowl-hunting-destinations",
+                    "website_name": "Ducks Unlimited",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Looking for public hunting opportunities in South Carolina? Check out Ducks Unlimited, which offers access to prime hunting land throughout the state.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.ducks.org",
+                        "url": "https://www.ducks.org/hunting/waterfowl-hunting-destinations/public-hunting-on-du-projects-in-south-carolina",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgHqCayEQccy1Q22h2kpz2RL9CvgpY4D_AvaQWOx_QWjb4sMDgT3y&usqp=CAE&s"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Ducks Unlimited"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1924.66,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "rank_absolute": 11,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+                    "domain": "www.divebombindustries.com",
+                    "title": "Palmetto State Ducks Hunting Opportunities in South ...",
+                    "url": "https://www.divebombindustries.com/blogs/news/palmetto-state-ducks-hunting-opportunities-in-south-carolina?srsltid=AfmBOophkGdgWnMjGOr-MuAGCsVK4O37HoS601YXdixmZeOU6vaK-kEy",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.divebombindustries.com \u203a blogs \u203a news \u203a p...",
+                    "website_name": "Dive Bomb Industries",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Apr 30, 2025 \u2014 This guide explores South Carolina's prime hunting locations, common waterfowl species, and essential tips to ensure a successful duck hunting experience in\u00a0... Read more",
+                    "pre_snippet": "04/30/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.divebombindustries.com",
+                        "url": "https://www.divebombindustries.com/blogs/news/palmetto-state-ducks-hunting-opportunities-in-south-carolina?srsltid=AfmBOophkGdgWnMjGOr-MuAGCsVK4O37HoS601YXdixmZeOU6vaK-kEy",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfO9H7LYIQ9q85PzVjTSc3gJJDxxoOZCBZpIqtB_yFidfiT_IXvVOR&usqp=CAE&s"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "South Carolina's prime hunting locations"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-04-30 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2071.19,
+                      "width": 652,
+                      "height": 138.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "rank_absolute": 12,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+                    "domain": "www.reddit.com",
+                    "title": "SC duck hunting rant. Sorry. : r/Duckhunting",
+                    "url": "https://www.reddit.com/r/Duckhunting/comments/1hu62cp/sc_duck_hunting_rant_sorry/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "20+ comments  \u00b7  1 year ago",
+                    "website_name": "Reddit\u00a0\u00b7\u00a0r/Duckhunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "All these birds constantly sit on private impoundments or private game lands you can't hunt. 90% of the coast it's now allowed to be hunted by\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "hunt"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Advice for hunting coastal South Carolina : r/Duckhunting",
+                        "description": null,
+                        "url": "https://www.reddit.com/r/Duckhunting/comments/1i0novz/advice_for_hunting_coastal_south_carolina/",
+                        "domain": "www.reddit.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "New to duck hunting. : r/Duckhunting - Reddit",
+                        "description": null,
+                        "url": "https://www.reddit.com/r/Duckhunting/comments/15vty8z/new_to_duck_hunting/",
+                        "domain": "www.reddit.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "More results from www.reddit.com",
+                        "description": null,
+                        "url": "https://www.google.com/search?q=duck+hunting+sc+site:www.reddit.com&sca_esv=b5576d60e09f6916&hl=en&gl=US&sa=X&ved=2ahUKEwjAtt78g5GUAxW9TaQEHa7jGhkQrQIoAnoECDoQAw",
+                        "domain": "www.google.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2239.72,
+                      "width": 652,
+                      "height": 187.86
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 9,
+                    "rank_absolute": 13,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+                    "domain": "www.eregulations.com",
+                    "title": "Waterfowl Hunting & Baiting - South Carolina",
+                    "url": "https://www.eregulations.com/southcarolina/hunting/waterfowl-hunting-baiting",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.eregulations.com \u203a South Carolina",
+                    "website_name": "eRegulations",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Shooting hours for waterfowl are 1/2 hour before sunrise until sunset except where noted during early seasons. Shooting hours are uniform statewide. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.eregulations.com",
+                        "url": "https://www.eregulations.com/southcarolina/hunting/waterfowl-hunting-baiting",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YtxBh1QqWUuf-GThrrK88LKE9Cpv3BscQJVbzxXkzsdvVaAVcPyt&usqp=CAE&s"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "1/2 hour before sunrise until sunset"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2457.58,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 1,
+                    "rank_absolute": 14,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "SC Duck hunting season",
+                      "Duck hunting sc public land",
+                      "Duck hunting sc regulations",
+                      "Best duck hunting sc",
+                      "SC duck season 25 26",
+                      "Sc duck hunting Laws",
+                      "Scdnr duck hunting",
+                      "SC WMA duck hunting"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2632.11,
+                      "width": 652,
+                      "height": 240
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 10,
+                    "rank_absolute": 15,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "www.facebook.com",
+                    "title": "Guides for deer and wild duck hunting in SC?",
+                    "url": "https://www.facebook.com/groups/1461933637237182/posts/24353709787632909/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "20+ comments  \u00b7  7 months ago",
+                    "website_name": "Facebook\u00a0\u00b7\u00a0South Carolina WMA Hunters",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "ISO hunting guides for deer and duck/goose in SC, preferably the upstate. Thanks in advance! Preferably not farm raised ducks. Matt Phillips and\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.facebook.com",
+                        "url": "https://www.facebook.com/groups/1461933637237182/posts/24353709787632909/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:2"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "ISO hunting guides for deer and duck/goose in SC"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 182,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 11,
+                    "rank_absolute": 16,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "www.toneycreekplantation.com",
+                    "title": "Toney Creek Hunting Plantation Belton, SC 29627",
+                    "url": "https://www.toneycreekplantation.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.toneycreekplantation.com",
+                    "website_name": "Toney Creek Plantation",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "We offer exceptional waterfowl and upland hunting packages. Overnight accommodations are also available upon request. Come experience phenomenal wing shooting\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.toneycreekplantation.com",
+                        "url": "https://www.toneycreekplantation.com/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:3"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "We offer exceptional waterfowl and upland hunting packages"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 328,
+                      "width": 652,
+                      "height": 138
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 12,
+                    "rank_absolute": 17,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "South Carolina Public Land Duck Hunting / TWO MAN LIMIT ...",
+                    "url": "https://www.youtube.com/watch?v=S0tWYCJSQJA",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "4K+ views  \u00b7  4 months ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0SC Outdoor Hunting",
+                    "is_image": false,
+                    "is_video": true,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Welcome to the 2025 Duck season here in South Carolina ! Join along in this episode for some awesome hunts to start off the duck season.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "the 2025 Duck season here in South Carolina"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-12-04 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 496,
+                      "width": 652,
+                      "height": 163
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 13,
+                    "rank_absolute": 18,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "scwa.org",
+                    "title": "South Carolina Waterfowl Association: scwa.org",
+                    "url": "https://scwa.org/?srsltid=AfmBOorQPYqFPMO3bGvtIGOYoXKh7qdrnJkeVkTTMx8Zoc8jybVNEAeV",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://scwa.org",
+                    "website_name": "South Carolina Waterfowl Association",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The South Carolina Waterfowl Association exists to enhance and perpetuate our wildlife heritage through education and habitat conservation. Become a Member. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from scwa.org",
+                        "url": "https://scwa.org/?srsltid=AfmBOorQPYqFPMO3bGvtIGOYoXKh7qdrnJkeVkTTMx8Zoc8jybVNEAeV",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:4"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Waterfowl"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 689,
+                      "width": 652,
+                      "height": 138
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 14,
+                    "rank_absolute": 19,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                    "domain": "www.carolinasportsman.com",
+                    "title": "Wood ducks: waterfowl for the everyman",
+                    "url": "https://www.carolinasportsman.com/content/everymans-duck/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.carolinasportsman.com \u203a everymans-duck",
+                    "website_name": "Carolina Sportsman",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Hunters in North Carolina and South Carolina are allowed to take three wood ducks per day as part of their six-bird bag limit. Mathis and his partner, Mike\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.carolinasportsman.com",
+                        "url": "https://www.carolinasportsman.com/content/everymans-duck/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:5"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Hunters in North Carolina and South Carolina are allowed to take three wood ducks per day"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 857,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 15,
+                    "rank_absolute": 20,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "www.ultimatewaterfowlhunting.com",
+                    "title": "Directory of South Carolina Waterfowl Hunting Lodges, ...",
+                    "url": "https://www.ultimatewaterfowlhunting.com/usa/south-carolina/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.ultimatewaterfowlhunting.com \u203a usa \u203a south...",
+                    "website_name": "Ultimate Waterfowl Hunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Ultimate Waterfowl Hunting is the largest directory for South Carolina Waterfowl Hunting guides, outfitters, lodges and private land.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Ultimate Waterfowl Hunting"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1003,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 16,
+                    "rank_absolute": 21,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                    "domain": "almostheavenplantation.com",
+                    "title": "Duck Hunting",
+                    "url": "https://almostheavenplantation.com/duck-hunting/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://almostheavenplantation.com \u203a duck-hunting",
+                    "website_name": "Almost Heaven Plantation",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Experience South Carolina duck hunting at Almost Heaven Plantation with managed wetlands, expert guides, and memorable mornings in the Lowcountry.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from almostheavenplantation.com",
+                        "url": "https://almostheavenplantation.com/duck-hunting/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:6"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "duck hunting"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1149,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 17,
+                    "rank_absolute": 22,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+                    "domain": "recademics.com",
+                    "title": "What License Do You Need to Hunt Duck in South Carolina?",
+                    "url": "https://recademics.com/blog/hunting/south-carolina-duck-hunting-license",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://recademics.com \u203a Hunting",
+                    "website_name": "Recademics",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "To hunt waterfowl in South Carolina, you must have a valid hunting license plus a HIP permit and a South Carolina Migratory Waterfowl Permit, and you must also\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from recademics.com",
+                        "url": "https://recademics.com/blog/hunting/south-carolina-duck-hunting-license",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:7"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "hunt waterfowl in South Carolina",
+                      "hunting",
+                      "Waterfowl"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1295,
+                      "width": 652,
+                      "height": 138
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 18,
+                    "rank_absolute": 23,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                    "domain": "www.eregulations.com",
+                    "title": "General Migratory Bird Seasons, Shooting Hours, & Bag ...",
+                    "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.eregulations.com \u203a South Carolina",
+                    "website_name": "eRegulations",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Statewide hunting hours shall be one-half hour before sunrise to sunset. Infographic on preventing hypothermia while hunting, featuring tips like dressing in\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.eregulations.com",
+                        "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:8"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "one-half hour before sunrise to sunset"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1463,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 19,
+                    "rank_absolute": 24,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "www.featherhornfarm.com",
+                    "title": "Featherhorn Farm | South Carolina Hunt Camp and Event ...",
+                    "url": "https://www.featherhornfarm.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.featherhornfarm.com",
+                    "website_name": "Featherhorn Farm",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "We offer southern style quail hunting, duck hunting over flooded corn fields ... 7011 Governor Richardson Rd, Pinewood, SC 29125. Phone: (803)-883-6368\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.featherhornfarm.com",
+                        "url": "https://www.featherhornfarm.com/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:9"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "duck hunting",
+                      "SC"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1609,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 2,
+                    "rank_absolute": 25,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "SC Duck hunting season",
+                      "Duck hunting sc public land",
+                      "Duck hunting sc regulations",
+                      "Best duck hunting sc",
+                      "SC duck season 25 26",
+                      "Sc duck hunting Laws",
+                      "Scdnr duck hunting",
+                      "SC WMA duck hunting"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1783,
+                      "width": 652,
+                      "height": 240
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "south carolina duck hunting clubs",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "tasks": [
+          {
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "south carolina duck hunting clubs",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "datetime": "2026-04-28 17:06:35 +00:00",
+                "item_types": [
+                  "local_pack",
+                  "organic",
+                  "images",
+                  "related_searches"
+                ],
+                "se_results_count": 2230000,
+                "pages_count": 2,
+                "items_count": 24,
+                "local_pack": [
+                  {
+                    "rank_group": 1,
+                    "title": "Toney Creek Plantation",
+                    "description": "Belton, SC",
+                    "phone": "(864) 304-7400",
+                    "rating": {
+                      "value": 4.7,
+                      "votes_count": 50
+                    }
+                  },
+                  {
+                    "rank_group": 2,
+                    "title": "Duck Bottom Plantation",
+                    "description": "Horatio, SC",
+                    "phone": "(803) 499-2332",
+                    "rating": {
+                      "value": 4.9,
+                      "votes_count": 9
+                    }
+                  },
+                  {
+                    "rank_group": 3,
+                    "title": "Riverbend Resort",
+                    "description": "Inman, SC",
+                    "phone": "(864) 592-1348",
+                    "rating": {
+                      "value": 4.9,
+                      "votes_count": 93
+                    }
+                  }
+                ],
+                "top_organic": [
+                  {
+                    "rank_group": 1,
+                    "domain": "huntinglocator.com",
+                    "title": "South Carolina Hunt Clubs - HuntingLocator.com",
+                    "url": "https://huntinglocator.com/businesses/hunt-club/state/south-carolina"
+                  },
+                  {
+                    "rank_group": 2,
+                    "domain": "www.featherhornfarm.com",
+                    "title": "Home | Featherhorn Farm | South Carolina Hunt Camp and...",
+                    "url": "https://www.featherhornfarm.com/"
+                  },
+                  {
+                    "rank_group": 3,
+                    "domain": "www.facebook.com",
+                    "title": "Black River Hunt Club | Kingstree SC",
+                    "url": "https://www.facebook.com/blackriverhunt/"
+                  },
+                  {
+                    "rank_group": 4,
+                    "domain": "almostheavenplantation.com",
+                    "title": "Almost Heaven Plantation: Home",
+                    "url": "https://almostheavenplantation.com/"
+                  },
+                  {
+                    "rank_group": 5,
+                    "domain": "riversedgehuntclub.com",
+                    "title": "Rivers Edge Hunting | Lynchburg SC | Duck Turkey Deer...",
+                    "url": "https://riversedgehuntclub.com/"
+                  },
+                  {
+                    "rank_group": 6,
+                    "domain": "www.piedmonthuntclub.com",
+                    "title": "Piedmont Hunt Club: \u2022 Home",
+                    "url": "https://www.piedmonthuntclub.com/"
+                  },
+                  {
+                    "rank_group": 7,
+                    "domain": "www.deerpondhuntclub.com",
+                    "title": "South Carolina Trophy deer, turkey, quail & duck hunting",
+                    "url": "https://www.deerpondhuntclub.com/"
+                  },
+                  {
+                    "rank_group": 8,
+                    "domain": "nationalland.com",
+                    "title": "Two Ponds Duck Club in Clarendon County, South...",
+                    "url": "https://nationalland.com/listing/two-ponds-duck-club"
+                  },
+                  {
+                    "rank_group": 9,
+                    "domain": "www.ultimatewaterfowlhunting.com",
+                    "title": "Directory of South Carolina Waterfowl Hunting Lodges...",
+                    "url": "https://www.ultimatewaterfowlhunting.com/usa/south-carolina/"
+                  },
+                  {
+                    "rank_group": 10,
+                    "domain": "moreespreserve.com",
+                    "title": "Moree's Sportsman's Preserve",
+                    "url": "https://moreespreserve.com/"
+                  },
+                  {
+                    "rank_group": 11,
+                    "domain": "www.collinslowcountryhuntingclub.com",
+                    "title": "Collins Lowcountry Hunting Club",
+                    "url": "https://www.collinslowcountryhuntingclub.com/"
+                  },
+                  {
+                    "rank_group": 12,
+                    "domain": "steelwaters.com",
+                    "title": "Steel Waters|Duck Hunting Memberships, Cabin Rentals and...",
+                    "url": "https://steelwaters.com/"
+                  }
+                ],
+                "related_searches": [
+                  "South carolina duck hunting clubs reviews",
+                  "South carolina duck hunting clubs membership cost",
+                  "South carolina duck hunting clubs near me",
+                  "South Carolina hunting clubs looking for members",
+                  "Hunting clubs South Carolina",
+                  "Black River hunt club Kingstree SC"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

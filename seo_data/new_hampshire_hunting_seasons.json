@@ -1,0 +1,630 @@
+{
+  "id": "W18a",
+  "topic": "New Hampshire Hunting & Fishing Seasons",
+  "primary_keyword": "new hampshire hunting seasons",
+  "slug": "new_hampshire_hunting_seasons",
+  "primary_keyword_data": {
+    "keyword": "new hampshire hunting seasons",
+    "search_volume": 2900,
+    "cpc": null,
+    "competition": 0.0,
+    "monthly_searches": [
+      {
+        "year": 2026,
+        "month": 3,
+        "search_volume": 880
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "search_volume": 480
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 12,
+        "search_volume": 3600
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "search_volume": 8100
+      },
+      {
+        "year": 2025,
+        "month": 10,
+        "search_volume": 8100
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "search_volume": 6600
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "search_volume": 2400
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "search_volume": 590
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "search_volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "search_volume": 1000
+      }
+    ]
+  },
+  "keyword_suggestions": [
+    {
+      "keyword": "deer hunting season in new hampshire",
+      "search_volume": 1900,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "deer hunting season new hampshire",
+      "search_volume": 1900,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "deer season in nh",
+      "search_volume": 1900,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "new hampshire turkey season",
+      "search_volume": 720,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "moose hunting nh",
+      "search_volume": 210,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh hunting laws",
+      "search_volume": 210,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "new hampshire turkey hunting",
+      "search_volume": 170,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "new hampshire turkey hunting season",
+      "search_volume": 170,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh deer hunting regulations",
+      "search_volume": 170,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh hunting season dates",
+      "search_volume": 170,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "turkey hunting season nh",
+      "search_volume": 170,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "bear hunting new hampshire",
+      "search_volume": 140,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "new hampshire wildlife management units",
+      "search_volume": 140,
+      "cpc": 7.26,
+      "competition": 0.02
+    },
+    {
+      "keyword": "bear hunting season nh",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "new hampshire duck hunting",
+      "search_volume": 110,
+      "cpc": null,
+      "competition": 0.01
+    },
+    {
+      "keyword": "nh squirrel season",
+      "search_volume": 70,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh deer hunting zones",
+      "search_volume": 50,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh hunting dates",
+      "search_volume": 50,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh fish and game hunting seasons",
+      "search_volume": 40,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh trapping season",
+      "search_volume": 40,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh turkey hunting regulations",
+      "search_volume": 30,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh deer hunting laws",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh youth deer season",
+      "search_volume": 20,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "2022 nh hunting season",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "nh archery laws",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh bird hunting season",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": 0
+    },
+    {
+      "keyword": "nh hunting rifle laws",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "nh turkey season 2022",
+      "search_volume": 10,
+      "cpc": null,
+      "competition": null
+    }
+  ],
+  "primary_serp": {
+    "keyword": "new hampshire hunting seasons",
+    "items": [
+      {
+        "rank": 1,
+        "type": "organic",
+        "title": "Dates and Seasons | State of New Hampshire Fish and Game",
+        "url": "https://www.wildlife.nh.gov/hunting-nh/dates-and-seasons",
+        "domain": "www.wildlife.nh.gov",
+        "description": "General Hunting Dates in NH; Youth Turkey-Hunting Weekend April 25-26, 2026; Spring Gobbler Season May 1-May 31; Black Bear starts September 1."
+      },
+      {
+        "rank": 2,
+        "type": "organic",
+        "title": "Deer Hunting in New Hampshire - NH Fish and Game",
+        "url": "https://www.wildlife.nh.gov/hunting-nh/deer-hunting-new-hampshire",
+        "domain": "www.wildlife.nh.gov",
+        "description": "NH Deer Season Dates and Resources; Archery: September 15 - December 15 (closes December 8 in WMU A); Muzzleloader: October 31 - November 10, 2026 Statewide."
+      },
+      {
+        "rank": 3,
+        "type": "organic",
+        "title": "New Hampshire Hunting Seasons Open September 1",
+        "url": "https://nhfishgame.com/2025/08/13/new-hampshire-hunting-seasons-open-september-1-3/",
+        "domain": "nhfishgame.com",
+        "description": "Aug 13, 2025 - Shotgun: October 13-19 (certain WMUs); Archery: September 15-December 15 (ends December 8 in WMU A)."
+      },
+      {
+        "rank": 4,
+        "type": "organic",
+        "title": "New Hampshire Hunting Seasons & Rules",
+        "url": "https://www.eregulations.com/newhampshire/hunting",
+        "domain": "www.eregulations.com",
+        "description": "Official New Hampshire Hunting regulations. Season dates, license info, bag limits and more."
+      },
+      {
+        "rank": 5,
+        "type": "organic",
+        "title": "A Guide to the New Hampshire Hunting Seasons 2026",
+        "url": "https://huntwise.com/field-guide/state-hunting-guide/new-hampshire-hunting-season",
+        "domain": "huntwise.com",
+        "description": "Learn about season dates, licenses, bag limits, and more to plan your 2026 hunt."
+      },
+      {
+        "rank": 6,
+        "type": "organic",
+        "title": "Hunting in NH | State of New Hampshire Fish and Game",
+        "url": "https://www.wildlife.nh.gov/hunting-nh",
+        "domain": "www.wildlife.nh.gov",
+        "description": "Everything you need to enjoy hunting opportunities in New Hampshire. Buy a license, season dates, where to hunt, check stations."
+      },
+      {
+        "rank": 7,
+        "type": "organic",
+        "title": "Deer Hunting Seasons - New Hampshire",
+        "url": "https://www.eregulations.com/newhampshire/hunting/deer-hunting-seasons",
+        "domain": "www.eregulations.com",
+        "description": "2025 Deer Season Dates. Archery: Any deer. Sept. 15-Dec. 8. WMU A."
+      },
+      {
+        "rank": 8,
+        "type": "organic",
+        "title": "New Hampshire Hunter Education: Regulations & Laws",
+        "url": "https://www.huntercourse.com/usa/newhampshire/regulations.aspx",
+        "domain": "www.huntercourse.com",
+        "description": "New Hampshire hunting licenses are required for persons 16 years of age and older. Valid from January 1 to December 31 each year."
+      },
+      {
+        "rank": 9,
+        "type": "organic",
+        "title": "New Hampshire Hunting Seasons, Licenses and Regulations",
+        "url": "https://www.sportsmans.com/new-hampshire-hunting-guide",
+        "domain": "www.sportsmans.com",
+        "description": "Hunting Seasons; Woodcock Oct 1 2023, Nov 14 2023; Common Snipe Sep 15 2023, Nov 14 2023."
+      },
+      {
+        "rank": 10,
+        "type": "organic",
+        "title": "NH 2025 Deer Hunting Season Update",
+        "url": "https://www.facebook.com/NHWFORG/posts/nh-2025-deer-hunting-season-update/1340206064566121/",
+        "domain": "www.facebook.com",
+        "description": "Regular Hunting Season (firearms) opens Nov. 15 and runs through Dec. 7. Late bowhunting and muzzleloader season runs Dec 8 to Dec 16."
+      },
+      {
+        "rank": 11,
+        "type": "organic",
+        "title": "Where To Hunt in NH - NH Wildlife",
+        "url": "https://www.nhfishandwildlife.com/where_to_hunt_in_NH.php",
+        "domain": "www.nhfishandwildlife.com",
+        "description": "Bear season runs from September first until early December. Check the annual season regulation guide for specific dates."
+      },
+      {
+        "rank": 12,
+        "type": "organic",
+        "title": "New Hampshire Hunting Seasons are Now Underway",
+        "url": "https://www.youtube.com/watch?v=j1_1YSASUEk",
+        "domain": "www.youtube.com",
+        "description": "September 1st 2025 started hunting seasons in New Hampshire."
+      },
+      {
+        "rank": 13,
+        "type": "organic",
+        "title": "New Hampshire Hunting Seasons : r/newhampshire",
+        "url": "https://www.reddit.com/r/newhampshire/comments/1n68gp4/new_hampshire_hunting_seasons/",
+        "domain": "www.reddit.com",
+        "description": "From 01 September to 31 March you can bag 5 a day."
+      },
+      {
+        "rank": 14,
+        "type": "organic",
+        "title": "New Hampshire Hunting Seasons, Licenses and Regulations",
+        "url": "https://www.sportsmans.com/new-hampshire-hunting-guide",
+        "domain": "www.sportsmans.com",
+        "description": "Waterfowl seasons generally run from September through January, depending on the species."
+      },
+      {
+        "rank": 15,
+        "type": "organic",
+        "title": "Firearms Deer Season Opens Wednesday, November 12",
+        "url": "https://nhfishgame.com/2025/11/07/firearms-deer-season-opens-wednesday-november-12/",
+        "domain": "nhfishgame.com",
+        "description": "Nov 7, 2025 - The firearms deer season runs from November 12 through December 7 in most of the state."
+      },
+      {
+        "rank": 16,
+        "type": "organic",
+        "title": "Deer Hunting Regulations - New Hampshire",
+        "url": "https://www.eregulations.com/newhampshire/hunting/deer-hunting-regulations",
+        "domain": "www.eregulations.com",
+        "description": "New Hampshire has a long archery season starting September 15, a muzzleloader season 11 days prior to the firearms season."
+      },
+      {
+        "rank": 17,
+        "type": "organic",
+        "title": "Small Game and Upland Bird Hunting - NH Fish and Game",
+        "url": "https://www.wildlife.nh.gov/hunting-nh/small-game-and-upland-bird-hunting",
+        "domain": "www.wildlife.nh.gov",
+        "description": "Small game and upland bird species in New Hampshire: ruffed grouse, pheasant, quail, cottontail rabbit, snowshoe hare."
+      },
+      {
+        "rank": 18,
+        "type": "organic",
+        "title": "New Hampshire Hunting Laws & Regulations",
+        "url": "https://www.sosoutfitters.com/hunting-laws-and-seasons-state-nh/",
+        "domain": "www.sosoutfitters.com",
+        "description": "State law requires all hunters must have a valid hunting license and a deer permit."
+      },
+      {
+        "rank": 19,
+        "type": "organic",
+        "title": "New Hampshire fall hunting seasons start this week",
+        "url": "https://www.nhpr.org/nh-news/2025-09-01/new-hampshires-fall-hunting-seasons-start-this-week",
+        "domain": "www.nhpr.org",
+        "description": "Sep 1, 2025 - Autumn hunting starts in New Hampshire with the opening of black bear, gray squirrel and Canada goose season on Labor Day."
+      },
+      {
+        "rank": 20,
+        "type": "organic",
+        "title": "NH 2025 Deer Hunting Season Update",
+        "url": "https://www.youtube.com/watch?v=8HbsibK_0i8",
+        "domain": "www.youtube.com",
+        "description": "The deer take as of November 2nd 2025 is 4,860, an 18% increase over the previous 5-year average."
+      }
+    ],
+    "people_also_ask": [
+      "What hunting seasons are open in New Hampshire?",
+      "What is the 7 day buck rule?",
+      "Can you hunt deer on your own property without a license in NH?",
+      "Can I shoot a deer in my backyard with a bow?"
+    ],
+    "related_searches": [
+      "NH hunting season 2026",
+      "NH Hunting zones",
+      "When is Turkey season in New Hampshire",
+      "NH hunting license",
+      "Nh deer hunting zones",
+      "NH wmu map",
+      "Rifle season NH",
+      "When does hunting season end in NH"
+    ],
+    "serp_features": [
+      "organic",
+      "people_also_ask",
+      "related_searches"
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "deer hunting season in new hampshire",
+      "serp": {
+        "keyword": "deer hunting season in new hampshire",
+        "items": [
+          {
+            "rank": 1,
+            "type": "organic",
+            "title": "Deer Hunting in New Hampshire - NH Fish and Game",
+            "url": "https://www.wildlife.nh.gov/hunting-nh/deer-hunting-new-hampshire",
+            "domain": "www.wildlife.nh.gov",
+            "description": "NH Deer Season Dates and Resources ; Archery: September 15 - December 15 (closes December 8 in WMU A) ; Muzzleloader: October 31 - November 10, 2026 Statewide. Read more"
+          },
+          {
+            "rank": 2,
+            "type": "organic",
+            "title": "Deer Hunting Seasons - New Hampshire",
+            "url": "https://www.eregulations.com/newhampshire/hunting/deer-hunting-seasons",
+            "domain": "www.eregulations.com",
+            "description": "2025 Deer Season Dates. Season. Inclusive Dates. Wildlife Management Units. Archery. Any deer. Sept. 15\u2013Dec. 8. WMU A - Note: Archery deer season ends one\u00a0... Read more"
+          },
+          {
+            "rank": 3,
+            "type": "organic",
+            "title": "Dates and Seasons | State of New Hampshire Fish and Game",
+            "url": "https://www.wildlife.nh.gov/hunting-nh/dates-and-seasons",
+            "domain": "www.wildlife.nh.gov",
+            "description": "Youth Deer-Hunting Weekend. October 24 - 25, 2026. Deer/Muzzleloader. October 31 - November 10, 2026. Deer/Regular Firearms. November 11 - December 6, 2026\u00a0... Read more"
+          },
+          {
+            "rank": 4,
+            "type": "organic",
+            "title": "New Hampshire Hunting Seasons Open September 1",
+            "url": "https://nhfishgame.com/2025/08/13/new-hampshire-hunting-seasons-open-september-1-3/",
+            "domain": "nhfishgame.com",
+            "description": "Aug 13, 2025 \u2014 The regular firearms deer-hunting season immediately follows starting on November 12. Both the archery and regular firearms seasons for deer ... Read more"
+          },
+          {
+            "rank": 5,
+            "type": "organic",
+            "title": "A Guide to the New Hampshire Hunting Seasons 2026",
+            "url": "https://huntwise.com/field-guide/state-hunting-guide/new-hampshire-hunting-season",
+            "domain": "huntwise.com",
+            "description": "Any Deer: October 31 \u2013 November 1, 2026; Antlered Only: November 4 \u2013 10, 2026. D2W: Any Deer\u00a0... Read more"
+          },
+          {
+            "rank": 6,
+            "type": "organic",
+            "title": "Deer Hunting Regulations - New Hampshire",
+            "url": "https://www.eregulations.com/newhampshire/hunting/deer-hunting-regulations",
+            "domain": "www.eregulations.com",
+            "description": "New Hampshire has a long archery season starting September 15, a muzzleloader season 11 days prior to the firearms season, and a firearms season during the\u00a0... Read more"
+          },
+          {
+            "rank": 7,
+            "type": "organic",
+            "title": "Firearms Deer Season Opens Wednesday, November 12",
+            "url": "https://hollisbrooklinenews.org/firearms-deer-season-opens-wednesday-november-p11284-692.htm",
+            "domain": "hollisbrooklinenews.org",
+            "description": "Nov 10, 2025 \u2014 The firearms deer season runs from November 12 through December 7 in most of the state. In Wildlife Management Unit (WMU) A, the northernmost in\u00a0... Read more"
+          },
+          {
+            "rank": 8,
+            "type": "organic",
+            "title": "NH 2025 Deer Hunting Season Update.",
+            "url": "https://www.facebook.com/NHWFORG/posts/nh-2025-deer-hunting-season-update/1340206064566121/",
+            "domain": "www.facebook.com",
+            "description": "2025 Early Bow Hunting Season Opens on Oct 1 Regular (i.e. firearms) deer hunting season opens Saturday, November 15. This does not mean hiking\u00a0... Read more"
+          },
+          {
+            "rank": 9,
+            "type": "organic",
+            "title": "Deer Season In New Hampshire: Everything You Need To ...",
+            "url": "https://a-z-animals.com/blog/deer-season-in-new-hampshire-everything-you-need-to-know-to-be-prepared/",
+            "domain": "a-z-animals.com",
+            "description": "Oct 16, 2022 \u2014 New Hampshire's deer season is open from mid-September to mid-December. The New Hampshire Fish and Game Department (NHFG) has divided the\u00a0... Read more"
+          },
+          {
+            "rank": 10,
+            "type": "organic",
+            "title": "2026 N.H. DEER SEASON",
+            "url": "https://www.wildlife.nh.gov/sites/g/files/ehbemt746/files/documents/nh-deer-season.pdf",
+            "domain": "www.wildlife.nh.gov",
+            "description": "HUNTING HOURS: 1/2 hour before sunrise to 1/2 hour after sunset. FIREARM OPENING DAY. NOVEMBER\u00a0... Read more"
+          },
+          {
+            "rank": 11,
+            "type": "organic",
+            "title": "NH 2025 Deer Hunting Season Update. | Eric Orff",
+            "url": "https://www.facebook.com/eric.orff/videos/nh-2025-deer-hunting-season-update/1156771179312975/",
+            "domain": "www.facebook.com",
+            "description": "The deer take as of November 2nd 2025 is 4,860 that is an in an 18% increase over the previous 5year average."
+          },
+          {
+            "rank": 12,
+            "type": "organic",
+            "title": "Deer Season In New Hampshire: Everything You Need To ...",
+            "url": "https://a-z-animals.com/blog/deer-season-in-new-hampshire-everything-you-need-to-know-to-be-prepared/",
+            "domain": "a-z-animals.com",
+            "description": "Oct 16, 2022 \u2014 New Hampshire's deer season is open from mid-September to mid-December. The New Hampshire Fish and Game Department (NHFG) has divided the\u00a0... Read more"
+          },
+          {
+            "rank": 13,
+            "type": "organic",
+            "title": "Where To Hunt in NH | - NH Wildlife",
+            "url": "https://www.nhfishandwildlife.com/where_to_hunt_in_NH.php",
+            "domain": "www.nhfishandwildlife.com",
+            "description": "Nearly all state parks and state forests are open to hunting as well as land owned or managed by the New Hampshire Fish and Game Department. Read more"
+          },
+          {
+            "rank": 14,
+            "type": "organic",
+            "title": "NH 2025 Deer Hunting Season Update.",
+            "url": "https://www.youtube.com/watch?v=8HbsibK_0i8",
+            "domain": "www.youtube.com",
+            "description": "The deer take as of November 2nd 2025 is 4,860 that is an in an 18% increase over the previous 5-year average."
+          },
+          {
+            "rank": 15,
+            "type": "organic",
+            "title": "New Hampshire Hunting Seasons Open September 1",
+            "url": "https://nhfishgame.com/2023/08/24/new-hampshire-hunting-seasons-open-september-1/",
+            "domain": "nhfishgame.com",
+            "description": "Aug 24, 2023 \u2014 Archery: September 15\u2013December 15 (ends December 8 in WMU A) \u00b7 Youth Deer Weekend: October 21\u201322 \u00b7 Muzzleloader: October 28\u2013November 7 \u00b7 Firearms:\u00a0... Read more"
+          },
+          {
+            "rank": 16,
+            "type": "organic",
+            "title": "Hunting seasons set to open across New Hampshire Sept. 1",
+            "url": "https://mykeenenow.com/news/219912-hunting-seasons-set-to-open-across-new-hampshire-sept-1/",
+            "domain": "mykeenenow.com",
+            "description": "Aug 20, 2025 \u2014 Hunting seasons set to open across New Hampshire Sept. 1 ; Deer (Archery): Sept. 15\u2013Dec. 15 (Dec. 8 in WMU A) ; Deer (Muzzleloader): Nov. 1\u201311. Read more"
+          },
+          {
+            "rank": 17,
+            "type": "organic",
+            "title": "Are you excited? Regular firearm season for deer opens ...",
+            "url": "https://www.facebook.com/nhfishandgame/posts/are-you-excited-regular-firearm-season-for-deer-opens-wednesday-november-12-good/1282591747231275/",
+            "domain": "www.facebook.com",
+            "description": "The statewide whitetail deer rifle season opens tomorrow, November 27th, and runs through Saturday, December 11th. This season includes another\u00a0... Read more"
+          },
+          {
+            "rank": 18,
+            "type": "organic",
+            "title": "HUNTING SEASONS IN NEW HAMPSHIRE 2025\u201326",
+            "url": "https://uh.app/news/hunting-seasons-in-new-hampshire-202526-deer-hunting-big-game-and_yMFXAGYMEfC97JW8t5y-Cg",
+            "domain": "uh.app",
+            "description": "Jul 21, 2025 \u2014 Plan your 2025\u201326 New Hampshire hunt with our state\u2011by\u2011state guide\u2014season dates, bag limits, licenses, bow & rifle rules, and key game species\u00a0... Read more"
+          },
+          {
+            "rank": 19,
+            "type": "organic",
+            "title": "New Hampshire Hunting Seasons & Rules",
+            "url": "https://www.eregulations.com/newhampshire/hunting",
+            "domain": "www.eregulations.com",
+            "description": "NEW for 2025\u201326. Deer may be taken with a crossbow during the archery season in a number of WMUs by anyone holding an archery license. See Deer Hunting for\u00a0... Read more"
+          },
+          {
+            "rank": 20,
+            "type": "organic",
+            "title": "Ultimate Guide to Deer Hunting in New Hampshire Tips ...",
+            "url": "https://www.hlrbo.com/news/fullarticle/Ultimate-Guide-to-Deer-Hunting-in-New-Hampshire-Tips,-Tactics,-and-Top-Locations",
+            "domain": "www.hlrbo.com",
+            "description": "The state typically offers archery, firearm, and muzzleloader seasons for deer hunting, each with its own set of regulations regarding dates, bag limits, and\u00a0... Read more"
+          }
+        ],
+        "people_also_ask": [
+          "What hunting season is open in NH now?",
+          "What is the 70 rule in deer hunting?",
+          "Can you hunt deer on your own property without a license in NH?",
+          "What is the 7 day rule for deer?"
+        ],
+        "related_searches": [
+          "NH hunting season dates",
+          "Nh deer hunting zones",
+          "Rifle season NH",
+          "NH Hunting zones",
+          "NH Deer season 2026",
+          "NH hunting season 2026",
+          "NH deer baiting season",
+          "Muzzleloader Season NH",
+          "Nh deer hunting zones",
+          "NH Hunting zones",
+          "NH Deer season 2026",
+          "NH hunting season 2026",
+          "When does hunting season end in NH",
+          "NH deer baiting season",
+          "NH hunting license",
+          "NH bear season"
+        ],
+        "serp_features": [
+          "ai_overview",
+          "organic",
+          "people_also_ask",
+          "related_searches"
+        ]
+      }
+    }
+  ]
+}

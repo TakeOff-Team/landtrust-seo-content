@@ -1,0 +1,2613 @@
+{
+  "id": "W32b",
+  "topic": "Montana Deer Hunting on Private Land: Access, Tags, and Tactics",
+  "primary_keyword": "montana deer hunting private land",
+  "slug": "montana_deer_hunting_private_land",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "montana deer hunting private land",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": null,
+            "monthly_searches": null
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result_count": 2,
+        "result": [
+          {
+            "keyword": "montana deer hunting private land",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": null,
+            "monthly_searches": null
+          },
+          {
+            "keyword": "montana private land mule deer hunting",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": null,
+            "cpc": null,
+            "search_volume": 10
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "tasks": [
+      {
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "montana deer hunting private land",
+            "type": "organic",
+            "se_domain": "google.com",
+            "location_code": 2840,
+            "language_code": "en",
+            "datetime": "2026-04-28 17:04:29 +00:00",
+            "item_types": [
+              "ai_overview",
+              "organic",
+              "people_also_ask",
+              "discussions_and_forums",
+              "related_searches"
+            ],
+            "se_results_count": 26400000,
+            "pages_count": 2,
+            "items_count": 24,
+            "top_results": [
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "fwp.mt.gov",
+                "title": "Hunt > Access Private Land Hunting Opportunities",
+                "url": "https://fwp.mt.gov/hunt/access/private-lands",
+                "description": "Hunters must obtain landowner permission to hunt on all private land"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "landtrust.com",
+                "title": "Hunt for Mule Deer on private land in Montana",
+                "url": "https://landtrust.com/us/montana/mule-deer"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "www.sagepeakhunting.com",
+                "title": "Private Ranch Hunts",
+                "url": "https://www.sagepeakhunting.com/hunts/private-ranch-hunts/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "www.markyoungoutfitters.com",
+                "title": "Guided Hunting & Fishing | Mark Young Outfitters | MT",
+                "url": "https://www.markyoungoutfitters.com/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "www.huntinfool.com",
+                "title": "Available Hunt Listings",
+                "url": "https://www.huntinfool.com/adventures/list?Groups=deer&Locations=/united-states-of-america/montana&Tab=L"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "infiniteoutdoorsusa.com",
+                "title": "Hunt Deer in Montana on private land",
+                "url": "https://infiniteoutdoorsusa.com/explore/montana/deer"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "landtrust.com",
+                "title": "Find the best places to Hunt in Montana",
+                "url": "https://landtrust.com/us/montana/hunt"
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "domain": "fwp.mt.gov",
+                "title": "HUNT :: Hunting Regulations",
+                "url": "https://fwp.mt.gov/hunt/regulations"
+              },
+              {
+                "type": "organic",
+                "rank_group": 9,
+                "domain": "www.petersenshunting.com",
+                "title": "Deer Hunting Opportunities On The Right Side Of Montana",
+                "url": "https://www.petersenshunting.com/editorial/go-east/469026"
+              },
+              {
+                "type": "organic",
+                "rank_group": 10,
+                "domain": "landtrust.com",
+                "title": "Find the best places to Hunt in Montana",
+                "url": "https://landtrust.com/us/montana/hunt"
+              },
+              {
+                "type": "organic",
+                "rank_group": 11,
+                "domain": "www.huntinfool.com",
+                "title": "Montana Hunting Draws, Units & Regulations 2026",
+                "url": "https://www.huntinfool.com/states/montana"
+              }
+            ],
+            "related_searches": [
+              "Montana deer hunting private land regulations",
+              "Montana deer hunting private land prices",
+              "Best montana deer hunting private land",
+              "Land trust Hunting",
+              "Mule deer hunting Montana public land",
+              "Montana public land whitetail hunting",
+              "Montana hunting Regulations"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "montana deer hunting",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "3.8662 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282006-1118-0139-0000-8733e49204fd",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "3.7630 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": [
+              "v3",
+              "serp",
+              "google",
+              "organic",
+              "live",
+              "advanced"
+            ],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "montana deer hunting",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20,
+              "calculate_rectangles": true,
+              "os": "windows"
+            },
+            "result": [
+              {
+                "keyword": "montana deer hunting",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=montana%20deer%20hunting&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "datetime": "2026-04-28 17:06:07 +00:00",
+                "spell": null,
+                "refinement_chips": null,
+                "item_types": [
+                  "organic",
+                  "perspectives",
+                  "video",
+                  "people_also_ask",
+                  "discussions_and_forums",
+                  "related_searches"
+                ],
+                "se_results_count": 9670000,
+                "pages_count": 2,
+                "items_count": 23,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "rank_absolute": 1,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "fwp.mt.gov",
+                    "title": "Hunt In Montana",
+                    "url": "https://fwp.mt.gov/hunt",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://fwp.mt.gov \u203a hunt",
+                    "website_name": "Montana FWP (.gov)",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Plan your hunt ; Hunting Licenses and Permits. Licenses and Permits. What you need > ; Hunting and trapping regulation covers. Hunting and Trapping Regulations. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Hunting Licenses and Permits"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 182,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "rank_absolute": 2,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                    "domain": "fwp.mt.gov",
+                    "title": "Hunt By Species: Deer | Montana FWP",
+                    "url": "https://fwp.mt.gov/hunt/regulations/deer",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://fwp.mt.gov \u203a hunt \u203a regulations \u203a deer",
+                    "website_name": "Montana FWP (.gov)",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Hunting regulations and information for deer in Montana.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Hunting",
+                      "deer",
+                      "Montana"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 328.53,
+                      "width": 652,
+                      "height": 94.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "rank_absolute": 3,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                    "domain": "www.montanabiggameoutfitters.com",
+                    "title": "Guided Montana Deer Hunts",
+                    "url": "https://www.montanabiggameoutfitters.com/deer",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.montanabiggameoutfitters.com \u203a deer",
+                    "website_name": "Montana Big Game Outfitters",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "We offer fully guided hunts for Mule Deer, Whitetail, and more.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "hunts",
+                      "Deer"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 453.06,
+                      "width": 652,
+                      "height": 94.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "rank_absolute": 4,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                    "domain": "www.montanawhitetails.com",
+                    "title": "Montana Whitetail Deer, Mule Deer, Antelope, Elk Hunting",
+                    "url": "https://www.montanawhitetails.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.montanawhitetails.com",
+                    "website_name": "Montana Whitetails",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "If you love to bow hunt and want to see tons of deer, give Montana Whitetails a call. Or, you can call me at (716) 754-4767. I love to pass along good\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "716) 754-4767"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Hunting",
+                        "description": null,
+                        "url": "https://www.montanawhitetails.com/archerydeer.html",
+                        "domain": "www.montanawhitetails.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Photos",
+                        "description": null,
+                        "url": "https://www.montanawhitetails.com/pictures.php",
+                        "domain": "www.montanawhitetails.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "News & More",
+                        "description": null,
+                        "url": "https://www.montanawhitetails.com/about.html",
+                        "domain": "www.montanawhitetails.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "References",
+                        "description": null,
+                        "url": "https://www.montanawhitetails.com/references.html",
+                        "domain": "www.montanawhitetails.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 577.59,
+                      "width": 652,
+                      "height": 152.53
+                    }
+                  },
+                  {
+                    "type": "perspectives",
+                    "rank_group": 1,
+                    "rank_absolute": 5,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]",
+                    "title": "What people are saying",
+                    "items": [
+                      {
+                        "type": "perspectives_element",
+                        "title": "Thousands of Deer Tags Cut in Montana! What Hunters Need to Know?",
+                        "description": null,
+                        "url": "https://www.youtube.com/watch?v=ENBaRUAi_gw",
+                        "domain": "www.youtube.com",
+                        "date": "1 month ago",
+                        "source": "Eastmans Hunting Journals",
+                        "timestamp": "2026-03-28 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Montana\u2019s either-sex, either-species deer tag can dismay resident hunters. But with a guest from out state, it can also be a treasure worth sharing: https://trib.al/x5EN4lR",
+                        "description": null,
+                        "url": "https://www.facebook.com/outdoorlife/posts/montanas-either-sex-either-species-deer-tag-can-dismay-resident-hunters-but-with/1344073724433975/",
+                        "domain": "www.facebook.com",
+                        "date": "1 month ago",
+                        "source": "outdoorlife",
+                        "timestamp": "2026-03-28 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Best general purpose round and rifle for Montana",
+                        "description": null,
+                        "url": "https://www.reddit.com/r/Hunting/comments/1r9udtw/best_general_purpose_round_and_rifle_for_montana/",
+                        "domain": "www.reddit.com",
+                        "date": "Feb 21, 2026",
+                        "source": "r/Hunting",
+                        "timestamp": "2026-02-21 00:00:00 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "\ud83d\udfe7 2026 Deer and Elk Permit Drawing Results Are In! \ud83d\udfe7 Montana deer and elk permit drawing results, along with nonresident combination licenses, are now available! How to check your results: There are a few ways to get your drawing results. Visit https://fwp.",
+                        "description": null,
+                        "url": "https://www.facebook.com/MontanaFWP/posts/-2026-deer-and-elk-permit-drawing-results-are-in-montana-deer-and-elk-permit-dra/1273946458214436/",
+                        "domain": "www.facebook.com",
+                        "date": "2 weeks ago",
+                        "source": "MontanaFWP",
+                        "timestamp": "2026-04-14 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Montana DIY Hunt Gets Tough | Epic Mule Deer Stalk",
+                        "description": null,
+                        "url": "https://www.youtube.com/watch?v=vrHTE5JEUTM",
+                        "domain": "www.youtube.com",
+                        "date": "1 month ago",
+                        "source": "The Given Right",
+                        "timestamp": "2026-03-28 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "What You NEED to Know Before Applying for Montana Deer & Elk Tags",
+                        "description": null,
+                        "url": "https://www.youtube.com/watch?v=wvsboHABr0M",
+                        "domain": "www.youtube.com",
+                        "date": "1 month ago",
+                        "source": "GOHUNT",
+                        "timestamp": "2026-03-28 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "THE MOST Complicated Draw System on the Planet | Montana Application Strategy",
+                        "description": null,
+                        "url": "https://www.youtube.com/watch?v=CG1BDDaREfk",
+                        "domain": "www.youtube.com",
+                        "date": "1 month ago",
+                        "source": "Fresh Tracks",
+                        "timestamp": "2026-03-28 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Montana mule deer hunt for two--are you in?",
+                        "description": null,
+                        "url": "https://www.youtube.com/shorts/9MIbN1KuN_c",
+                        "domain": "www.youtube.com",
+                        "date": "1 month ago",
+                        "source": "Huntin' Fool",
+                        "timestamp": "2026-03-28 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Anyone else going to Montana this year!? This is my first time ever applying for a draw tag and I have no idea what I\u2019m doing but damnit I\u2019m excited!!!!!!",
+                        "description": null,
+                        "url": "https://www.facebook.com/groups/9228442200560864/posts/35210166705295058/",
+                        "domain": "www.facebook.com",
+                        "date": "1 week ago",
+                        "source": "The Mobile Hunter",
+                        "timestamp": "2026-04-21 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "Buckventures. . Montana magic!!\ud83c\udff9",
+                        "description": null,
+                        "url": "https://www.facebook.com/Buckventures/videos/montana-magic/1647714439761619/",
+                        "domain": "www.facebook.com",
+                        "date": "3 weeks ago",
+                        "source": "Buckventures",
+                        "timestamp": "2026-04-07 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "It's still a little wintery out there in western Montana, but these whitetail deer didn't seem to mind. It's supposed to get to 70 next week, so that will be nice. I hope you folks have a great day.",
+                        "description": null,
+                        "url": "https://www.facebook.com/mikewilliamsphotography/posts/its-still-a-little-wintery-out-there-in-western-montana-but-these-whitetail-deer/1551958099626733/",
+                        "domain": "www.facebook.com",
+                        "date": "1 week ago",
+                        "source": "mikewilliamsphotography",
+                        "timestamp": "2026-04-21 17:06:05 +00:00"
+                      },
+                      {
+                        "type": "perspectives_element",
+                        "title": "CWD is spreading in Montana. Will deer and elk populations decline as a result?",
+                        "description": null,
+                        "url": "https://www.reddit.com/r/Montana/comments/1rh3usg/cwd_is_spreading_in_montana_will_deer_and_elk/",
+                        "domain": "www.reddit.com",
+                        "date": "Feb 28, 2026",
+                        "source": "r/Montana",
+                        "timestamp": "2026-02-28 00:00:00 +00:00"
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 760.13,
+                      "width": 652,
+                      "height": 411
+                    }
+                  },
+                  {
+                    "type": "video",
+                    "rank_group": 1,
+                    "rank_absolute": 6,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[11]/div[1]",
+                    "items": [
+                      {
+                        "type": "video_element",
+                        "source": "YouTube \u00b7 Eastmans Hunting Journals",
+                        "title": "Hunt for BIG November Bucks | Mule Deer in Montana ...",
+                        "timestamp": "2025-11-01 00:00:00 +00:00",
+                        "url": "https://www.youtube.com/watch?v=1dFLynr_zSo"
+                      },
+                      {
+                        "type": "video_element",
+                        "source": "YouTube \u00b7 WHITEBONE CREATIONS",
+                        "title": "MONTANA MULE DEER RUT HUNT",
+                        "timestamp": "2025-12-02 00:00:00 +00:00",
+                        "url": "https://www.youtube.com/watch?v=E5lnyynOY3Y"
+                      },
+                      {
+                        "type": "video_element",
+                        "source": "YouTube \u00b7 Eastmans Hunting Journals",
+                        "title": "Save Montana's Mule Deer! Eastmans Hunting TV",
+                        "timestamp": "2025-10-18 00:00:00 +00:00",
+                        "url": "https://www.youtube.com/watch?v=LOy0U9RNrug"
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1215.13,
+                      "width": 652,
+                      "height": 527
+                    }
+                  },
+                  {
+                    "type": "people_also_ask",
+                    "rank_group": 1,
+                    "rank_absolute": 7,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]",
+                    "items": [
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Can a non-resident buy a deer tag in Montana?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.petersenshunting.com/editorial/montana-elk-deer-tag-strategy-nonresident/546550",
+                            "domain": "www.petersenshunting.com",
+                            "title": "Montana Elk and Deer Tags Explained: A Nonresident Strategy",
+                            "description": "What makes Montana unique is that the state offers limited entry and general hunting permits, meaning you can hunt deer and elk in Montana as a non-resident, typically, every other year if you go the general tag route. If you opt to apply for a limited-entry tag, your wait will typically be longer.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What is the 70 rule in deer hunting?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.tactacam.com/blog/post/shed-hunting-unveiling-the-70-rule",
+                            "domain": "www.tactacam.com",
+                            "title": "Shed Hunting: Unveiling the 70% Rule - Tactacam",
+                            "description": "The 70% rule simplifies shed hunting timing. The idea is to wait until approximately 70% of the bucks have shed their antlers before hitting the woods. This timing minimizes the risk of pushing deer around and maximizes your chances of finding antlers.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Does Montana have good deer hunting?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://muledeer.org/montanas-3-mule-deer-and-how-to-hunt-them/",
+                            "domain": "muledeer.org",
+                            "title": "Where to hunt Mule Deer in the Treasure State",
+                            "description": "You have several spectacular hunting opportunities in Montana to try. Mule deer and mountains go together like PB&J, especially in Montana, where around 250,000 Mule Deer call the state home.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What food is irresistible to deer?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[13]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_ai_overview_expanded_element",
+                            "items": null,
+                            "references": null,
+                            "asynchronous_ai_overview": true
+                          }
+                        ]
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1788.13,
+                      "width": 652,
+                      "height": 247
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "rank_absolute": 8,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[15]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "Too BIG to Pass Up!!! Montana Mule Deer Hunt",
+                    "url": "https://www.youtube.com/watch?v=wEEGbY9Hero",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "84.1K+ views  \u00b7  4 months ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0Stuck N The Rut",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "I'm on on the hunt for a buck I'd be proud to tag enjoy this adventure with me just like how every hunt starts in the dark man.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": null,
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2079.13,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "rank_absolute": 9,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[17]/div[1]/div[1]",
+                    "domain": "www.petersenshunting.com",
+                    "title": "Deer Hunting Opportunities On The Right Side Of Montana",
+                    "url": "https://www.petersenshunting.com/editorial/go-east/469026",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.petersenshunting.com \u203a editorial \u203a go-east",
+                    "website_name": "Petersen's Hunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Feb 17, 2023 \u2014 Ferris told me that most hunters who go guided or have access to private land could expect bucks in the 150- to 170-inch range with the chance\u00a0... Read more",
+                    "pre_snippet": "02/17/2023 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": null,
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2023-02-17 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2225.66,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "rank_absolute": 10,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[19]/div[1]/div[1]",
+                    "domain": "www.swanmountainoutfitters.com",
+                    "title": "Montana Guided Whitetail Deer Hunting",
+                    "url": "https://www.swanmountainoutfitters.com/trip/montana-guided-whitetail-deer-hunting/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.swanmountainoutfitters.com \u203a trip \u203a montan...",
+                    "website_name": "Swan Mountain Outfitters",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "You can hunt Whitetail deer by horseback or you can hunt using stands and blinds. We hunt public land exclusively, in the mountains of Flathead National Forest\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "You can hunt Whitetail deer by horseback or you can hunt using stands and blinds"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2372.19,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "discussions_and_forums",
+                    "rank_group": 1,
+                    "rank_absolute": 11,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[21]/div[1]",
+                    "title": "Discussions and forums",
+                    "items": [
+                      {
+                        "type": "discussions_and_forums_element",
+                        "title": "Montana Mule Deer - First timer",
+                        "url": "https://rokslide.com/forums/threads/montana-mule-deer-first-timer.392634/",
+                        "domain": "rokslide.com",
+                        "source": "Rokslide",
+                        "description": null,
+                        "timestamp": "2025-04-28 17:06:05 +00:00",
+                        "posts_count": 1
+                      },
+                      {
+                        "type": "discussions_and_forums_element",
+                        "title": "Hunting in montana (out of state)",
+                        "url": "https://www.reddit.com/r/Hunting/comments/1d2oxbg/hunting_in_montana_out_of_state/",
+                        "domain": "www.reddit.com",
+                        "source": "Reddit",
+                        "description": null,
+                        "timestamp": "2025-04-28 17:06:05 +00:00",
+                        "posts_count": 10
+                      },
+                      {
+                        "type": "discussions_and_forums_element",
+                        "title": "Detailed Hunt Strategy for Deer and Elk in Montana",
+                        "url": "https://forum.eastmans.com/threads/detailed-hunt-strategy-for-deer-and-elk-in-montana.22741/",
+                        "domain": "forum.eastmans.com",
+                        "source": "Eastmans' Forums",
+                        "description": null,
+                        "timestamp": "2021-04-28 17:06:05 +00:00",
+                        "posts_count": 5
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2518.72,
+                      "width": 652,
+                      "height": 347
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 1,
+                    "rank_absolute": 12,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Montana deer hunting season",
+                      "Montana deer hunting outfitters",
+                      "Montana deer hunting regulations",
+                      "Montana hunting license non resident",
+                      "Montana deer hunting public land",
+                      "Montana mule deer hunting non resident",
+                      "Deer B license Montana",
+                      "Montana deer hunting units map"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2937.72,
+                      "width": 652,
+                      "height": 240
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "rank_absolute": 13,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "www.huntinfool.com",
+                    "title": "Montana Hunting Draws, Units & Regulations 2026",
+                    "url": "https://www.huntinfool.com/states/montana",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.huntinfool.com \u203a states \u203a montana",
+                    "website_name": "Huntin' Fool",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Elk & deer - 2026 : April 15 @ 5:50pm 2025 : April 15 @ 3:05pm 2024 : April 15 @ 3:38pm 2023 : April 17 @ 3:08pm 2022 : April 14 @ 1:14pm Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "April 15 @ 5:50pm"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 182,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 9,
+                    "rank_absolute": 14,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "huntwise.com",
+                    "title": "Guide to the Montana Hunting Seasons 2026",
+                    "url": "https://huntwise.com/field-guide/state-hunting-guide/montana-hunting-seasons",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://huntwise.com \u203a Media \u203a Blog",
+                    "website_name": "Huntwise",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Mar 27, 2025 \u2014 Montana Deer Season \u00b7 Archery: September 5 \u2013 October 18, 2026 \u00b7 General: October 24 \u2013 November 29, 2026 \u00b7 Muzzleloader: December 12 \u2013 20, 2026\u00a0... Read more",
+                    "pre_snippet": "03/27/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "September 5 \u2013 October 18, 2026"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-03-27 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 328,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 10,
+                    "rank_absolute": 15,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                    "domain": "www.gohunt.com",
+                    "title": "Montana's mule deer population, harvest success, and ...",
+                    "url": "https://www.gohunt.com/browse/tips-and-tricks/insider/montanas-mule-deer-population-harvest-success-and-hunter-trends-revealed",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.gohunt.com \u203a tips-and-tricks \u203a insider \u203a m...",
+                    "website_name": "gohunt",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Apr 17, 2025 \u2014 Statewide, mule deer populations in Montana during the 2024 season were hovering around 249,157, which is down 35.48% from a peak in 2017 of\u00a0... Read more",
+                    "pre_snippet": "04/17/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "deer",
+                      "Montana"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-04-17 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 474,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 11,
+                    "rank_absolute": 16,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "www.jjguide.com",
+                    "title": "Guided Montana Hunting Trips | J&J Guide Service | Outfitter",
+                    "url": "https://www.jjguide.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.jjguide.com",
+                    "website_name": "J&J Guide Service",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "J&J Guide Service offers epic Montana hunting trips for elk, mule deer, whitetails, antelope, turkeys & more! 3 beautiful hunting locations!",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "J&J Guide Service offers epic Montana hunting trips"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 620,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 12,
+                    "rank_absolute": 17,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "Hunting Montana's Best Mule Deer Tag 270-50",
+                    "url": "https://www.youtube.com/watch?v=LWLNFSga8vU",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "30K+ views  \u00b7  1 year ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0Alaska Living the Dream",
+                    "is_image": false,
+                    "is_video": true,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The hardest to draw tag. They only give out like 4550 tags. Usually only one or two non-resident tags.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "They only give out like 4550 tags"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-03-22 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 766,
+                      "width": 652,
+                      "height": 163
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 13,
+                    "rank_absolute": 18,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "muledeer.org",
+                    "title": "Where to hunt Mule Deer in the Treasure State",
+                    "url": "https://muledeer.org/montanas-3-mule-deer-and-how-to-hunt-them/?srsltid=AfmBOoqAZAL2YnurC4Q66A1HfX-bEmo6gLCpswLX6dzWEkgzD0KOeV-c",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://muledeer.org \u203a News",
+                    "website_name": "Mule Deer Foundation",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Whether in the challenging mountains, expansive prairies, or plentiful agricultural fields, hunting mule deer in Montana has unlimited opportunities. Each\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "hunting mule deer in Montana has unlimited opportunities"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 959,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 14,
+                    "rank_absolute": 19,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                    "domain": "fwp.mt.gov",
+                    "title": "Hunting Licenses & Permits",
+                    "url": "https://fwp.mt.gov/buyandapply/hunting-licenses",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://fwp.mt.gov \u203a buyandapply \u203a hunting-licenses",
+                    "website_name": "Montana FWP (.gov)",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Everything you need to know to purchase the right license for your Montana adventure.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Montana"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1105,
+                      "width": 652,
+                      "height": 94
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 15,
+                    "rank_absolute": 20,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+                    "domain": "absarokabeartooth.com",
+                    "title": "Archery Deer Hunting in Montana",
+                    "url": "https://absarokabeartooth.com/hunting/deer-hunt-archery/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://absarokabeartooth.com \u203a Hunting",
+                    "website_name": "Absaroka-Beartooth Outfitters",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "We offer wilderness and private land deer hunts during archery season. Archery season begins the first Saturday in September and runs through mid-October. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "wilderness and private land deer hunts during archery season"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1229,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 16,
+                    "rank_absolute": 21,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                    "domain": "www.eregulations.com",
+                    "title": "Hunting Seasons and Dates - Montana Hunting",
+                    "url": "https://www.eregulations.com/montana/hunting/hunting-seasons-and-dates",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.eregulations.com \u203a Montana",
+                    "website_name": "eRegulations",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Deer \u00b7 Archery: September 6 \u2013 October 19, 2025 \u00b7 General: October 25 \u2013 November 30, 2025 \u00b7 Muzzleloader: December 13 \u2013 21, 2025 \u00b7 Shoulder Seasons: August 15, 2025\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Archery: September 6 \u2013 October 19, 2025"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1375,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 17,
+                    "rank_absolute": 22,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "www.montanahuntingcompany.com",
+                    "title": "Montana Hunting Company",
+                    "url": "https://www.montanahuntingcompany.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.montanahuntingcompany.com",
+                    "website_name": "Montana Hunting Company",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Mule deer hunts take place from the third weekend in October through the third week of November. Hunting is conducted on large private ranches in Montana where\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Mule deer hunts take place from the third weekend in October through the third week of November"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1521,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 2,
+                    "rank_absolute": 23,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "Montana deer hunting season",
+                      "Montana deer hunting outfitters",
+                      "Montana deer hunting regulations",
+                      "Montana hunting license non resident",
+                      "Montana deer hunting public land",
+                      "Montana mule deer hunting non resident",
+                      "Deer B license Montana",
+                      "Montana hunting license price"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1695,
+                      "width": 652,
+                      "height": 240
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "mule deer hunting montana",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "status_message": "Ok.",
+        "time": "2.8789 sec.",
+        "cost": 0.0055,
+        "tasks_count": 1,
+        "tasks_error": 0,
+        "tasks": [
+          {
+            "id": "04282006-1118-0139-0000-7f9befe1cf74",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "2.8070 sec.",
+            "cost": 0.0055,
+            "result_count": 1,
+            "path": [
+              "v3",
+              "serp",
+              "google",
+              "organic",
+              "live",
+              "advanced"
+            ],
+            "data": {
+              "api": "serp",
+              "function": "live",
+              "se": "google",
+              "se_type": "organic",
+              "keyword": "duck hunting sc",
+              "location_code": 2840,
+              "language_code": "en",
+              "device": "desktop",
+              "depth": 20,
+              "calculate_rectangles": true,
+              "os": "windows"
+            },
+            "result": [
+              {
+                "keyword": "duck hunting sc",
+                "type": "organic",
+                "se_domain": "google.com",
+                "location_code": 2840,
+                "language_code": "en",
+                "check_url": "https://www.google.com/search?q=duck%20hunting%20sc&hl=en&gl=US&ie=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "datetime": "2026-04-28 17:06:15 +00:00",
+                "spell": null,
+                "refinement_chips": {
+                  "type": "refinement_chips",
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "items": [
+                    {
+                      "type": "refinement_chips_element",
+                      "title": "Open now",
+                      "url": "https://www.google.com/search?sca_esv=b5576d60e09f6916&hl=en&gl=US&q=duck+hunting+sc+open+now&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-0k61jZqridJJlmzRtCr-CP-0j2nxb-MdZp0N9GO60q64-PvhLTQPkwyzLkTiXVz01q6j5VKsF7deqsomWQjATq3p3vMXN3h9Xm4iirlaiqbDfA0K530CsXoIcEcavaGew3rmBxi1_zLAYlLEvQyLfqv8cdqavNk7Nr8RFrjLXluPD5j6&sa=X&ved=2ahUKEwjAtt78g5GUAxW9TaQEHa7jGhkQxKsJKAB6BAgVEAE&ictx=0",
+                      "domain": "www.google.com",
+                      "options": null
+                    },
+                    {
+                      "type": "refinement_chips_element",
+                      "title": "Top rated",
+                      "url": "https://www.google.com/search?sca_esv=b5576d60e09f6916&hl=en&gl=US&q=top+rated+duck+hunting+sc&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-6FPN9BcYX2bVwW_AIEcPd0TYFYaZsKxo67-dnTg8Oe2WCxVWKSAMeoRPeSonLT4NjLPtGOiRKT1nIysQy97MkfqhFz8jq1oT2F3gBLSmbP-UlCruOgRDakmnbfQJUksMrTTVpcUbBiCoC9zO6kZM7sxgsB3FbkbhwgJt_rNU58Pkw6SU&sa=X&ved=2ahUKEwjAtt78g5GUAxW9TaQEHa7jGhkQxKsJKAF6BAgUEAE&ictx=0",
+                      "domain": "www.google.com",
+                      "options": null
+                    }
+                  ]
+                },
+                "item_types": [
+                  "local_pack",
+                  "organic",
+                  "people_also_ask",
+                  "related_searches"
+                ],
+                "se_results_count": 4290000,
+                "pages_count": 2,
+                "items_count": 25,
+                "items": [
+                  {
+                    "type": "local_pack",
+                    "rank_group": 1,
+                    "rank_absolute": 1,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "title": "Toney Creek Plantation",
+                    "description": "Belton, SC \u00b7 (864) 304-7400 \nOpen \u00b7 Closes 10\u202fPM \n\"I had my second hunt with Becca yesterday, she is an amazing guide.\" \n",
+                    "domain": "www.toneycreekplantation.com",
+                    "phone": "(864) 304-7400",
+                    "booking_url": null,
+                    "url": "http://www.toneycreekplantation.com/",
+                    "is_paid": false,
+                    "rating": {
+                      "rating_type": "Max5",
+                      "value": 4.7,
+                      "votes_count": 50,
+                      "rating_max": 5
+                    },
+                    "cid": "11052766070196066999",
+                    "rectangle": {
+                      "x": 229.78,
+                      "y": 327,
+                      "width": 550.22,
+                      "height": 149
+                    }
+                  },
+                  {
+                    "type": "local_pack",
+                    "rank_group": 2,
+                    "rank_absolute": 2,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]",
+                    "title": "Duck Bottom Plantation",
+                    "description": "Horatio, SC \u00b7 (803) 499-2332 \n",
+                    "domain": "duckbottomplantation.com",
+                    "phone": "(803) 499-2332",
+                    "booking_url": null,
+                    "url": "http://duckbottomplantation.com/",
+                    "is_paid": false,
+                    "rating": {
+                      "rating_type": "Max5",
+                      "value": 4.9,
+                      "votes_count": 9,
+                      "rating_max": 5
+                    },
+                    "cid": "7476614614319102583",
+                    "rectangle": {
+                      "x": 229.78,
+                      "y": 476,
+                      "width": 550.22,
+                      "height": 130
+                    }
+                  },
+                  {
+                    "type": "local_pack",
+                    "rank_group": 3,
+                    "rank_absolute": 3,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                    "title": "Lynches River Outfitters",
+                    "description": "Scranton, SC \u00b7 (843) 206-5171 \nOpen \u00b7 Closes 9:55\u202fPM \n\"Would HIGHLY recommend for anyone looking to hunt in South Carolina!\" \n",
+                    "domain": "www.lynchesriveroutfitters.com",
+                    "phone": "(843) 206-5171",
+                    "booking_url": null,
+                    "url": "http://www.lynchesriveroutfitters.com/",
+                    "is_paid": false,
+                    "rating": {
+                      "rating_type": "Max5",
+                      "value": 5,
+                      "votes_count": 12,
+                      "rating_max": 5
+                    },
+                    "cid": "6271761214166128510",
+                    "rectangle": {
+                      "x": 229.78,
+                      "y": 606,
+                      "width": 550.22,
+                      "height": 149
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "rank_absolute": 4,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "www.dnr.sc.gov",
+                    "title": "Wildlife - Waterfowl Hunting and Baiting",
+                    "url": "https://www.dnr.sc.gov/wildlife/waterfowl/baiting/overview.html",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.dnr.sc.gov \u203a waterfowl \u203a baiting \u203a overview",
+                    "website_name": "South Carolina Department of Natural Resources (.gov)",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "You can take only one daily bag limit in any one day. This limit determines the number of waterfowl you may legally have in your possession while in the field. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "You can take only one daily bag limit in any one day"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 865,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "rank_absolute": 5,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "moreespreserve.com",
+                    "title": "Moree's Sportsman's Preserve",
+                    "url": "https://moreespreserve.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://moreespreserve.com",
+                    "website_name": "moreespreserve.com",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Moree's Sportsman's Preserve is an upland game preserve and is the favorite of many who love quail hunting, duck hunting, pheasant hunting, Sporting Clays and\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Moree's Sportsman's Preserve"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1011.53,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "rank_absolute": 6,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "www.dnr.sc.gov",
+                    "title": "SCDNR - Hunting - Waterfowl",
+                    "url": "https://www.dnr.sc.gov/hunting/waterfowl.html",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.dnr.sc.gov \u203a hunting \u203a waterfowl",
+                    "website_name": "South Carolina Department of Natural Resources (.gov)",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Hunting Information. Waterfowl Hunting and Baiting Regulations \u00b7 Buy your license and appropriate stamps. Common Waterfowl Species in SC. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.dnr.sc.gov",
+                        "url": "https://www.dnr.sc.gov/hunting/waterfowl.html",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:0"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Waterfowl Hunting and Baiting Regulations"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1158.06,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "people_also_ask",
+                    "rank_group": 1,
+                    "rank_absolute": 7,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]",
+                    "items": [
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "When can you hunt ducks in SC?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": "General Migratory Bird Seasons, Shooting Hours, & Bag Limits",
+                            "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits",
+                            "domain": "www.eregulations.com",
+                            "title": "General Migratory Bird Seasons, Shooting Hours, & Bag Limits",
+                            "description": null,
+                            "images": null,
+                            "timestamp": null,
+                            "table": {
+                              "table_header": [
+                                "Species",
+                                "Dates"
+                              ],
+                              "table_content": [
+                                [
+                                  "Ducks (Including Sea Ducks), American Coots (There is no Open Season on Harlequin Ducks)",
+                                  "November 22, 2025 - November 29, 2025 December 12, 2025 - January 31, 2026"
+                                ]
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "Is duck hunting any good in South Carolina?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.gameandfishmag.com/editorial/best-duck-hunting-south/540862",
+                            "domain": "www.gameandfishmag.com",
+                            "title": "Duck Hunting: Best Places to Duck Hunt in the South - Game & Fish",
+                            "description": "South Carolina isn't one of the best states for hunting\u2014anything. However, its duck hunting isn't terrible. Hunters can catch some of the action flowing down through the Atlantic Flyway. While not a top-tier state, it does have a few pockets of good action, though.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What kind of ducks can you hunt in SC?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.hunt41.com/southcarolina",
+                            "domain": "www.hunt41.com",
+                            "title": "South Carolina - Hunt 41",
+                            "description": "One unique thing about our state is the fact you can shoot a black duck and mallard in the flooded timber of the Pee Dee region and drive to the coast the next day and shoot a mottled duck. Hunters have opportunities at a wide range of species of puddle, diver and sea ducks.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      },
+                      {
+                        "type": "people_also_ask_element",
+                        "title": "What is the duck capital of South Carolina?",
+                        "seed_question": null,
+                        "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]",
+                        "expanded_element": [
+                          {
+                            "type": "people_also_ask_expanded_element",
+                            "featured_title": null,
+                            "url": "https://www.landandplantations.com/listings/taw-caw-waterfowl",
+                            "domain": "www.landandplantations.com",
+                            "title": "Taw Caw Waterfowl - Brown Land + Plantation Advisors",
+                            "description": "Summerton is known as the Duck Capital of South Carolina, and this game-rich property boasts excellent potential for developing waterfowl impoundments.",
+                            "images": null,
+                            "timestamp": null,
+                            "table": null
+                          }
+                        ]
+                      }
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1304.59,
+                      "width": 652,
+                      "height": 247
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "rank_absolute": 8,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "realtree.com",
+                    "title": "Duck Hunting in South Carolina",
+                    "url": "https://realtree.com/waterfowl-hunting/duck-hunting-nation/2018/south-carolina-duck-hunting?srsltid=AfmBOooXz-yTNPWHzKRNR2NGWGkaMw14DNcCoq64QzY6Yxy1SFHL9DvI",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://realtree.com \u203a waterfowl-hunting \u203a south-carolin...",
+                    "website_name": "Realtree",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "South Carolina puts up good waterfowl harvest numbers and offers some quality public gunning. As you might expect, wood ducks dominate the harvest. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from realtree.com",
+                        "url": "https://realtree.com/waterfowl-hunting/duck-hunting-nation/2018/south-carolina-duck-hunting?srsltid=AfmBOooXz-yTNPWHzKRNR2NGWGkaMw14DNcCoq64QzY6Yxy1SFHL9DvI",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:1"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "South Carolina puts up good waterfowl harvest numbers"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1595.59,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "rank_absolute": 9,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[12]/div[1]/div[1]",
+                    "domain": "riversedgehuntclub.com",
+                    "title": "Rivers Edge Hunting | Lynchburg SC | Duck Turkey Deer ...",
+                    "url": "https://riversedgehuntclub.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://riversedgehuntclub.com",
+                    "website_name": "Rivers Edge Hunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Rivers Edge Hunting, located in Lynchburg, SC, is the premier location for hunters and wildlife aficionados. Come enjoy hunting, clay shooting, fishing and\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Rivers Edge Hunting, located in Lynchburg, SC"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Hunt",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/hunt-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Activities",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/activities-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Lodging",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/lodging-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "Wildlife",
+                        "description": null,
+                        "url": "https://riversedgehuntclub.com/wildlife-rivers-edge.htm",
+                        "domain": "riversedgehuntclub.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1742.13,
+                      "width": 652,
+                      "height": 152.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "rank_absolute": 10,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[14]/div[1]/div[1]",
+                    "domain": "www.ducks.org",
+                    "title": "Public Hunting on DU Projects in South Carolina",
+                    "url": "https://www.ducks.org/hunting/waterfowl-hunting-destinations/public-hunting-on-du-projects-in-south-carolina",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.ducks.org \u203a waterfowl-hunting-destinations",
+                    "website_name": "Ducks Unlimited",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Looking for public hunting opportunities in South Carolina? Check out Ducks Unlimited, which offers access to prime hunting land throughout the state.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.ducks.org",
+                        "url": "https://www.ducks.org/hunting/waterfowl-hunting-destinations/public-hunting-on-du-projects-in-south-carolina",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgHqCayEQccy1Q22h2kpz2RL9CvgpY4D_AvaQWOx_QWjb4sMDgT3y&usqp=CAE&s"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Ducks Unlimited"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1924.66,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "rank_absolute": 11,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[16]/div[1]/div[1]",
+                    "domain": "www.divebombindustries.com",
+                    "title": "Palmetto State Ducks Hunting Opportunities in South ...",
+                    "url": "https://www.divebombindustries.com/blogs/news/palmetto-state-ducks-hunting-opportunities-in-south-carolina?srsltid=AfmBOophkGdgWnMjGOr-MuAGCsVK4O37HoS601YXdixmZeOU6vaK-kEy",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.divebombindustries.com \u203a blogs \u203a news \u203a p...",
+                    "website_name": "Dive Bomb Industries",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Apr 30, 2025 \u2014 This guide explores South Carolina's prime hunting locations, common waterfowl species, and essential tips to ensure a successful duck hunting experience in\u00a0... Read more",
+                    "pre_snippet": "04/30/2025 00:00:00",
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.divebombindustries.com",
+                        "url": "https://www.divebombindustries.com/blogs/news/palmetto-state-ducks-hunting-opportunities-in-south-carolina?srsltid=AfmBOophkGdgWnMjGOr-MuAGCsVK4O37HoS601YXdixmZeOU6vaK-kEy",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfO9H7LYIQ9q85PzVjTSc3gJJDxxoOZCBZpIqtB_yFidfiT_IXvVOR&usqp=CAE&s"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "South Carolina's prime hunting locations"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-04-30 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2071.19,
+                      "width": 652,
+                      "height": 138.53
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "rank_absolute": 12,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[18]/div[1]/div[1]",
+                    "domain": "www.reddit.com",
+                    "title": "SC duck hunting rant. Sorry. : r/Duckhunting",
+                    "url": "https://www.reddit.com/r/Duckhunting/comments/1hu62cp/sc_duck_hunting_rant_sorry/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "20+ comments  \u00b7  1 year ago",
+                    "website_name": "Reddit\u00a0\u00b7\u00a0r/Duckhunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "All these birds constantly sit on private impoundments or private game lands you can't hunt. 90% of the coast it's now allowed to be hunted by\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "hunt"
+                    ],
+                    "links": [
+                      {
+                        "type": "link_element",
+                        "title": "Advice for hunting coastal South Carolina : r/Duckhunting",
+                        "description": null,
+                        "url": "https://www.reddit.com/r/Duckhunting/comments/1i0novz/advice_for_hunting_coastal_south_carolina/",
+                        "domain": "www.reddit.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "New to duck hunting. : r/Duckhunting - Reddit",
+                        "description": null,
+                        "url": "https://www.reddit.com/r/Duckhunting/comments/15vty8z/new_to_duck_hunting/",
+                        "domain": "www.reddit.com"
+                      },
+                      {
+                        "type": "link_element",
+                        "title": "More results from www.reddit.com",
+                        "description": null,
+                        "url": "https://www.google.com/search?q=duck+hunting+sc+site:www.reddit.com&sca_esv=b5576d60e09f6916&hl=en&gl=US&sa=X&ved=2ahUKEwjAtt78g5GUAxW9TaQEHa7jGhkQrQIoAnoECDoQAw",
+                        "domain": "www.google.com"
+                      }
+                    ],
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2239.72,
+                      "width": 652,
+                      "height": 187.86
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 9,
+                    "rank_absolute": 13,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[1]/div[2]/div[1]/div[1]/div[20]/div[1]/div[1]",
+                    "domain": "www.eregulations.com",
+                    "title": "Waterfowl Hunting & Baiting - South Carolina",
+                    "url": "https://www.eregulations.com/southcarolina/hunting/waterfowl-hunting-baiting",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.eregulations.com \u203a South Carolina",
+                    "website_name": "eRegulations",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Shooting hours for waterfowl are 1/2 hour before sunrise until sunset except where noted during early seasons. Shooting hours are uniform statewide. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.eregulations.com",
+                        "url": "https://www.eregulations.com/southcarolina/hunting/waterfowl-hunting-baiting",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YtxBh1QqWUuf-GThrrK88LKE9Cpv3BscQJVbzxXkzsdvVaAVcPyt&usqp=CAE&s"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "1/2 hour before sunrise until sunset"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2457.58,
+                      "width": 652,
+                      "height": 116.53
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 1,
+                    "rank_absolute": 14,
+                    "page": 1,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[13]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "SC Duck hunting season",
+                      "Duck hunting sc public land",
+                      "Duck hunting sc regulations",
+                      "Best duck hunting sc",
+                      "SC duck season 25 26",
+                      "Sc duck hunting Laws",
+                      "Scdnr duck hunting",
+                      "SC WMA duck hunting"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 2632.11,
+                      "width": 652,
+                      "height": 240
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 10,
+                    "rank_absolute": 15,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                    "domain": "www.facebook.com",
+                    "title": "Guides for deer and wild duck hunting in SC?",
+                    "url": "https://www.facebook.com/groups/1461933637237182/posts/24353709787632909/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "20+ comments  \u00b7  7 months ago",
+                    "website_name": "Facebook\u00a0\u00b7\u00a0South Carolina WMA Hunters",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "ISO hunting guides for deer and duck/goose in SC, preferably the upstate. Thanks in advance! Preferably not farm raised ducks. Matt Phillips and\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.facebook.com",
+                        "url": "https://www.facebook.com/groups/1461933637237182/posts/24353709787632909/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:2"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "ISO hunting guides for deer and duck/goose in SC"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 182,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 11,
+                    "rank_absolute": 16,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                    "domain": "www.toneycreekplantation.com",
+                    "title": "Toney Creek Hunting Plantation Belton, SC 29627",
+                    "url": "https://www.toneycreekplantation.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.toneycreekplantation.com",
+                    "website_name": "Toney Creek Plantation",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "We offer exceptional waterfowl and upland hunting packages. Overnight accommodations are also available upon request. Come experience phenomenal wing shooting\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.toneycreekplantation.com",
+                        "url": "https://www.toneycreekplantation.com/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:3"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "We offer exceptional waterfowl and upland hunting packages"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 328,
+                      "width": 652,
+                      "height": 138
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 12,
+                    "rank_absolute": 17,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+                    "domain": "www.youtube.com",
+                    "title": "South Carolina Public Land Duck Hunting / TWO MAN LIMIT ...",
+                    "url": "https://www.youtube.com/watch?v=S0tWYCJSQJA",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "4K+ views  \u00b7  4 months ago",
+                    "website_name": "YouTube\u00a0\u00b7\u00a0SC Outdoor Hunting",
+                    "is_image": false,
+                    "is_video": true,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Welcome to the 2025 Duck season here in South Carolina ! Join along in this episode for some awesome hunts to start off the duck season.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "the 2025 Duck season here in South Carolina"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": "2025-12-04 00:00:00 +00:00",
+                    "rectangle": {
+                      "x": 230,
+                      "y": 496,
+                      "width": 652,
+                      "height": 163
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 13,
+                    "rank_absolute": 18,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[1]/div[1]",
+                    "domain": "scwa.org",
+                    "title": "South Carolina Waterfowl Association: scwa.org",
+                    "url": "https://scwa.org/?srsltid=AfmBOorQPYqFPMO3bGvtIGOYoXKh7qdrnJkeVkTTMx8Zoc8jybVNEAeV",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://scwa.org",
+                    "website_name": "South Carolina Waterfowl Association",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "The South Carolina Waterfowl Association exists to enhance and perpetuate our wildlife heritage through education and habitat conservation. Become a Member. Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from scwa.org",
+                        "url": "https://scwa.org/?srsltid=AfmBOorQPYqFPMO3bGvtIGOYoXKh7qdrnJkeVkTTMx8Zoc8jybVNEAeV",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:4"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Waterfowl"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 689,
+                      "width": 652,
+                      "height": 138
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 14,
+                    "rank_absolute": 19,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[5]/div[1]/div[1]",
+                    "domain": "www.carolinasportsman.com",
+                    "title": "Wood ducks: waterfowl for the everyman",
+                    "url": "https://www.carolinasportsman.com/content/everymans-duck/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.carolinasportsman.com \u203a everymans-duck",
+                    "website_name": "Carolina Sportsman",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Hunters in North Carolina and South Carolina are allowed to take three wood ducks per day as part of their six-bird bag limit. Mathis and his partner, Mike\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.carolinasportsman.com",
+                        "url": "https://www.carolinasportsman.com/content/everymans-duck/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:5"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Hunters in North Carolina and South Carolina are allowed to take three wood ducks per day"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 857,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 15,
+                    "rank_absolute": 20,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[6]/div[1]/div[1]",
+                    "domain": "www.ultimatewaterfowlhunting.com",
+                    "title": "Directory of South Carolina Waterfowl Hunting Lodges, ...",
+                    "url": "https://www.ultimatewaterfowlhunting.com/usa/south-carolina/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.ultimatewaterfowlhunting.com \u203a usa \u203a south...",
+                    "website_name": "Ultimate Waterfowl Hunting",
+                    "is_image": false,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Ultimate Waterfowl Hunting is the largest directory for South Carolina Waterfowl Hunting guides, outfitters, lodges and private land.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": null,
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "Ultimate Waterfowl Hunting"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1003,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 16,
+                    "rank_absolute": 21,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[7]/div[1]/div[1]",
+                    "domain": "almostheavenplantation.com",
+                    "title": "Duck Hunting",
+                    "url": "https://almostheavenplantation.com/duck-hunting/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://almostheavenplantation.com \u203a duck-hunting",
+                    "website_name": "Almost Heaven Plantation",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Experience South Carolina duck hunting at Almost Heaven Plantation with managed wetlands, expert guides, and memorable mornings in the Lowcountry.",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from almostheavenplantation.com",
+                        "url": "https://almostheavenplantation.com/duck-hunting/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:6"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "duck hunting"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1149,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 17,
+                    "rank_absolute": 22,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]",
+                    "domain": "recademics.com",
+                    "title": "What License Do You Need to Hunt Duck in South Carolina?",
+                    "url": "https://recademics.com/blog/hunting/south-carolina-duck-hunting-license",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://recademics.com \u203a Hunting",
+                    "website_name": "Recademics",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "To hunt waterfowl in South Carolina, you must have a valid hunting license plus a HIP permit and a South Carolina Migratory Waterfowl Permit, and you must also\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from recademics.com",
+                        "url": "https://recademics.com/blog/hunting/south-carolina-duck-hunting-license",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:7"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "hunt waterfowl in South Carolina",
+                      "hunting",
+                      "Waterfowl"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1295,
+                      "width": 652,
+                      "height": 138
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 18,
+                    "rank_absolute": 23,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[9]/div[1]/div[1]",
+                    "domain": "www.eregulations.com",
+                    "title": "General Migratory Bird Seasons, Shooting Hours, & Bag ...",
+                    "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.eregulations.com \u203a South Carolina",
+                    "website_name": "eRegulations",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "Statewide hunting hours shall be one-half hour before sunrise to sunset. Infographic on preventing hypothermia while hunting, featuring tips like dressing in\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.eregulations.com",
+                        "url": "https://www.eregulations.com/southcarolina/hunting/general-migratory-bird-seasons-shooting-hours-bag-limits",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:8"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "one-half hour before sunrise to sunset"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1463,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 19,
+                    "rank_absolute": 24,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[2]/div[2]/div[1]/div[1]/div[10]/div[1]/div[1]",
+                    "domain": "www.featherhornfarm.com",
+                    "title": "Featherhorn Farm | South Carolina Hunt Camp and Event ...",
+                    "url": "https://www.featherhornfarm.com/",
+                    "cache_url": null,
+                    "related_search_url": null,
+                    "breadcrumb": "https://www.featherhornfarm.com",
+                    "website_name": "Featherhorn Farm",
+                    "is_image": true,
+                    "is_video": false,
+                    "is_featured_snippet": false,
+                    "is_malicious": false,
+                    "is_web_story": false,
+                    "description": "We offer southern style quail hunting, duck hunting over flooded corn fields ... 7011 Governor Richardson Rd, Pinewood, SC 29125. Phone: (803)-883-6368\u00a0... Read more",
+                    "pre_snippet": null,
+                    "extended_snippet": null,
+                    "images": [
+                      {
+                        "type": "images_element",
+                        "alt": "duck hunting sc from www.featherhornfarm.com",
+                        "url": "https://www.featherhornfarm.com/",
+                        "image_url": "https://api.dataforseo.com/cdn/i/04282006-1118-0139-0000-7f9befe1cf74:9"
+                      }
+                    ],
+                    "amp_version": false,
+                    "rating": null,
+                    "price": null,
+                    "highlighted": [
+                      "duck hunting",
+                      "SC"
+                    ],
+                    "links": null,
+                    "faq": null,
+                    "extended_people_also_search": null,
+                    "about_this_result": null,
+                    "related_result": null,
+                    "timestamp": null,
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1609,
+                      "width": 652,
+                      "height": 116
+                    }
+                  },
+                  {
+                    "type": "related_searches",
+                    "rank_group": 2,
+                    "rank_absolute": 25,
+                    "page": 2,
+                    "position": "left",
+                    "xpath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                    "items": [
+                      "SC Duck hunting season",
+                      "Duck hunting sc public land",
+                      "Duck hunting sc regulations",
+                      "Best duck hunting sc",
+                      "SC duck season 25 26",
+                      "Sc duck hunting Laws",
+                      "Scdnr duck hunting",
+                      "SC WMA duck hunting"
+                    ],
+                    "rectangle": {
+                      "x": 230,
+                      "y": 1783,
+                      "width": 652,
+                      "height": 240
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

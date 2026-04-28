@@ -1,0 +1,480 @@
+{
+  "id": "W27b",
+  "topic": "Iowa Hunting Land: How to Find and Access Premium Private Ground",
+  "primary_keyword": "iowa hunting land",
+  "slug": "iowa_hunting_land",
+  "primary_keyword_data": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282009-1118-0093-0000-80408a984b26",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "iowa hunting land",
+            "location_code": 2840,
+            "language_code": "en",
+            "search_partners": false,
+            "competition": 0.36,
+            "cpc": 0.34,
+            "search_volume": 170,
+            "categories": null,
+            "monthly_searches": [
+              {
+                "year": 2026,
+                "month": 3,
+                "search_volume": 110
+              },
+              {
+                "year": 2026,
+                "month": 2,
+                "search_volume": 140
+              },
+              {
+                "year": 2026,
+                "month": 1,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 12,
+                "search_volume": 320
+              },
+              {
+                "year": 2025,
+                "month": 11,
+                "search_volume": 390
+              },
+              {
+                "year": 2025,
+                "month": 10,
+                "search_volume": 260
+              },
+              {
+                "year": 2025,
+                "month": 9,
+                "search_volume": 170
+              },
+              {
+                "year": 2025,
+                "month": 8,
+                "search_volume": 210
+              },
+              {
+                "year": 2025,
+                "month": 7,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 6,
+                "search_volume": 70
+              },
+              {
+                "year": 2025,
+                "month": 5,
+                "search_volume": 90
+              },
+              {
+                "year": 2025,
+                "month": 4,
+                "search_volume": 140
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyword_suggestions": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282009-1118-0090-0000-f7a4021a23f5",
+        "status_code": 20000,
+        "result_count": 22,
+        "result": [
+          {
+            "keyword": "iowa hunting land",
+            "search_volume": 170,
+            "competition": 0.36,
+            "cpc": 0.34
+          },
+          {
+            "keyword": "iowa hunting land for sale",
+            "search_volume": 1300,
+            "competition": 0.25,
+            "cpc": 0.21
+          },
+          {
+            "keyword": "hunting ground for sale in iowa",
+            "search_volume": 1300,
+            "competition": 0.25,
+            "cpc": 0.21
+          },
+          {
+            "keyword": "iowa hunting property for sale",
+            "search_volume": 1300,
+            "competition": 0.25,
+            "cpc": 0.21
+          },
+          {
+            "keyword": "iowa hunting farms for sale",
+            "search_volume": 1300,
+            "competition": 0.25,
+            "cpc": 0.21
+          },
+          {
+            "keyword": "hunting land for lease in iowa",
+            "search_volume": 90,
+            "competition": 0.19,
+            "cpc": 0.74
+          },
+          {
+            "keyword": "hunting properties in iowa",
+            "search_volume": 170,
+            "competition": 0.36,
+            "cpc": 0.34
+          },
+          {
+            "keyword": "iowa hunting ground",
+            "search_volume": 170,
+            "competition": 0.36,
+            "cpc": 0.34
+          },
+          {
+            "keyword": "deer hunting land for sale in iowa",
+            "search_volume": 50,
+            "competition": 0.14,
+            "cpc": 0.25
+          },
+          {
+            "keyword": "iowa deer hunting property for sale",
+            "search_volume": 50,
+            "competition": 0.14,
+            "cpc": 0.25
+          },
+          {
+            "keyword": "iowa hunting land for sale by owner",
+            "search_volume": 10
+          },
+          {
+            "keyword": "deer hunting land in iowa",
+            "search_volume": 10
+          },
+          {
+            "keyword": "hunting land for sale in southern iowa",
+            "search_volume": 20
+          },
+          {
+            "keyword": "hunting cabin for sale iowa",
+            "search_volume": 10
+          },
+          {
+            "keyword": "hunting farms for sale in iowa",
+            "search_volume": 10
+          },
+          {
+            "keyword": "iowa duck hunting land for sale",
+            "search_volume": 10
+          },
+          {
+            "keyword": "iowa pheasant hunting land for sale",
+            "search_volume": 10
+          },
+          {
+            "keyword": "iowa county hunting land for sale",
+            "search_volume": 10
+          }
+        ]
+      }
+    ]
+  },
+  "primary_serp": {
+    "version": "0.1.20260420",
+    "status_code": 20000,
+    "tasks": [
+      {
+        "id": "04282009-1118-0139-0000-7c297e91e38c",
+        "status_code": 20000,
+        "result": [
+          {
+            "keyword": "iowa hunting land",
+            "se_results_count": 12800000,
+            "item_types": [
+              "organic",
+              "related_searches"
+            ],
+            "items": [
+              {
+                "type": "organic",
+                "rank_group": 1,
+                "domain": "www.landwatch.com",
+                "title": "Iowa Hunting Land for Sale",
+                "url": "https://www.landwatch.com/iowa-land-for-sale/hunting-property"
+              },
+              {
+                "type": "organic",
+                "rank_group": 2,
+                "domain": "www.iowadnr.gov",
+                "title": "Where to Hunt | Department of Natural Resources - Iowa DNR",
+                "url": "https://www.iowadnr.gov/things-do/hunting-trapping/where-hunt"
+              },
+              {
+                "type": "organic",
+                "rank_group": 3,
+                "domain": "www.whitetailproperties.com",
+                "title": "Iowa Land for Sale Find Your Middle of Nowhere",
+                "url": "https://www.whitetailproperties.com/hunting-land/iowa"
+              },
+              {
+                "type": "organic",
+                "rank_group": 4,
+                "domain": "kiloterra.com",
+                "title": "Hunting Land",
+                "url": "https://kiloterra.com/property-type/hunting/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 5,
+                "domain": "www.huntingleasenetwork.com",
+                "title": "Iowa Hunting Leases",
+                "url": "https://www.huntingleasenetwork.com/Land_for_Lease/viewlistings.asp?State=IA"
+              },
+              {
+                "type": "organic",
+                "rank_group": 6,
+                "domain": "landguys.com",
+                "title": "Iowa Hunting Land for Sale - 14 Properties",
+                "url": "https://landguys.com/iowa-listings/hunting/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 7,
+                "domain": "desmoinescounty.iowa.gov",
+                "title": "Where to Hunt - Conservation - Des Moines County, Iowa",
+                "url": "https://desmoinescounty.iowa.gov/conservation/hunt/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 8,
+                "domain": "www.hlrbo.com",
+                "title": "Iowa Hunting Leases",
+                "url": "https://www.hlrbo.com/search/results/us/ia"
+              },
+              {
+                "type": "organic",
+                "rank_group": 9,
+                "domain": "iowadnr.maps.arcgis.com",
+                "title": "Public Hunting Atlas",
+                "url": "https://iowadnr.maps.arcgis.com/apps/webappviewer/index.html"
+              },
+              {
+                "type": "organic",
+                "rank_group": 10,
+                "domain": "www.land.com",
+                "title": "Hunting Land for Sale in Iowa - 182 Properties",
+                "url": "https://www.land.com/Iowa/hunting-land/"
+              },
+              {
+                "type": "organic",
+                "rank_group": 17,
+                "domain": "landtrust.com",
+                "title": "Book access to private land in Iowa",
+                "url": "https://landtrust.com/us/iowa"
+              },
+              {
+                "type": "related_searches",
+                "items": [
+                  "Iowa hunting land for sale",
+                  "Iowa hunting land map",
+                  "Iowa hunting land for lease",
+                  "Iowa hunting land for sale by owner",
+                  "Cheap Iowa hunting Land for Sale by owner",
+                  "Iowa hunting land for sale under $50000",
+                  "Free public hunting land map Iowa",
+                  "Best Iowa public hunting land"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "secondary_serps": [
+    {
+      "keyword": "iowa hunting land for sale",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "tasks": [
+          {
+            "id": "04282009-1118-0139-0000-7596537e84d4",
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "iowa hunting land for sale",
+                "se_results_count": 4360000,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "www.landwatch.com",
+                    "title": "Iowa Hunting Land for Sale",
+                    "url": "https://www.landwatch.com/iowa-land-for-sale/hunting-property"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "www.whitetailproperties.com",
+                    "title": "Iowa Land for Sale Find Your Middle of Nowhere",
+                    "url": "https://www.whitetailproperties.com/hunting-land/iowa"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "kiloterra.com",
+                    "title": "Hunting Land",
+                    "url": "https://kiloterra.com/property-type/hunting/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "landguys.com",
+                    "title": "Iowa Hunting Land for Sale - 14 Properties",
+                    "url": "https://landguys.com/iowa-listings/hunting/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "www.highpointlandcompany.com",
+                    "title": "Hunting Land For Sale in Iowa - 11 Listings",
+                    "url": "https://www.highpointlandcompany.com/land/iowa/hunting/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "domain": "www.land.com",
+                    "title": "Hunting Land for Sale in Iowa - 182 Properties",
+                    "url": "https://www.land.com/Iowa/hunting-land/"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "Iowa hunting land for sale under $50000",
+                      "Iowa hunting land for sale by owner",
+                      "Cheap iowa hunting land for sale",
+                      "Iowa hunting land for lease",
+                      "Kansas hunting Land for Sale",
+                      "Missouri hunting Land for sale",
+                      "Whitetail properties Iowa"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "keyword": "iowa hunting land lease",
+      "serp": {
+        "version": "0.1.20260420",
+        "status_code": 20000,
+        "tasks": [
+          {
+            "id": "04282009-1118-0139-0000-67173cf7f7a9",
+            "status_code": 20000,
+            "result": [
+              {
+                "keyword": "iowa hunting land lease",
+                "se_results_count": 1140000,
+                "items": [
+                  {
+                    "type": "organic",
+                    "rank_group": 1,
+                    "domain": "www.basecampleasing.com",
+                    "title": "Iowa Hunting Leases",
+                    "url": "https://www.basecampleasing.com/searchstates/iowa_map.htm"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 2,
+                    "domain": "www.huntingleasenetwork.com",
+                    "title": "Iowa Hunting Leases",
+                    "url": "https://www.huntingleasenetwork.com/Land_for_Lease/viewlistings.asp?State=IA"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 3,
+                    "domain": "www.hlrbo.com",
+                    "title": "Iowa Hunting Leases",
+                    "url": "https://www.hlrbo.com/search/results/us/ia"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 4,
+                    "domain": "app.outdooraccess.com",
+                    "title": "Iowa Hunting Leases",
+                    "url": "https://app.outdooraccess.com/newsearch/19/000"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 5,
+                    "domain": "huntinglocator.com",
+                    "title": "Iowa Hunting and Deer Leases",
+                    "url": "https://huntinglocator.com/leases/state/iowa"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 6,
+                    "domain": "iowalandco.com",
+                    "title": "Hunting Leases",
+                    "url": "https://iowalandco.com/hunting-leases/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 7,
+                    "domain": "www.extension.iastate.edu",
+                    "title": "Legal Considerations for Hunting Leases",
+                    "url": "https://www.extension.iastate.edu/agdm/wholefarm/html/c2-45.html"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 8,
+                    "domain": "fulldrawiowa.com",
+                    "title": "Iowa Hunting Land Lease",
+                    "url": "https://fulldrawiowa.com/iowa-hunting-land-lease/"
+                  },
+                  {
+                    "type": "organic",
+                    "rank_group": 16,
+                    "domain": "landtrust.com",
+                    "title": "Book access to private land in Iowa",
+                    "url": "https://landtrust.com/us/iowa"
+                  },
+                  {
+                    "type": "related_searches",
+                    "items": [
+                      "Iowa hunting land lease prices",
+                      "Iowa hunting land lease by owner",
+                      "Iowa hunting land lease cost",
+                      "Iowa hunting lease prices",
+                      "Iowa hunting land for lease craigslist",
+                      "Iowa pheasant hunting lease",
+                      "Hunting land for lease in allamakee county iowa"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
