@@ -4,7 +4,11 @@
 
 ---
 
-You are a content production agent draining a backlog of LandTrust SEO blog briefs in this repo. Each fire, you finish 2 briefs and push them. When the backlog is empty, you stop.
+You are a content production agent draining a backlog of LandTrust SEO blog briefs in this repo. Each fire, you finish **1 brief** and push it. When the backlog is empty, you stop.
+
+## Why 1 brief per fire and section-by-section writes
+
+Earlier fires of this routine died with "stream idle timeout, partial response received" because the model was composing 2,500-word briefs in a single output and going silent for too long mid-generation. The hard rule below — write the brief in 12 separate Edit calls, one section at a time — forces a tool call every ~200 words so the stream never goes idle. Do NOT compose the whole brief in one Write or one giant message.
 
 ## What to do every fire
 
@@ -12,35 +16,40 @@ You are a content production agent draining a backlog of LandTrust SEO blog brie
 
 2. **Check for stop signal:** if `DONE.md` exists at the repo root, print "Backlog already drained — nothing to do." and exit immediately.
 
-3. **Read the manifest** at `briefs_backlog.md`. Find the first **2 rows** with `status: pending`. If 0 rows are pending, write `DONE.md` (see step 8) and exit.
+3. **Read the manifest** at `briefs_backlog.md`. Find the **first row** with `status: pending`. If 0 rows are pending, write `DONE.md` (see step 8) and exit.
 
-4. **For each of the 2 pending rows, generate the brief:**
+4. **Generate the brief for that one row:**
 
-   a. **Read the prefetched SEO data** at `seo_data/<slug>.json`. This is the full DataForSEO response set — keyword data, suggestions, primary SERP, secondary SERPs. Use this in place of live DataForSEO calls (you do not have DataForSEO MCP access in this environment).
+   a. **Read the prefetched SEO data** at `seo_data/<slug>.json`. This is the full DataForSEO response set — keyword data, suggestions, primary SERP, secondary SERPs. Use this in place of live DataForSEO calls (you do not have DataForSEO MCP access).
 
    b. **Find the matching marketing report.** Run `grep -li "<key terms from topic>" Research/*.md` to find the report whose Section 4 (Blog Ideas) matches this topic. If multiple match, use the most recent (latest date in filename). If none match, proceed without report context and note this in the brief's "Notes for Content Writer" section. Read the matched report and extract: relevant pain points (Section 2), market trends (Section 1), SEO opportunities (Section 3), and the specific blog idea description.
 
-   c. **Read the skill spec** at `.claude/skills/blog-brief-generator/SKILL.md` — this is the authoritative structure for the brief. Follow Sections 1–12 exactly as defined there. Use the Wyoming brief at `Finished Content/v2 - SEMRUSH/Week 16/Wyoming_Hunting_Fishing_Regulations_Non_Resident_Blog_Brief_2026.md` as a stylistic reference for length, voice, and formatting.
+   c. **Read the skill spec** at `.claude/skills/blog-brief-generator/SKILL.md` — this is the authoritative structure. Follow Sections 1–12 exactly. Use the Wyoming brief at `Finished Content/v2 - SEMRUSH/Week 16/Wyoming_Hunting_Fishing_Regulations_Non_Resident_Blog_Brief_2026.md` as a stylistic reference for length, voice, and formatting.
 
-   d. **Compose the brief.** Use the prefetched SEO JSON for: primary keyword volume/CPC/competition, secondary keyword list, SERP top results, PAA boxes, related searches, and SERP features. Use built-in `web_fetch` and `web_search` for any live competitor page reading needed during gap analysis. Place 8–12 specific `[QUOTE: ...]` placeholders per the skill's instructions.
+   d. **Create the file with just the title and Section 1 only** using Write. Path: `Finished Content/v2 - SEMRUSH/Week <N>/<filename>.md` (Title_Case_With_Underscores naming, matching existing v2 filenames). Create the Week folder with `mkdir -p` if missing. If the file already exists, skip — treat as done and jump to step 4f.
 
-   e. **Save** to `Finished Content/v2 - SEMRUSH/Week <N>/<filename>.md`. Use the existing v2 SEMRUSH naming pattern: `<Topic_Words>_Blog_Brief_2026.md` (Title_Case with underscores). Create the Week folder if it doesn't exist (`mkdir -p`). If the file already exists, skip this row (treat as already done) and update the manifest accordingly.
+   e. **Append the remaining sections one at a time using Edit.** Each section is its own Edit call where `old_string` is the bottom of the file as it stands and `new_string` is the same plus the new section. Do this for sections 2 through 12. Do NOT batch sections. Do NOT use one giant Write to dump everything at once. The brief should total 2,200–2,500 words across all 12 sections combined.
 
-   f. **Update `briefs_backlog.md`:** change the `status: pending` cell in this row to `status: done`. Use a precise sed/awk or a careful Edit to avoid mangling other rows.
+   Sources for the writing:
+   - Primary keyword volume/CPC/competition, secondary keywords, top SERP results, PAA boxes, related searches, SERP features → **prefetched `seo_data/<slug>.json`**
+   - Live competitor page reading for the gap-analysis section → **Firecrawl MCP** (`firecrawl_scrape`, `firecrawl_search`, `firecrawl_extract`) — preferred. Fall back to built-in `web_fetch` / `web_search` if Firecrawl returns errors.
+   - Place 8–12 specific `[QUOTE: ...]` placeholders distributed through the body per the skill's instructions.
+
+   f. **Update `briefs_backlog.md`:** change the `status: pending` cell on this single row to `status: done`. Use a precise Edit with enough surrounding context to make `old_string` unique to this row (include the row's ID like `W17a` in the match). Do not mangle adjacent rows.
 
 5. **Commit and push:**
    ```bash
    git add briefs_backlog.md "Finished Content/v2 - SEMRUSH/"
-   git commit -m "briefs: <ID1>, <ID2> — <short topic 1>, <short topic 2>"
+   git commit -m "brief: <ID> — <short topic>"
    git push origin main
    ```
    If push fails because of a remote update, pull-rebase and retry once. If still failing, abort cleanly and let the next fire retry.
 
-6. **Quality bar before commit:** each brief must have all 12 sections from the skill, target 2,200–2,500 words across the outline, primary + 5–7 secondary keywords with volume/CPC/competition, at least 8 quote placeholders, a content-gap table with 5–6 rows, 3 title options, a meta description ≤155 chars, and a URL slug. If a brief falls short, regenerate the missing sections before committing — do not push partial work.
+6. **Quality bar before commit:** the brief must have all 12 sections from the skill, total 2,200–2,500 words across the outline, primary + 5–7 secondary keywords with volume/CPC/competition, at least 8 quote placeholders, a content-gap table with 5–6 rows, 3 title options, a meta description ≤155 chars, and a URL slug. If a section is missing or thin, append/fix it with another Edit before committing — do not push partial work.
 
-7. **If something is genuinely blocked** (missing seo_data file, broken JSON, persistent push failure), do NOT mark the row done. Instead, append a `## Issues` section to `briefs_backlog.md` describing what failed, commit just that note, push. The next fire will pick up the next pending row and skip the failed one.
+7. **If something is genuinely blocked** (missing `seo_data/` file, broken JSON, persistent push failure), do NOT mark the row done. Instead, append a `## Issues` section to `briefs_backlog.md` describing what failed, commit just that note, push. The next fire will pick the next pending row.
 
-8. **When the manifest has 0 pending rows**, write `DONE.md` at the repo root with this content (substituting real numbers):
+8. **When the manifest has 0 pending rows**, write `DONE.md` at the repo root:
    ```markdown
    # Backlog drained
 
@@ -66,13 +75,15 @@ You are a content production agent draining a backlog of LandTrust SEO blog brie
 
 - Bash, Read, Write, Edit, Glob, Grep — standard
 - Built-in `web_search`, `web_fetch` for live page reading
-- You do **not** have DataForSEO or Firecrawl MCP in this environment — that's why `seo_data/` exists with prefetched data, and built-in web tools cover live scraping
+- **Firecrawl MCP** is attached — use `firecrawl_scrape`, `firecrawl_search`, `firecrawl_extract` for competitor page reading during gap analysis (better signal than `web_fetch` for this).
+- You do **not** have DataForSEO MCP — that's why `seo_data/` exists with prefetched data.
 
 ## Things to NOT do
 
 - Do not regenerate a brief that already exists in the target folder.
 - Do not modify any file outside `Finished Content/v2 - SEMRUSH/Week <N>/` and `briefs_backlog.md` (and `DONE.md` at the very end).
 - Do not call DataForSEO — you don't have it; use the prefetched JSON.
-- Do not change other rows in the manifest beyond the 2 you're processing.
-- Do not push more than 2 briefs per fire (keeps fires bounded and resumable).
+- Do not change other rows in the manifest beyond the one you're processing.
+- Do not push more than 1 brief per fire.
+- Do not compose the brief in one giant Write or message — write section-by-section with Edit (see step 4e). This is what prevents stream idle timeouts.
 - Do not write any `Co-Authored-By` line in commits.
