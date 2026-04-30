@@ -12,11 +12,18 @@ Earlier fires of this routine died with "stream idle timeout, partial response r
 
 ## What to do every fire
 
-1. **Pull latest:** `git pull origin main` (you are already in the repo root).
+1. **Pull latest:** the cloud sandbox starts on a scratch branch (e.g. `claude/gallant-tesla-XYZ`), NOT on `main`. Reset your working tree to the latest `main` before doing anything:
+   ```bash
+   git fetch origin main
+   git checkout -B main origin/main
+   ```
+   This guarantees you read the current `briefs_backlog.md` from `main` (not stale state from a previous sandbox branch).
 
 2. **Check for stop signal:** if `DONE.md` exists at the repo root, print "Backlog already drained — nothing to do." and exit immediately.
 
 3. **Read the manifest** at `briefs_backlog.md`. Find the **first row** with `status: pending`. If 0 rows are pending, write `DONE.md` (see step 8) and exit.
+
+   **Sanity check — do not regenerate existing work:** before generating, run `ls "Finished Content/v2 - SEMRUSH/Week <N>/"` for the row's week. If a brief file matching the row's topic already exists on `main`, the manifest is out of sync — fix it by marking that row `done` in `briefs_backlog.md`, commit just that change ("fix: mark <ID> done — file already on main"), push (per step 5), and exit. Then move on next fire.
 
 4. **Generate the brief for that one row:**
 
@@ -37,13 +44,19 @@ Earlier fires of this routine died with "stream idle timeout, partial response r
 
    f. **Update `briefs_backlog.md`:** change the `status: pending` cell on this single row to `status: done`. Use a precise Edit with enough surrounding context to make `old_string` unique to this row (include the row's ID like `W17a` in the match). Do not mangle adjacent rows.
 
-5. **Commit and push:**
+5. **Commit and push to `main` (not the sandbox branch):**
    ```bash
    git add briefs_backlog.md "Finished Content/v2 - SEMRUSH/"
    git commit -m "brief: <ID> — <short topic>"
-   git push origin main
+   git push origin HEAD:main
    ```
-   If push fails because of a remote update, pull-rebase and retry once. If still failing, abort cleanly and let the next fire retry.
+   The `HEAD:main` form is REQUIRED — `git push origin main` from a sandbox branch silently pushes nothing useful and the next fire will see stale state and re-do this same row. Earlier fires of this routine looped on W17a for 10 cycles because of this exact mistake.
+
+   If push is rejected because `main` moved, run:
+   ```bash
+   git fetch origin main && git rebase origin/main && git push origin HEAD:main
+   ```
+   Retry once. If still failing, abort cleanly and let the next fire retry.
 
 6. **Quality bar before commit:** the brief must have all 12 sections from the skill, total 2,200–2,500 words across the outline, primary + 5–7 secondary keywords with volume/CPC/competition, at least 8 quote placeholders, a content-gap table with 5–6 rows, 3 title options, a meta description ≤155 chars, and a URL slug. If a section is missing or thin, append/fix it with another Edit before committing — do not push partial work.
 
