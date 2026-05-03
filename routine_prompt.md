@@ -1,5 +1,7 @@
 # Cloud routine prompt — LandTrust SEMRUSH v2 brief drainer
 
+> ⚠️ **This file is documentation. Editing it does NOT update the cron.** The routine on claude.ai stores its own copy of the prompt. After every change, push the new content to the cron via `RemoteTrigger action=update trigger_id=trig_018namShCPJmKCvKnn3HxAug` (see PROGRESS.md "How to fix common things" → "Edited routine_prompt.md and want the change live"). Skipping this step caused the 2026-05-03 W17b loop.
+
 > This is the verbatim prompt used by the `/schedule` recurring routine that finishes Weeks 17–33 of the v2 SEMRUSH content backlog. Keep it in sync with whatever is in the routine config on claude.ai.
 
 ---
