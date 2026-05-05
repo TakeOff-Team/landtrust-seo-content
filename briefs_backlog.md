@@ -45,7 +45,7 @@ This is the work queue for the cloud routine. Each row is one blog brief to gene
 | W31a  | 31   | Tue | Mississippi Hunting & Wildlife Management Guide                                    | mississippi hunting seasons              | mississippi_hunting_wildlife            | P1: State Seasons  | done    |
 | W31b  | 31   | Thu | Wild Game Processing 101: Field Dressing, Butchering, and Storage                  | wild game processing                     | wild_game_processing                    | P6: Lifestyle      | done    |
 | W32a  | 32   | Tue | Washington State Hunting Seasons: What to Know for 2026-2027                       | washington state hunting seasons         | washington_state_hunting_seasons        | P1: State Seasons  | done    |
-| W32b  | 32   | Thu | Montana Deer Hunting on Private Land: Access, Tags, and Tactics                    | montana deer hunting private land        | montana_deer_hunting_private_land       | P3: Species        | pending |
+| W32b  | 32   | Thu | Montana Deer Hunting on Private Land: Access, Tags, and Tactics                    | montana deer hunting private land        | montana_deer_hunting_private_land       | P3: Species        | done    |
 | W33a  | 33   | Tue | South Carolina Waterfowl Hunting Clubs and Where to Find Access                    | south carolina waterfowl hunting         | south_carolina_waterfowl_hunting        | P3: Species        | pending |
 | W33b  | 33   | Thu | Indiana Public and Private Hunting Land: Finding Access                            | indiana hunting land                     | indiana_hunting_land                    | P3: Species        | pending |
 
