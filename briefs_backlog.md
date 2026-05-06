@@ -47,7 +47,7 @@ This is the work queue for the cloud routine. Each row is one blog brief to gene
 | W32a  | 32   | Tue | Washington State Hunting Seasons: What to Know for 2026-2027                       | washington state hunting seasons         | washington_state_hunting_seasons        | P1: State Seasons  | done    |
 | W32b  | 32   | Thu | Montana Deer Hunting on Private Land: Access, Tags, and Tactics                    | montana deer hunting private land        | montana_deer_hunting_private_land       | P3: Species        | done    |
 | W33a  | 33   | Tue | South Carolina Waterfowl Hunting Clubs and Where to Find Access                    | south carolina waterfowl hunting         | south_carolina_waterfowl_hunting        | P3: Species        | done    |
-| W33b  | 33   | Thu | Indiana Public and Private Hunting Land: Finding Access                            | indiana hunting land                     | indiana_hunting_land                    | P3: Species        | pending |
+| W33b  | 33   | Thu | Indiana Public and Private Hunting Land: Finding Access                            | indiana hunting land                     | indiana_hunting_land                    | P3: Species        | done    |
 
 **Note:** Week 21 Thu (Decoding Trail Cameras) and Week 23 Thu (Food Plot Plants) are already `[BRIEF READY]` per the Content Calendar — excluded from this backlog.
 
